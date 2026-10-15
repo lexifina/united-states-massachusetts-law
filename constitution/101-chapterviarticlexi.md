@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter VI, OATHS AND SUBSCRIPTIONS; INCOMPATIBILITY OF AND EXCLUSION FROM OFFICES; PECUNIARY QUALIFICATIONS; COMMISSIONS; WRITS; CONFIRMATION OF LAWS; HABEAS CORPUS; THE ENACTING STYLE; CONTINUANCE OF OFFICERS; PROVISION FOR A FUTURE REVISAL OF THE CONSTITUTION, ETC. / Article XI.
+This form of government shall be enrolled on parchment and deposited in the secretary's office, and be a part of the laws of the land -- and printed copies thereof shall be prefixed to the book containing the laws of this commonwealth, in all future editions of the said laws. >

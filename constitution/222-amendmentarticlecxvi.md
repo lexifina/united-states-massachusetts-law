@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article CXVI.
+Article XXVI of part 1 of the Constitution of the Commonwealth is hereby amended by adding the following two sentences: No provision of the Constitution, however, shall be construed as prohibiting the imposition of the punishment of death. The general court may, for the purpose of protecting the general welfare of the citizens, authorize the imposition of the punishment of death by the courts of law having jurisdiction of crimes subject to the punishment of death.

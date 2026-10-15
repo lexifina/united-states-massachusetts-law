@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter II, EXECUTIVE POWER . Section I / Article IV.
+The governor shall have authority from time to time, at his discretion, to assemble and call together the councillors of this commonwealth for the time being; and the governor with the said councillors, or five of them at least, shall, and may, from time to time, hold and keep a council, for the ordering and directing the affairs of the commonwealth, agreeably to the constitution and the laws of the land.

@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article LVIII.
+Article I of Chapter III of Part the Second of the constitution is hereby amended by the addition of the following words: -- and provided also that the governor, with the consent of the council, may after due notice and hearing retire them because of advanced age or mental or physical disability. Such retirement shall be subject to any provisions made by law as to pensions or allowances payable to such officers upon their voluntary retirement. [Superseded by Amendments, Art. XCVIII.]

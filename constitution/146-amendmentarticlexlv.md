@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XLV.
+[The general court shall have power to provide by law for voting by qualified voters of the commonwealth who, at the time of an election, are absent from the city or town of which they are inhabitants in the choice of any officer to be elected or upon any question submitted at such election.] [Annulled and superseded by Amendments, Arts. LXXVI and CV.] [For compulsory voting, see Amendments, Art. LXI.

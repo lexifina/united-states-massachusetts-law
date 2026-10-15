@@ -1,0 +1,3 @@
+# ARTICLES OF AMENDMENT. / Article CIX.
+The first paragraph of Section 1 oF Article CI of the Amendments to the Constitution of the Commonwealth is hereby amended by striking out the second sentence and inserting in place thereof the following two sentences:-
+For purposes of said census every person shall be considered an inhabitant of the city or town of his usual place of residence in accordance with standards used by the United States from time to time in conducting the federal census required by Section 2 of Article I of the Constitution of the United States subject to such exceptions as the general court may provide by law. Said census shall specify the number of inhabitants of each precinct of each town and of each precinct and ward of each city.

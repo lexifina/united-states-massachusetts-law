@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article VII.
+Government is instituted for the common good; for the protection, safety, prosperity and happiness of the people; and not for the profit, honor, or private interest of any one man, family, or class of men: Therefore the people alone have an incontestable, unalienable, and indefeasible right to institute government; and to reform, alter, or totally change the same, when their protection, safety, prosperity and happiness require it.
