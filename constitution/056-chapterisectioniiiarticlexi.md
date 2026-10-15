@@ -1,0 +1,3 @@
+# PART THE SECOND / Chapter I, Section III / Article XI.
+The senate shall have the same powers in the like cases; and the governor and council shall have the same authority to punish in like cases. Provided that no imprisonment on the warrant or order of the governor, council, senate, or house of representatives, for either of the above described offences, be for a term exceeding thirty days.
+And the senate and house of representatives may try, and determine, all cases where their rights and privileges are concerned, and which, by the constitution, they have authority to try and determine, by committees of their own members, or in such other way as they may respectively think best.

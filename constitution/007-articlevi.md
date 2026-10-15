@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article VI.
+No man, nor corporation, or association of men, have any other title to obtain advantages, or particular and exclusive privileges, distinct from those of the community, than what arises from the consideration of services rendered to the public; and this title being in nature neither hereditary, nor transmissible to children, or descendants, or relations by blood, the idea of a man born a magistrate, lawgiver, or judge, is absurd and unnatural.

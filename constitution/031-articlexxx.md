@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article XXX.
+In the government of this commonwealth, the legislative department shall never exercise the executive and judicial powers, or either of them: the executive shall never exercise the legislative and judicial powers, or either of them: the judicial shall never exercise the legislative and executive powers, or either of them: to the end it may be a government of laws and not of men.
