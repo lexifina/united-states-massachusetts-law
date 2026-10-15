@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter III. JUDICIARY POWER. / Article IV.
+The judges of probate of wills, and for granting letters of administration, shall hold their courts at such place or places, on fixed days, as the convenience of the people shall require; and the legislature shall, from time to time, hereafter appoint such times and places; until which appointments, the said courts shall be holden at the times and places which the respective judges shall direct.

@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XXIX.
+The general court shall have full power and authority to provide for the inhabitants of the towns in this commonwealth more than one place of public meeting within the limits of each town for the election of officers under the constitution, and to prescribe the manner of calling, holding and conducting such meetings. All the provisions of the existing constitution inconsistent with the provisions herein contained are hereby annulled. [For absent voting, see Amendments, Arts. XLV and LXXVI.]

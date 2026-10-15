@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XIX.
+The legislature shall prescribe, by general law, for the election of sheriffs, registers of probate, [commissioners of insolvency,] and clerks of the courts, by the people of the several counties, and that district-attorneys shall be chosen by the people of the several districts, for such term of office as the legislature shall prescribe. [See Amendments, Art.XXXVI.
