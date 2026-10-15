@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XLVII.
+The maintenance and distribution at reasonable rates, during time of war, public exigency, emergency or distress, of a sufficient supply of food and other common necessaries of life and the providing of shelter, are public functions, and the commonwealth and the cities and towns therein may take and may provide the same for their inhabitants in such manner as the general court shall determine.

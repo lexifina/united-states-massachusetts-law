@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article IV.
+The people of this commonwealth have the sole and exclusive right of governing themselves, as a free, sovereign, and independent state; and do, and forever hereafter shall, exercise and enjoy every power, jurisdiction, and right, which is not, or may not hereafter, be by them expressly delegated to the United States of America in Congress assembled.

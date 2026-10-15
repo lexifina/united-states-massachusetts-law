@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article I.
+All men are born free and equal, and have certain natural, essential, and unalienable rights; among which may be reckoned the right of enjoying and defending their lives and liberties; that of acquiring, possessing, and protecting property; in fine, that of seeking and obtaining their safety and happiness. [Annulled by Amendments, Art. CVI.]

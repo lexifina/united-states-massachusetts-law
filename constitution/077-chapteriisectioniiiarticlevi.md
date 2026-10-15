@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter II, Section III. / Article VI.
+[Whenever the office of the governor and lieutenant governor shall be vacant, by reason of death, absence, or otherwise, then the council, or the major part of them, shall during such vacancy have full power and authority to do, and execute, all and every such acts, matters and things, as the governor or the lieutenant governor might or could, by virtue of this constitution, do or execute, if they or either of them, were personally present.] [Annulled and superseded by Amendments, Art. LV.]

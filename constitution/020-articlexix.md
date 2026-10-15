@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article XIX.
+The people have a right, in an orderly and peaceable manner, to assemble to consult upon the common good; give instructions to their representatives, and to request of the legislative body, by the way of addresses, petitions, or remonstrances, redress of the wrongs done them, and of the grievances they suffer. [See Amendments, Art. XLVIII, The Initiative, II, sec. 2.]

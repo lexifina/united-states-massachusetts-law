@@ -1,0 +1,3 @@
+# ARTICLES OF AMENDMENT. / Article LV.
+Article VI of Section III of Chapter II of the constitution is hereby annulled and the following is adopted in place thereof:
+Whenever the offices of governor and lieutenant-governor shall both be vacant, by reason of death, absence from the commonwealth, or otherwise, then one of the following officers, in the order of succession herein named, namely, the secretary, attorney-general, treasurer and receiver-general, and auditor, shall, during such vacancy, have full power and authority to do and execute all and every such acts, matters and things as the governor or the lieutenant-governor might or could lawfully do or execute, if they, or either of them, were personally present.

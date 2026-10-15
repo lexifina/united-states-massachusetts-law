@@ -1,0 +1,5 @@
+# ARTICLES OF AMENDMENT. / Article LXII.
+Section 1. The credit of the commonwealth shall not in any manner be given or loaned to or in aid of any individual, or of any private association, or of any corporation which is privately owned and managed.] [Superseded by Amendments, Art. LXXXIV.]
+Section 2. The commonwealth may borrow money to repel invasion, suppress insurrection, defend the commonwealth, or to assist the United States in case of war, and may also borrow money in anticipation of receipts from taxes or other sources, such loan to be paid out of the revenue of the year in which it is created.
+Section 3. In addition to the loans which may be contracted as before provided, the commonwealth may borrow money only by a vote, taken by the yeas and nays, of two-thirds of each house of the general court present and voting thereon. The governor shall recommend to the general court the term for which any loan shall be contracted.
+Section 4. Borrowed money shall not be expended for any other purpose than that for which it was borrowed or for the reduction or discharge of the principal of the loan.

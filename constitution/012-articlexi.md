@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article XI.
+Every subject of the commonwealth ought to find a certain remedy, by having recourse to the laws, for all injuries or wrongs which he may receive in his person, property, or character. He ought to obtain right and justice freely, and without being obliged to purchase it; completely, and without any denial; promptly, and without delay; conformably to the laws.

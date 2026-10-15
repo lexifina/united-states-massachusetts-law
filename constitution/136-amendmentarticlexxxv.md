@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XXXV.
+So much of article two of section three of chapter one of the constitution of the commonwealth as is contained in the following words: "The expenses of travelling to the general assembly, and returning home, once in every session, and no more, shall be paid by the government, out of the public treasury, to every member who shall attend as seasonably as he can, in the judgment of the house, and does not depart without leave", is hereby annulled.
