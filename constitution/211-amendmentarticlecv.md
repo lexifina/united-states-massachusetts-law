@@ -1,0 +1,3 @@
+# ARTICLES OF AMENDMENT. / Article CV.
+Article XLV of the articles of amendment to the constitution, as amended by Article LXXVI of said articles of amendment, is hereby annulled and the following is adopted in place thereof:-
+Article XLV. The general court shall have power to provide by law for voting, in the choice of any officer to be elected or upon any question submitted at an election, by qualified voters of the commonwealth who, at the time of such an election, are absent from the city or town of which they are inhabitants or are unable by reason of physical disability to cast their votes in person at the polling places or who hold religious beliefs in conflict with the act of voting on the day on which such an election is to be held.

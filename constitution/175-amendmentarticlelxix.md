@@ -1,0 +1,3 @@
+# ARTICLES OF AMENDMENT. / Article LXIX.
+Section 1. No person shall be deemed to be ineligible to hold state, county or municipal office by reason of sex.
+Section 2. Article IV of the articles of amendment of the constitution of the commonwealth, as amended by Article LVII of said amendments, is hereby further amended by striking out the words "Change of name shall render the commission void, but shall not prevent reappointment under the new name", and inserting in place thereof the following words: -- Upon the change of name of any woman, she shall re-register under her new name and shall pay such fee therefor as shall be established by the general court.

@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter I, Section III / Article IV.
+[Every male person, being twenty-one years of age, and resident in any particular town in this commonwealth for the space of one year next preceding, having a freehold estate within the same town, of the annual income of three pounds, or any estate of the value of sixty pounds, shall have a right to vote in the choice of a representative, or representatives for the said town.] [See Amendments, Arts. III, XX, XXIII, XXVI, XXVIII, XXX, XXXI, XXXII, XLV, LXXVI, XCIII, XCIV, XCV, and C.]

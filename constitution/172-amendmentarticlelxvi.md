@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article LXVI.
+On or before January first, nineteen hundred twenty-one, the executive and administrative work of the commonwealth shall be organized in not more than twenty departments, in one of which every executive and administrative office, board and commission, except those officers serving directly under the governor or the council, shall be placed. Such departments shall be under such supervision and regulation as the general court may from time to time prescribe by law. [Annulled by Amendments, Art. LXXXVII.]

@@ -1,0 +1,3 @@
+# ARTICLES OF AMENDMENT. / Article LIV.
+Article VII of Section I of Chapter II of the constitution is hereby annulled and the following is adopted in place thereof:
+Article VII. The general court shall provide by law for the recruitment, equipment, organization, training and discipline of the military and naval forces. The governor shall be the commander-in-chief thereof, and shall have power to assemble the whole or any part of them for training, instruction or parade, and to employ them for the suppression of rebellion, the repelling of invasion, and the enforcement of the laws. He may, as authorized by the general court, prescribe from time to time the organization of the military and naval forces and make regulations for their government.

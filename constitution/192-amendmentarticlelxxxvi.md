@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article LXXXVI.
+Names of candidates of political parties for the offices of governor and lieutenant-governor shall be grouped on the official ballot for use at state elections according to the parties they represent, and the voter may cast a single vote for any such group, which shall count as a vote for each candidate in such group, but may not cast a vote for only one of the candidates in such group.

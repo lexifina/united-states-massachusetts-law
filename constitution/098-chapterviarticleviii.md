@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter VI, OATHS AND SUBSCRIPTIONS; INCOMPATIBILITY OF AND EXCLUSION FROM OFFICES; PECUNIARY QUALIFICATIONS; COMMISSIONS; WRITS; CONFIRMATION OF LAWS; HABEAS CORPUS; THE ENACTING STYLE; CONTINUANCE OF OFFICERS; PROVISION FOR A FUTURE REVISAL OF THE CONSTITUTION, ETC. / Article VIII.
+The enacting style, in making and passing all acts, statutes and laws, shall be -- "Be it enacted by the Senate and House of Representatives in General Court assembled, and by the authority of the same.">

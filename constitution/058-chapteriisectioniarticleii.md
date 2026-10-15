@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter II, EXECUTIVE POWER . Section I / Article II.
+The governor shall be chosen [annually]; and no person shall be eligible to this office, unless at the time of his election, he shall have been an inhabitant of this commonwealth for seven years next preceding; [and unless he shall at the same time, be seised in his own right, of a freehold within the commonwealth of the value of one thousand pounds; and unless he shall declare himself to be of the Christian religion.] [See Amendments, Arts. VII,XXXIV, LXIV and LXXX.]

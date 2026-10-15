@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article CXVIII.
+The base compensation as of January first, nineteen hundred and ninety-six, of members of the general court shall not be changed except as provided in this article. As of the first Wednesday in January of the year two thousand and one and every second year thereafter, such base compensation shall be increased or decreased at the same rate as increases or decreases in the median household income for the commonwealth for the preceding two year period, as ascertained by the governor.

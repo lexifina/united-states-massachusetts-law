@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article XXVIII.
+No person can in any case be subject to law-martial, or to any penalties or pains, by virtue of that law, except those employed in the army or navy, and except the militia in actual service, but by authority of the legislature. [See Amendments, Art. XLVIII, The Initiative, II, sec. 2.]

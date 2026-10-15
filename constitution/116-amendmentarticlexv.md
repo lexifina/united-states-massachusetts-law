@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XV.
+[The meeting for the choice of governor, lieutenant-governor, senators and representatives, shall be held on the Tuesday next after the first Monday in November, annually; but in case of a failure to elect representatives on that day, a second meeting shall be holden for that purpose on the fourth Monday of the same month of November.] [See Amendments, Arts LXIV and LXXX.

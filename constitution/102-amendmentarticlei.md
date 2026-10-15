@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article I.
+[If any bill or resolve shall be objected to, and not approved by the governor; and if the general court shall adjourn within five days after the same shall have been laid before the governor for his approbation, and thereby prevent his returning it with his objections, as provided by the constitution, such bill or resolve shall not become a law, nor have force as such.] [See Constitution, Chapter 1, Section 1, Article II. ] [Superseded by Amendments, Art. XC, Sec. 2.]

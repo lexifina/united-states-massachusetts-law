@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XLIII.
+The general court shall have power to authorize the commonwealth to take land and to hold, improve, sub-divide, build upon and sell the same, for the purpose of relieving congestion of population and providing homes for citizens; provided, however, that this amendment shall not be deemed to authorize the sale of such land or buildings at less than the cost thereof.

@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article XVII.
+The people have a right to keep and to bear arms for the common defence. And as, in time of peace, armies are dangerous to liberty, they ought not to be maintained without the consent of the legislature; and the military power shall always be held in an exact subordination to the civil authority, and be governed by it.

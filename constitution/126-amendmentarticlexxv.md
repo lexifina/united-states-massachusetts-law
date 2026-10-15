@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XXV.
+In case of a vacancy in the council, from a failure of election or other cause, the senate and house of representatives shall, by concurrent vote, choose some eligible person from the people of the district wherein such vacancy occurs, to fill that office. If such vacancy shall happen when the legislature is not in session, the governor, with the advice and consent of the council, may fill the same by appointment of some eligible person.

@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article LXV.
+No person elected to the general court shall during the term for which he was elected be appointed to any office created or the emoluments whereof are increased during such term, nor receive additional salary or compensation for service upon any recess committee or commission except a committee appointed to examine a general revision of the statutes of the commonwealth when submitted to the general court for adoption.

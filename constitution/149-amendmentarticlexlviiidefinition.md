@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XLVIII. / I. Definition.
+Legislative power shall continue to be vested in the general court; but the people reserve to themselves the popular initiative, which is the power of a specified number of voters to submit constitutional amendments and laws to the people for approval or rejection; and the popular referendum, which is the power of a specified number of voters to submit laws, enacted by the general court, to the people for their ratification or rejection.

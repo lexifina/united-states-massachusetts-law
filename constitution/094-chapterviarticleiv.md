@@ -1,0 +1,2 @@
+# PART THE SECOND / Chapter VI, OATHS AND SUBSCRIPTIONS; INCOMPATIBILITY OF AND EXCLUSION FROM OFFICES; PECUNIARY QUALIFICATIONS; COMMISSIONS; WRITS; CONFIRMATION OF LAWS; HABEAS CORPUS; THE ENACTING STYLE; CONTINUANCE OF OFFICERS; PROVISION FOR A FUTURE REVISAL OF THE CONSTITUTION, ETC. / Article IV.
+All commissions shall be in the name of the Commonwealth of Massachusetts, signed by the governor and attested by the secretary or his deputy, and have the great seal of the commonwealth affixed thereto.

@@ -1,0 +1,4 @@
+# ARTICLES OF AMENDMENT. / Article CXIX.
+Section 1. Section 1 of Article CI of the Articles of Amendment to the Constitution is hereby amended by striking out the first paragraph, as appearing in section 1 of CXVII of said Articles of Amendment, and inserting in place thereof the following paragraph:--
+The federal census shall be the basis for determining the representative districts for the ten year period beginning with the first Wednesday in the third January following the taking of said census.
+Section 2. Section 2 of said Article CI is hereby amended by striking out the first sentence, as appearing in section 2 of said Article CXVII, and inserting in place thereof the following sentence:-- Said federal census shall likewise be the basis for determining the senatorial districts and also the councillor districts for the ten year period beginning with the first Wednesday in the third January following the taking of said census.

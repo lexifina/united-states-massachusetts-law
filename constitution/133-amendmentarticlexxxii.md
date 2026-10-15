@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XXXII.
+So much of article three of the amendments of the constitution of the commonwealth as is contained in the following words: "and who shall have paid, by himself, or his parent, master, or guardian, any state or county tax, which shall, within two years next preceding such election, have been assessed upon him, in any town or district of this commonwealth; and also every citizen who shall be, by law, exempted from taxation, and who shall be, in all other respects, qualified as above mentioned", is hereby annulled.

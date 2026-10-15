@@ -1,0 +1,2 @@
+# ARTICLES OF AMENDMENT. / Article XXX.
+No person, otherwise qualified to vote in elections for governor, lieutenant-governor, senators, and representatives, shall, by reason of a change of residence within the commonwealth, be disqualified from voting for said officers in the city or town from which he has removed his residence, until the expiration of six calendar months from the time of such removal. [For absent and compulsory voting, see Amendments, Arts. XLV, LXI and LXXVI.]

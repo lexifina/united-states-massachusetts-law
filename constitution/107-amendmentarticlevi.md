@@ -1,0 +1,4 @@
+# ARTICLES OF AMENDMENT. / Article VI.
+Instead of the oath of allegiance prescribed by the constitution, the following oath shall be taken and subscribed by every person chosen or appointed to any office, civil or military under the government of this commonwealth, before he shall enter on the duties of his office, to wit: >
+"I, A. B. do solemnly swear, that I will bear true faith and allegiance to the Commonwealth of Massachusetts, and will support the constitution thereof. So help me God."
+Provided, That when any person shall be of the denomination called Quakers, and shall decline taking said oath, he shall make his affirmation in the foregoing form, omitting the word "swear" and inserting instead thereof the word "affirm;" and omitting the words "So help me God," and subjoining, instead thereof, the words "This I do under the pains and penalties of perjury." [see Constitution, Chapter VI, Art. I].

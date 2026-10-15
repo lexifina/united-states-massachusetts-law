@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article XX.
+The power of suspending the laws, or the execution of the laws, ought never to be exercised but by the legislature, or by authority derived from it, to be exercised in such particular cases only as the legislature shall expressly provide for. [See Amendments, Arts. XLVIII, I, Definition and LXXXIX.]

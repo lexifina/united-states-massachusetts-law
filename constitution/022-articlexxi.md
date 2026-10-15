@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article XXI.
+The freedom of deliberation, speech and debate, in either house of the legislature, is so essential to the rights of the people, that it cannot be the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever. [See Amendments, Art. XLVIII, The Initiative, II, sec. 2.]

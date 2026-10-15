@@ -1,0 +1,2 @@
+# PART THE FIRST / A Declaration of the Rights of the Inhabitants of the Commonwealth of Massachusetts / Article VIII.
+In order to prevent those, who are vested with authority, from becoming oppressors, the people have a right, at such periods and in such manner as they shall establish by their frame of government, to cause their public officers to return to private life; and to fill up vacant places by certain and regular elections and appointments.
