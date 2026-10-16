@@ -1,0 +1,3 @@
+# Section 4GG: Coverage for treatment of pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections and pediatric acute-onset neuropsychiatric syndrome
+[Text of section applicable to contracts that take effect or are renewed on or after January 1, 2022. See 2020, 260, Sec. 74.]
+Section 4GG. Any individual or group health maintenance contract shall provide coverage for treatment of pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections and pediatric acute-onset neuropsychiatric syndrome including, but not limited to, the use of intravenous immunoglobulin therapy.
