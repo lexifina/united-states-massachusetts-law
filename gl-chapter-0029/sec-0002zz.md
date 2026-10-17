@@ -1,0 +1,4 @@
+# Section 2ZZ: Catastrophic Illness in Children Relief Fund
+Section 2ZZ. (a) There is hereby established and set up on the books of the commonwealth a separate nonlapsing, revolving fund to be known as the Catastrophic Illness in Children Relief Fund, in this section called the fund. The fund shall be administered by The Catastrophic Illness in Children Relief Fund commission established in chapter 111K and shall be credited with monies received under sections 6, 9 and 10 of said chapter 111K.
+(b) The state treasurer, ex officio, shall be the custodian of the fund and shall receive, deposit and invest all monies transmitted to the treasurer under this section and shall credit interest and earnings on the fund to said fund.
+(c) The state treasurer shall adopt rules and regulations under chapter 30A on procedures for the collection of the fee established under section 9 of said chapter 111K.
