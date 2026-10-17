@@ -1,0 +1,6 @@
+# Section 2LLLLLL: Office of the Inspector General Recovery Fund
+[ Text of section added by 2025, 14, Sec. 18 effective August 5, 2025.]
+Section 2LLLLLL. (a) There shall be established and set up on the books of the commonwealth a separate, non-budgeted special revenue fund known as the Office of the Inspector General Recovery Fund, which shall be administered by the inspector general. The fund shall be credited with any money payable to the inspector general from civil recoveries, settlement funds or recoupment of administrative and investigatory costs and any interest earned from money in the fund.
+(b) Amounts credited to the fund shall be expended, without further appropriation, for the office of the inspector general's operational, administrative and investigatory purposes.
+(c) The unexpended balance in the fund at the end of a fiscal year shall not revert to the General Fund and shall be available for expenditure in subsequent fiscal years. No expenditure made from the fund shall cause the fund to be in deficit at any point.
+(d) Annually, not later than January 1, the office of the inspector general shall report to the house and senate committees on ways and means on disbursements from the fund and the balance of the fund.
