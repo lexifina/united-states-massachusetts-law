@@ -1,0 +1,2 @@
+# Section 2QQQ: Medical Assistance Trust Fund
+Section 2QQQ. There shall be established on the books of the commonwealth the Medical Assistance Trust Fund, which shall be administered by the secretary of health and human services. Funds from the trust fund may be expended for Medicaid payments to qualifying providers or care organizations under an approved state plan or federal waiver. Amounts credited to the trust fund shall not be subject to further appropriation.
