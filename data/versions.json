@@ -1,0 +1,145 @@
+{
+ "country": "MA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Mass. Const.",
+   "title": "Constitution of the Commonwealth of Massachusetts",
+   "url": "https://malegislature.gov/Laws/Constitution",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 229,
+     "source_url": "https://malegislature.gov/Laws/Constitution",
+     "sha256": "0da92e89babf377bedab6d03a98fbfed23756164d28cc417c836750a3db147be"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0183",
+   "short": "M.G.L. c. 183",
+   "title": "General Laws, Chapter 183: Alienation of land",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 85,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183",
+     "sha256": "ce4cb9dabe39d471af6e3f17661f942141f6d2f348c9a64646c8c032088a3504"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0186",
+   "short": "M.G.L. c. 186",
+   "title": "General Laws, Chapter 186: Estates for years and at will",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 41,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186",
+     "sha256": "6e3ecd27cac94dd6eba4bc6b07193bb3e7f8573b5f977767187349d9f4d0ae0f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0207",
+   "short": "M.G.L. c. 207",
+   "title": "General Laws, Chapter 207: Marriage",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter207",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 59,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter207",
+     "sha256": "80829c9a6ddd0361eab60ccf8cfdcaf8f7be15ba1926db97aeb05740ae024df0"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0208",
+   "short": "M.G.L. c. 208",
+   "title": "General Laws, Chapter 208: Divorce",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter208",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 71,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter208",
+     "sha256": "4dd9bd847c78a29d78eee9f199e9f491620f9e478f4d6376297d8f50a806dbd1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0231",
+   "short": "M.G.L. c. 231",
+   "title": "General Laws, Chapter 231: Pleading and practice",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 163,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231",
+     "sha256": "5b91a7f200a5c37c0e7e79700375d886fa8a5de1cfda5453876f30bc44715949"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0265",
+   "short": "M.G.L. c. 265",
+   "title": "General Laws, Chapter 265: Crimes against the person",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 96,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265",
+     "sha256": "db162f4f4f8c47b727e4c28367de5b347243f1af5f338dd6f285b20a6b0b342f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0266",
+   "short": "M.G.L. c. 266",
+   "title": "General Laws, Chapter 266: Crimes against property",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 218,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266",
+     "sha256": "123eb82194f4fba592bcf086de83c324e47f06cc4cbbfecc86dec87d8b1c2296"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0030a",
+   "short": "M.G.L. c. 30A",
+   "title": "General Laws, Chapter 30A: State administrative procedure",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30A",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 41,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30A",
+     "sha256": "132392c02129d5ae050a0fc2cf39d0543d7a6d6cfccbfc19244bb838804c0d56"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0066",
+   "short": "M.G.L. c. 66",
+   "title": "General Laws, Chapter 66: Public records",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 34,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66",
+     "sha256": "8ab00df235e11ef03241140368b7c7467cfbb4ed06c6fc79ee5a7bdd845c2994"
+    }
+   ]
+  }
+ ]
+}

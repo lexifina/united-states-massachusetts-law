@@ -1,0 +1,9 @@
+{
+  "path": "us-ma",
+  "code": "MA",
+  "name": "Massachusetts",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-massachusetts-law",
+  "build": "built: Constitution of the Commonwealth of Massachusetts with its 121 articles of amendment (one version, dated by the 2026-10-15 Common Crawl capture of the General Court's page); plus General Laws chapters 30A, 66, 183, 186, 207, 208, 231, 265, 266 (one version each, from web captures)",
+  "register_date": "2026-10-30"
+}
