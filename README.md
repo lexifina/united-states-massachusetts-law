@@ -1,5 +1,7 @@
 # Massachusetts: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Massachusetts, United States, which global-law reads at `united-states/massachusetts/acts/`.
+
 The Constitution of the Commonwealth of Massachusetts and chapters of the General Laws as a git repository: one file per article, section or article of amendment of the Constitution and one per section of the General Laws, committed with the General Court as its publisher. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/massachusetts/`.
 
 **What is in it now**
