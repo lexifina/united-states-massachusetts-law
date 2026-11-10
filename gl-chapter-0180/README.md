@@ -1,0 +1,65 @@
+# General Laws, Chapter 180: Corporations for charitable and certain other purposes
+
+M.G.L. c. 180 · 1 versions, from 2026-10-26 (latest in force: 2026-10-26) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter180>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| M.G.L. c. 180, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 180, § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| M.G.L. c. 180, § 3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| M.G.L. c. 180, § 3A | [sec-0003a.md](sec-0003a.md) | 0 |  |
+| M.G.L. c. 180, § 4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| M.G.L. c. 180, § 4A | [sec-0004a.md](sec-0004a.md) | 0 |  |
+| M.G.L. c. 180, § 5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| M.G.L. c. 180, § 6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| M.G.L. c. 180, § 6A | [sec-0006a.md](sec-0006a.md) | 0 |  |
+| M.G.L. c. 180, § 6B | [sec-0006b.md](sec-0006b.md) | 0 |  |
+| M.G.L. c. 180, § 6C | [sec-0006c.md](sec-0006c.md) | 0 |  |
+| M.G.L. c. 180, § 6D | [sec-0006d.md](sec-0006d.md) | 0 |  |
+| M.G.L. c. 180, § 7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| M.G.L. c. 180, § 7A | [sec-0007a.md](sec-0007a.md) | 0 |  |
+| M.G.L. c. 180, § 8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| M.G.L. c. 180, § 8A | [sec-0008a.md](sec-0008a.md) | 0 |  |
+| M.G.L. c. 180, § 9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| M.G.L. c. 180, § 9A | [sec-0009a.md](sec-0009a.md) | 0 |  |
+| M.G.L. c. 180, § 10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| M.G.L. c. 180, § 10A | [sec-0010a.md](sec-0010a.md) | 0 |  |
+| M.G.L. c. 180, § 10B | [sec-0010b.md](sec-0010b.md) | 0 |  |
+| M.G.L. c. 180, § 10C | [sec-0010c.md](sec-0010c.md) | 0 |  |
+| M.G.L. c. 180, § 11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| M.G.L. c. 180, § 11A | [sec-0011a.md](sec-0011a.md) | 0 |  |
+| M.G.L. c. 180, § 11B | [sec-0011b.md](sec-0011b.md) | 0 |  |
+| M.G.L. c. 180, § 11C | [sec-0011c.md](sec-0011c.md) | 0 |  |
+| M.G.L. c. 180, § 13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| M.G.L. c. 180, § 14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| M.G.L. c. 180, § 15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| M.G.L. c. 180, § 16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| M.G.L. c. 180, § 17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| M.G.L. c. 180, § 17A | [sec-0017a.md](sec-0017a.md) | 0 |  |
+| M.G.L. c. 180, § 17B | [sec-0017b.md](sec-0017b.md) | 0 |  |
+| M.G.L. c. 180, § 17C | [sec-0017c.md](sec-0017c.md) | 0 |  |
+| M.G.L. c. 180, § 17D | [sec-0017d.md](sec-0017d.md) | 0 |  |
+| M.G.L. c. 180, § 17E | [sec-0017e.md](sec-0017e.md) | 0 |  |
+| M.G.L. c. 180, § 17F | [sec-0017f.md](sec-0017f.md) | 0 |  |
+| M.G.L. c. 180, § 17G | [sec-0017g.md](sec-0017g.md) | 0 |  |
+| M.G.L. c. 180, § 17H | [sec-0017h.md](sec-0017h.md) | 0 |  |
+| M.G.L. c. 180, § 17I | [sec-0017i.md](sec-0017i.md) | 0 |  |
+| M.G.L. c. 180, § 17J | [sec-0017j.md](sec-0017j.md) | 0 |  |
+| M.G.L. c. 180, § 17K | [sec-0017k.md](sec-0017k.md) | 0 |  |
+| M.G.L. c. 180, § 17L | [sec-0017l.md](sec-0017l.md) | 0 |  |
+| M.G.L. c. 180, § 17M | [sec-0017m.md](sec-0017m.md) | 0 |  |
+| M.G.L. c. 180, § 17N | [sec-0017n.md](sec-0017n.md) | 0 |  |
+| M.G.L. c. 180, § 18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| M.G.L. c. 180, § 19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| M.G.L. c. 180, § 20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| M.G.L. c. 180, § 21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| M.G.L. c. 180, § 22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| M.G.L. c. 180, § 23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| M.G.L. c. 180, § 24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| M.G.L. c. 180, § 25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| M.G.L. c. 180, § 26 | [sec-0026.md](sec-0026.md) | 0 |  |
+| M.G.L. c. 180, § 26A | [sec-0026a.md](sec-0026a.md) | 0 |  |
+| M.G.L. c. 180, § 26B | [sec-0026b.md](sec-0026b.md) | 0 |  |
+| M.G.L. c. 180, § 27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| M.G.L. c. 180, § 28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| M.G.L. c. 180, § 29 | [sec-0029.md](sec-0029.md) | 0 |  |
