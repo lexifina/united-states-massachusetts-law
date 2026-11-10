@@ -16,6 +16,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0001",
+   "short": "M.G.L. c. 1",
+   "title": "General Laws, Chapter 1: Jurisdiction of the commonwealth and of the united states",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter1",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter1",
+     "sha256": "ec1bc048514930adcac9039d5ae4e21ce287814e4376f94c692925fceb1ea956"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0183",
    "short": "M.G.L. c. 183",
    "title": "General Laws, Chapter 183: Alienation of land",
@@ -40,6 +54,20 @@
      "units": 41,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186",
      "sha256": "6e3ecd27cac94dd6eba4bc6b07193bb3e7f8573b5f977767187349d9f4d0ae0f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0002",
+   "short": "M.G.L. c. 2",
+   "title": "General Laws, Chapter 2: Arms, great seal and other emblems of the commonwealth",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter2",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 66,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter2",
+     "sha256": "17146e84dd3ad03cca7e0c65e7544df0f49005edf4236990212044e6e2c86da1"
     }
    ]
   },
@@ -124,6 +152,20 @@
      "units": 41,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30A",
      "sha256": "132392c02129d5ae050a0fc2cf39d0543d7a6d6cfccbfc19244bb838804c0d56"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0004",
+   "short": "M.G.L. c. 4",
+   "title": "General Laws, Chapter 4: Statutes",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter4",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 20,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter4",
+     "sha256": "c89d021df55bfa4b632a6f586c0f116e438e4eb8d9e86599fdbbe3ab91618468"
     }
    ]
   },

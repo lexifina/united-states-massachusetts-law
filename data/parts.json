@@ -1,5 +1,11 @@
 {
  "parts": {
+  "gl-1.json": {
+   "acts": [
+    "gl-chapter-0001"
+   ],
+   "sha256": "05b22aad55c324c151f13ff14498a38f186852d26abe50c8ee24932ffee2c146"
+  },
   "gl-183.json": {
    "acts": [
     "gl-chapter-0183"
@@ -11,6 +17,12 @@
     "gl-chapter-0186"
    ],
    "sha256": "49bfd3c700556952962e6150d8031df2b35ec9a62afd20428335bf5c190b8ae5"
+  },
+  "gl-2.json": {
+   "acts": [
+    "gl-chapter-0002"
+   ],
+   "sha256": "99af31674a179b22bed583a477d4cc7eee40c47fecf90ef575d6c8af74842eba"
   },
   "gl-207.json": {
    "acts": [
@@ -47,6 +59,12 @@
     "gl-chapter-0030a"
    ],
    "sha256": "fb3b8a4f4d94ca907c14c59a839e90f113c55e0b473f06c81a83633222eb76bb"
+  },
+  "gl-4.json": {
+   "acts": [
+    "gl-chapter-0004"
+   ],
+   "sha256": "704113209013b32d8ae44e9e1b4b65db1eb71b92ffff7ccd5ed4725c08f6cf32"
   },
   "gl-66.json": {
    "acts": [
