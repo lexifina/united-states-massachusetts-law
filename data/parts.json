@@ -72,6 +72,30 @@
    ],
    "sha256": "47a9063b653e273d618dfa7eef37964438b8d45a20a9012e08add09d1ca344b1"
   },
+  "gl-6d.json": {
+   "acts": [
+    "gl-chapter-0006d"
+   ],
+   "sha256": "b01c36107db54ddd553d78c61d889109634471eac2cea25aebb4cf46b8e3be9f"
+  },
+  "gl-7.json": {
+   "acts": [
+    "gl-chapter-0007"
+   ],
+   "sha256": "8ec9e2e7e58081bf588f6489cf44b43ea2f4f3b3e28cc19aaad973e46566f723"
+  },
+  "gl-7a.json": {
+   "acts": [
+    "gl-chapter-0007a"
+   ],
+   "sha256": "658c760ccb8bbcfc0ea5812a82a79aba9ab63b6c7894afc81fbc9fe72cbb88a8"
+  },
+  "gl-7c.json": {
+   "acts": [
+    "gl-chapter-0007c"
+   ],
+   "sha256": "91f69e10bfb0cdcaa1e8169cb52ecafc1eddefca21f24079298d9d047af19f04"
+  },
   "q103-gl-93a.json": {
    "acts": [
     "gl-chapter-0093a"
