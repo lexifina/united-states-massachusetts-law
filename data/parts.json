@@ -222,11 +222,95 @@
    ],
    "sha256": "33ce7ce86f3d7479bca05b3afbc93e77833b5278e42870ed462e046b0aeaea9a"
   },
+  "gl-33.json": {
+   "acts": [
+    "gl-chapter-0033"
+   ],
+   "sha256": "7d766afc9728bcb9c851e94ce2b0b1670c9db2ac0cdafe577ba056eb69d925b1"
+  },
+  "gl-33a.json": {
+   "acts": [
+    "gl-chapter-0033a"
+   ],
+   "sha256": "566232ad71f7537fec15226ba668ed61d26db0be3e312497b71db2585427bf9e"
+  },
   "gl-4.json": {
    "acts": [
     "gl-chapter-0004"
    ],
    "sha256": "704113209013b32d8ae44e9e1b4b65db1eb71b92ffff7ccd5ed4725c08f6cf32"
+  },
+  "gl-40a.json": {
+   "acts": [
+    "gl-chapter-0040a"
+   ],
+   "sha256": "79c2db99d31b88fc6c18ebede72d5036066ed04f1f95b921499c101902e57a49"
+  },
+  "gl-40p.json": {
+   "acts": [
+    "gl-chapter-0040p"
+   ],
+   "sha256": "a2abab13f6eccf51d5012bb166b565b8cdd84d36112c2ffd537cdad7254d4f20"
+  },
+  "gl-40r.json": {
+   "acts": [
+    "gl-chapter-0040r"
+   ],
+   "sha256": "8592b44f88a61185bbd8e3ac7b493c1ae0fd211d1f73052d1b93df3e31c30d57"
+  },
+  "gl-40u.json": {
+   "acts": [
+    "gl-chapter-0040u"
+   ],
+   "sha256": "3060d78b6e52b277ff9dfcafa5c642db34ae8bb0a28b94a50e244ee5b2f659bd"
+  },
+  "gl-40v.json": {
+   "acts": [
+    "gl-chapter-0040v"
+   ],
+   "sha256": "3e9fec309d1782e9bb689d3c36dc08a917a236e7cdc11ffa76a65890cc09d320"
+  },
+  "gl-43c.json": {
+   "acts": [
+    "gl-chapter-0043c"
+   ],
+   "sha256": "12bc468ab74cd44cc72934886879e4f5ea7bad4d0bd241b6b1b0ee0d334eb65d"
+  },
+  "gl-44.json": {
+   "acts": [
+    "gl-chapter-0044"
+   ],
+   "sha256": "a5d9e7cc664825c0024a9b0fde665f2d6bbba2fe2157432277ac83e5edef03a3"
+  },
+  "gl-44a.json": {
+   "acts": [
+    "gl-chapter-0044a"
+   ],
+   "sha256": "8b7c2771c0f9ac9f858f2f7675f5a9de274c55c92fb7a0542247f810e7d59596"
+  },
+  "gl-44b.json": {
+   "acts": [
+    "gl-chapter-0044b"
+   ],
+   "sha256": "9fe4625aa8e92261f1a1ab1d7f36c4ca5115960774c5471b8e908b8e0ae38bec"
+  },
+  "gl-49.json": {
+   "acts": [
+    "gl-chapter-0049"
+   ],
+   "sha256": "8cceee1a04b7e376484508bae47c69ff507fbcc6cac9dc673fcbb795d08ab6ea"
+  },
+  "gl-50.json": {
+   "acts": [
+    "gl-chapter-0050"
+   ],
+   "sha256": "72ff6168a0fe05ded7d94920f561489f847aa007e07d037381b6fd5a14a78c94"
+  },
+  "gl-52.json": {
+   "acts": [
+    "gl-chapter-0052"
+   ],
+   "sha256": "215ccd4134a1e57b0d7c4a73582447265374e84ebec73e7cf44af77e8080dd57"
   },
   "gl-66.json": {
    "acts": [
