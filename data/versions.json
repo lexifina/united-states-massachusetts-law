@@ -744,6 +744,146 @@
    ]
   },
   {
+   "slug": "gl-chapter-0055",
+   "short": "M.G.L. c. 55",
+   "title": "General Laws, Chapter 55: Disclosure and regulation of campaign expenditures and contributions",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter55",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 62,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter55",
+     "sha256": "749fb991e1028ca87b6d2042c2019672a65f2bab34ef95ee715d8e5682898efa"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0060",
+   "short": "M.G.L. c. 60",
+   "title": "General Laws, Chapter 60: Collection of local taxes",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter60",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 138,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter60",
+     "sha256": "bb4661bc06ad10b34bbf739c36722a8fcb7c91c8cccc719e67d8e36ecde0879b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0061",
+   "short": "M.G.L. c. 61",
+   "title": "General Laws, Chapter 61: Classification and taxation of forest lands and forest products",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61",
+     "sha256": "807dc312e3ff4c584c51d48c114ab888862728dad9c62c10666855b9003f0f89"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0061a",
+   "short": "M.G.L. c. 61A",
+   "title": "General Laws, Chapter 61A: Assessment and taxation of agricultural and horticultural land",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61A",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 27,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61A",
+     "sha256": "dceb5f72535993d877936412c2d4ef6e565b1dd0baa4ab6107179bbd990bdf02"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0061b",
+   "short": "M.G.L. c. 61B",
+   "title": "General Laws, Chapter 61B: Classification and taxation of recreational land",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61B",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61B",
+     "sha256": "42a8fe0d43e6c011728180dba1e11689d9ffdac38a6b6f2c974e7de7e1e0f3c7"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0062b",
+   "short": "M.G.L. c. 62B",
+   "title": "General Laws, Chapter 62B: Withholding of taxes on wages and declaration of estimated income tax",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62B",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 17,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62B",
+     "sha256": "2c6ab60ddba5c419475cc1c920b4cf9201bc5d6fdc053fb101957f16aec5ecfc"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0062d",
+   "short": "M.G.L. c. 62D",
+   "title": "General Laws, Chapter 62D: SET&ndash;OFF DEBT COLLECTION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62D",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 17,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62D",
+     "sha256": "c2aaa14867b800e2ce71b6c8f9f772ddb92359cde31fc4b983d40cc267e14599"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0062f",
+   "short": "M.G.L. c. 62F",
+   "title": "General Laws, Chapter 62F: Limitation on the growth of state tax revenues",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62F",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62F",
+     "sha256": "0bc6e4d376ee2a8a6e167eb1f3118985b8e8c1fcb3017e510baed9955d5d35b1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0064g",
+   "short": "M.G.L. c. 64G",
+   "title": "General Laws, Chapter 64G: Room occupancy excise",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64G",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 22,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64G",
+     "sha256": "83af3b48d3eb5f39962729f8fd21df8735ef3a942df17079971449bcd49fc318"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0065c",
+   "short": "M.G.L. c. 65C",
+   "title": "General Laws, Chapter 65C: Massachusetts estate tax",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65C",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 23,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65C",
+     "sha256": "86a66be7c4ecea02891bd40de60a69a03909c80475ffe5c943c3542e9f320075"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0066",
    "short": "M.G.L. c. 66",
    "title": "General Laws, Chapter 66: Public records",
@@ -758,6 +898,48 @@
    ]
   },
   {
+   "slug": "gl-chapter-0066a",
+   "short": "M.G.L. c. 66A",
+   "title": "General Laws, Chapter 66A: Fair information practices",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 3,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A",
+     "sha256": "4243f4214293d6087dc00fc8998d24a9cec77ee62692dc623bb19d211389581e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0069",
+   "short": "M.G.L. c. 69",
+   "title": "General Laws, Chapter 69: Powers and duties of the department of elementary and secondary education",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter69",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 47,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter69",
+     "sha256": "c01d4f440619b95ee69e3f176a11876198390f104fe2ef0dccbdaa80fddfa68e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0006c",
+   "short": "M.G.L. c. 6C",
+   "title": "General Laws, Chapter 6C: Massachusetts department of transportation",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6C",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 82,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6C",
+     "sha256": "9ed4d9753bc35e280bc4c287b69290eac2eebb88a4f595d261df977ea3a13435"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0006d",
    "short": "M.G.L. c. 6D",
    "title": "General Laws, Chapter 6D: Health policy commission",
@@ -768,6 +950,20 @@
      "units": 26,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6D",
      "sha256": "754ebcdc7d8c0e1f9f936444e88060cef744787681fa7192c97293521a2bd096"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0006e",
+   "short": "M.G.L. c. 6E",
+   "title": "General Laws, Chapter 6E: Massachusetts peace officer standards and training commission",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6E",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6E",
+     "sha256": "0f207f92caf6667207e27fe968dc825444c7566713aeb12debabc10761fa7461"
     }
    ]
   },
@@ -800,6 +996,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0007b",
+   "short": "M.G.L. c. 7B",
+   "title": "General Laws, Chapter 7B: Asset management board",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7B",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7B",
+     "sha256": "10394b9d093600720db0c12cfd6ffceaa29f38b3ff051f7c686fb0d6801a360a"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0007c",
    "short": "M.G.L. c. 7C",
    "title": "General Laws, Chapter 7C: Capital asset management and maintenance",
@@ -824,6 +1034,20 @@
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7D",
      "sha256": "64d2054063558ca5f8c45f9ab9032b4992f43b36b81244c8f703caa98b419dd6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0009a",
+   "short": "M.G.L. c. 9A",
+   "title": "General Laws, Chapter 9A: Address confidentiality program",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A",
+     "sha256": "43c42fc2a90e696fbc7a390160c7f529ef94b25a8e51cd8297f7bb69f4a3b866"
     }
    ]
   },
