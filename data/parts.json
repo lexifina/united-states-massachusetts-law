@@ -6,6 +6,30 @@
    ],
    "sha256": "05b22aad55c324c151f13ff14498a38f186852d26abe50c8ee24932ffee2c146"
   },
+  "gl-11.json": {
+   "acts": [
+    "gl-chapter-0011"
+   ],
+   "sha256": "69b8acc3945364a6c1785238993bf54c770dfac649e0fdb35bccadbb4812482e"
+  },
+  "gl-12a.json": {
+   "acts": [
+    "gl-chapter-0012a"
+   ],
+   "sha256": "99e354d11cb51d640c4b408b8bf2b04a0d01b81f4f14fe47d5b74374e42d4ca9"
+  },
+  "gl-12c.json": {
+   "acts": [
+    "gl-chapter-0012c"
+   ],
+   "sha256": "e2fa1bdf434ed6bde3c12b615731962fac2464f9e95610b788270655bcc8bad2"
+  },
+  "gl-15d.json": {
+   "acts": [
+    "gl-chapter-0015d"
+   ],
+   "sha256": "491031f831b9bd366bcd05996187713ceeeba61ab5156f1f2d7fab4914a7e940"
+  },
   "gl-183.json": {
    "acts": [
     "gl-chapter-0183"
@@ -17,6 +41,36 @@
     "gl-chapter-0186"
    ],
    "sha256": "49bfd3c700556952962e6150d8031df2b35ec9a62afd20428335bf5c190b8ae5"
+  },
+  "gl-18a.json": {
+   "acts": [
+    "gl-chapter-0018a"
+   ],
+   "sha256": "249e9fd6f99dfc654533117e00301427c50a1f30b0685f439f60feae6e234b72"
+  },
+  "gl-19.json": {
+   "acts": [
+    "gl-chapter-0019"
+   ],
+   "sha256": "7751013a9f08cfdc3037540a91329de60b1a3a2f43448e50586b576a786113d7"
+  },
+  "gl-19b.json": {
+   "acts": [
+    "gl-chapter-0019b"
+   ],
+   "sha256": "ae0980bdfed34865c46bf76d327a0c39ba298a68822c2a7c067d32e9b84ba3a6"
+  },
+  "gl-19c.json": {
+   "acts": [
+    "gl-chapter-0019c"
+   ],
+   "sha256": "8cd9dec375c3f80a3fba9a99c3a9f99affe1348d6946cfdbe71a8cc3d2bcda49"
+  },
+  "gl-19d.json": {
+   "acts": [
+    "gl-chapter-0019d"
+   ],
+   "sha256": "15929db6df05a2d944ee5085e89e40d47e19f813f69b6cbfa2a18549c49ca2f7"
   },
   "gl-2.json": {
    "acts": [
@@ -35,6 +89,66 @@
     "gl-chapter-0208"
    ],
    "sha256": "5b34ef0b4240a8b0725d4d232e24e2c13dfafce95d86ade31482a4efa4d54a37"
+  },
+  "gl-21a.json": {
+   "acts": [
+    "gl-chapter-0021a"
+   ],
+   "sha256": "d393ffccfc4a45880e2a8fd5869427935ac8940398949cd86aa548cfb0c38658"
+  },
+  "gl-21c.json": {
+   "acts": [
+    "gl-chapter-0021c"
+   ],
+   "sha256": "7f78e844b6c0de767f624d3d15291f5728dcbfcbf89c9dfbdd6b81b07d4be8af"
+  },
+  "gl-21g.json": {
+   "acts": [
+    "gl-chapter-0021g"
+   ],
+   "sha256": "edc4220dd10ff7166fb8cebcfd3471b1db355d6ffc0608c6bc4409edaf3acf68"
+  },
+  "gl-21h.json": {
+   "acts": [
+    "gl-chapter-0021h"
+   ],
+   "sha256": "eb0bdf179294d00ae1c75c3c284c0271a1b1cd5e4c41eb111d981333aa20bf42"
+  },
+  "gl-21i.json": {
+   "acts": [
+    "gl-chapter-0021i"
+   ],
+   "sha256": "db28ac964dd169ce0869712d68d32f27714c60231a4c6e9537656d2a2bb2681c"
+  },
+  "gl-21j.json": {
+   "acts": [
+    "gl-chapter-0021j"
+   ],
+   "sha256": "49d8e5a61c5617c3cad0b93076ca0e0b0bae76d33dacb0d54d3430a4cf8d8157"
+  },
+  "gl-21n.json": {
+   "acts": [
+    "gl-chapter-0021n"
+   ],
+   "sha256": "fd6c18a5205a17c429a1851c778d55664ed7ed8087e088be723574750cb4e8b2"
+  },
+  "gl-22.json": {
+   "acts": [
+    "gl-chapter-0022"
+   ],
+   "sha256": "26df411fd46cc0840a80e27f26545bbbcb21ccaee3234ea1500a9b09205e8e6a"
+  },
+  "gl-22c.json": {
+   "acts": [
+    "gl-chapter-0022c"
+   ],
+   "sha256": "b7a69eeac45d49a49308b46de12e926bd5ac7332478071e7b3640ad515a0961e"
+  },
+  "gl-22e.json": {
+   "acts": [
+    "gl-chapter-0022e"
+   ],
+   "sha256": "3a8715d2e20c0b9b68d1d78d003451b4367a2d5a84cd47a05d75c98a04b9191c"
   },
   "gl-231.json": {
    "acts": [
@@ -95,6 +209,12 @@
     "gl-chapter-0007c"
    ],
    "sha256": "91f69e10bfb0cdcaa1e8169cb52ecafc1eddefca21f24079298d9d047af19f04"
+  },
+  "gl-7d.json": {
+   "acts": [
+    "gl-chapter-0007d"
+   ],
+   "sha256": "84c24df1828faa84d565df68b28365a2f3aa9263e3fb2af17ab030106d385dcd"
   },
   "q103-gl-93a.json": {
    "acts": [

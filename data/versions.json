@@ -30,6 +30,62 @@
    ]
   },
   {
+   "slug": "gl-chapter-0011",
+   "short": "M.G.L. c. 11",
+   "title": "General Laws, Chapter 11: Department of the state auditor",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter11",
+   "versions": [
+    {
+     "from": "2026-09-13",
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter11",
+     "sha256": "9b1881368201f006fe4fa8280b608c97f08bd98a7ee1c87b445a80d9a3cd6161"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0012a",
+   "short": "M.G.L. c. 12A",
+   "title": "General Laws, Chapter 12A: Office of inspector general",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12A",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12A",
+     "sha256": "6b57055e2aee22bf9e09ec6f30d1314910823ada5a54fbb4734b2c4de85a48fe"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0012c",
+   "short": "M.G.L. c. 12C",
+   "title": "General Laws, Chapter 12C: Center for health information and analysis",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12C",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 28,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12C",
+     "sha256": "1354894f8a8981c5dfbaf6ba2ed92e5ca1f9ef0f02863bd68d9abf023dab975a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0015d",
+   "short": "M.G.L. c. 15D",
+   "title": "General Laws, Chapter 15D: Department of early education and care",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15D",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 29,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15D",
+     "sha256": "effa4f6ae20b03ef9b4aae4e19d7b114c781a8c68b0c3f4ad7d6eab63828fdb9"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0183",
    "short": "M.G.L. c. 183",
    "title": "General Laws, Chapter 183: Alienation of land",
@@ -54,6 +110,76 @@
      "units": 41,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186",
      "sha256": "6e3ecd27cac94dd6eba4bc6b07193bb3e7f8573b5f977767187349d9f4d0ae0f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0018a",
+   "short": "M.G.L. c. 18A",
+   "title": "General Laws, Chapter 18A: Department of youth services",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18A",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18A",
+     "sha256": "6bb5f156f1517b7a70c7d6f78b7ddecb3c48223c243c8e06f70b16e2806223d8"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0019",
+   "short": "M.G.L. c. 19",
+   "title": "General Laws, Chapter 19: Department of mental health",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 29,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19",
+     "sha256": "20899f7cdaf5bf67031b3833b2c297901cceaf375069af1a22d2b8b3a5f2bbb4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0019b",
+   "short": "M.G.L. c. 19B",
+   "title": "General Laws, Chapter 19B: Department of developmental services",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19B",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 22,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19B",
+     "sha256": "2cd31ae8b7aeeabbc71231537dd7119c8c6770bfe29708cd05728c5f5008722e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0019c",
+   "short": "M.G.L. c. 19C",
+   "title": "General Laws, Chapter 19C: Disabled persons protection commission",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19C",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19C",
+     "sha256": "deac712c3ed42c51c95661abd89f5ba2c70205627ba6324f0e0a451869ad93a1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0019d",
+   "short": "M.G.L. c. 19D",
+   "title": "General Laws, Chapter 19D: Assisted living",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19D",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19D",
+     "sha256": "e907dd0444f9469f55233fe8f8db6fdbb15d5e15dbb8501a93f40ef37cc7d176"
     }
    ]
   },
@@ -96,6 +222,146 @@
      "units": 71,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter208",
      "sha256": "4dd9bd847c78a29d78eee9f199e9f491620f9e478f4d6376297d8f50a806dbd1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021a",
+   "short": "M.G.L. c. 21A",
+   "title": "General Laws, Chapter 21A: Executive office of energy and environmental affairs",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21A",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 68,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21A",
+     "sha256": "a47c5309021048b0c234a8a9c7ce1bfc9a584fe2d709067771af58d682f7a96a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021c",
+   "short": "M.G.L. c. 21C",
+   "title": "General Laws, Chapter 21C: Massachusetts hazardous waste management act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21C",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 28,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21C",
+     "sha256": "61a9e4cf5db5dbdbb9a5591d64eeca29b0fbfd346c931d17259e8882d0f85d92"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021g",
+   "short": "M.G.L. c. 21G",
+   "title": "General Laws, Chapter 21G: Massachusetts water management act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21G",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 20,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21G",
+     "sha256": "f675b48df7ad00ca75ec0004d2e60f6c83778a2989a98189eb8a157fa0dd0780"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021h",
+   "short": "M.G.L. c. 21H",
+   "title": "General Laws, Chapter 21H: Solid waste facilities",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21H",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 21,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21H",
+     "sha256": "a9165d59677a705069238105e5657971ece7e3a20b17ea7009f6ed61e688ac8b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021i",
+   "short": "M.G.L. c. 21I",
+   "title": "General Laws, Chapter 21I: Massachusetts toxics use reduction act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21I",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 24,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21I",
+     "sha256": "f754b62802e558c55a9a098b8f370950f4794ee619e898d34be60652e92897d4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021j",
+   "short": "M.G.L. c. 21J",
+   "title": "General Laws, Chapter 21J: Underground storage tank petroleum product cleanup fund",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21J",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21J",
+     "sha256": "bcabe7d740f843b0894ba8d3428299348306ec1ab7daf83cd3f834eea44d8c8d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021n",
+   "short": "M.G.L. c. 21N",
+   "title": "General Laws, Chapter 21N: Climate protection and green economy act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21N",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21N",
+     "sha256": "1a32683a970c4f61575b6c5579f350405a62fc3df2b96aa014e6dfa8661c2ce4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0022",
+   "short": "M.G.L. c. 22",
+   "title": "General Laws, Chapter 22: Division of professional licensure office of public safety and inspections",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 27,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22",
+     "sha256": "fa7d241a3a050de5c11293abeb9a06190ee2f342ed0f46e7bc9a892ab4f07454"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0022c",
+   "short": "M.G.L. c. 22C",
+   "title": "General Laws, Chapter 22C: The department of state police",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22C",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 80,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22C",
+     "sha256": "35f0aeaf2b3c11c2c7eaca726cd4198cddd32f43db9e04cef01ae48a80976c5d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0022e",
+   "short": "M.G.L. c. 22E",
+   "title": "General Laws, Chapter 22E: State dna database",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22E",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22E",
+     "sha256": "64c9a49799826790d27a1e03f0610ef3c4c82fa9b42bb446402b0523732123ba"
     }
    ]
   },
@@ -236,6 +502,20 @@
      "units": 74,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7C",
      "sha256": "44405dae9489055a1e7793e6488eac36d9e4d6a68613c7f708be601b9750791c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0007d",
+   "short": "M.G.L. c. 7D",
+   "title": "General Laws, Chapter 7D: Massachusetts office of information technology",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7D",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7D",
+     "sha256": "64d2054063558ca5f8c45f9ab9032b4992f43b36b81244c8f703caa98b419dd6"
     }
    ]
   },
