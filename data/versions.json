@@ -44,6 +44,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0012",
+   "short": "M.G.L. c. 12",
+   "title": "General Laws, Chapter 12: Department of the attorney general, and the district attorneys",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 89,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12",
+     "sha256": "f591d7ea2bb6f341e47c078316e6fcdeb8a62b955f3c0d7531d61b9f99d63da1"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0012a",
    "short": "M.G.L. c. 12A",
    "title": "General Laws, Chapter 12A: Office of inspector general",
@@ -72,6 +86,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0015",
+   "short": "M.G.L. c. 15",
+   "title": "General Laws, Chapter 15: Department of elementary and secondary education",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 37,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15",
+     "sha256": "3a10800bd034fc471c1d39619f5596126f921baa1a2f002924df975735def97a"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0015d",
    "short": "M.G.L. c. 15D",
    "title": "General Laws, Chapter 15D: Department of early education and care",
@@ -82,6 +110,20 @@
      "units": 29,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15D",
      "sha256": "effa4f6ae20b03ef9b4aae4e19d7b114c781a8c68b0c3f4ad7d6eab63828fdb9"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0015e",
+   "short": "M.G.L. c. 15E",
+   "title": "General Laws, Chapter 15E: Interstate compact on educational opportunity for military children",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15E",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15E",
+     "sha256": "76ce3be498d93af67ec55e966af1cfc9b413aca51a1cb2ea6d535517deed0f7c"
     }
    ]
   },
@@ -254,6 +296,34 @@
    ]
   },
   {
+   "slug": "gl-chapter-0021d",
+   "short": "M.G.L. c. 21D",
+   "title": "General Laws, Chapter 21D: Massachusetts hazardous waste facility siting act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21D",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21D",
+     "sha256": "6b521ffc6d34ea222b2b717d8e377a24a9aa27a66a44145188400a716add2977"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021e",
+   "short": "M.G.L. c. 21E",
+   "title": "General Laws, Chapter 21E: Massachusetts oil and hazardous material release prevention and response act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21E",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 30,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21E",
+     "sha256": "7e2d7acc862059c17cf826bcf1f331dd3e86549116664dfd8a82f1c629727580"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0021g",
    "short": "M.G.L. c. 21G",
    "title": "General Laws, Chapter 21G: Massachusetts water management act",
@@ -310,6 +380,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0021m",
+   "short": "M.G.L. c. 21M",
+   "title": "General Laws, Chapter 21M: Vessel traffic service",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21M",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21M",
+     "sha256": "582e044833ed7127daf9a1ebefc9b6b9f65ee5918b41ca4a59e6cd9606fda7b4"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0021n",
    "short": "M.G.L. c. 21N",
    "title": "General Laws, Chapter 21N: Climate protection and green economy act",
@@ -320,6 +404,20 @@
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21N",
      "sha256": "1a32683a970c4f61575b6c5579f350405a62fc3df2b96aa014e6dfa8661c2ce4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021o",
+   "short": "M.G.L. c. 21O",
+   "title": "General Laws, Chapter 21O: Operation and removal of underground storage tanks",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21O",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21O",
+     "sha256": "fc9c92701595354d50257c6a3186103a0602fafbc107354b8d7c3649f6fffc18"
     }
    ]
   },
@@ -348,6 +446,20 @@
      "units": 80,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22C",
      "sha256": "35f0aeaf2b3c11c2c7eaca726cd4198cddd32f43db9e04cef01ae48a80976c5d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0022d",
+   "short": "M.G.L. c. 22D",
+   "title": "General Laws, Chapter 22D: Department of fire services",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22D",
+   "versions": [
+    {
+     "from": "2025-11-16",
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22D",
+     "sha256": "66ccf5b5438c493129a0aff0405ca5495c11b9eb25aca5f4f0c08962d9e2c6a9"
     }
    ]
   },
@@ -492,6 +604,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0027",
+   "short": "M.G.L. c. 27",
+   "title": "General Laws, Chapter 27: Department of correction",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter27",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter27",
+     "sha256": "9924f2f1e21a117c7d0160d90c6f320f0d086e7daea749b8ef17d2af93ed6d65"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0029",
    "short": "M.G.L. c. 29",
    "title": "General Laws, Chapter 29: State finance",
@@ -502,6 +628,34 @@
      "units": 283,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29",
      "sha256": "3b1c3a12516b44b26d64e41115eb094892998b44ddaaf26a66ec727d74504db0"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0029c",
+   "short": "M.G.L. c. 29C",
+   "title": "General Laws, Chapter 29C: Massachusetts clean water trust",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29C",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 21,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29C",
+     "sha256": "a9300493ea5ac574dd154262d226c50eecab972e3450d1c3710c5a767b9c3221"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0030",
+   "short": "M.G.L. c. 30",
+   "title": "General Laws, Chapter 30: General provisions relative to state departments, commissions, officers and employees",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 132,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30",
+     "sha256": "fb7a307edbda033b8142a6d9ac52b2933e188065dcc8e6d1bc448576cd4f6158"
     }
    ]
   },
@@ -534,6 +688,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0032b",
+   "short": "M.G.L. c. 32B",
+   "title": "General Laws, Chapter 32B: Contributory group general or blanket insurance for persons in the service of counties, cities, towns and districts, and their dependents",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIV/Chapter32B",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 52,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIV/Chapter32B",
+     "sha256": "cb31138ec7436cc88b7590e0c4093cf561f00cc5a51fc2358a5552166420a99d"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0033",
    "short": "M.G.L. c. 33",
    "title": "General Laws, Chapter 33: Militia",
@@ -558,6 +726,48 @@
      "units": 136,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleV/Chapter33A",
      "sha256": "29ed9720b1a5a27225d20b8f8c80c23018d975be584c76332de2a74f89c53b40"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0034b",
+   "short": "M.G.L. c. 34B",
+   "title": "General Laws, Chapter 34B: Abolition of county government",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter34B",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 23,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter34B",
+     "sha256": "7901aa1de0d78daff7ae5a020cb92d6f30c7b5751e00f31ea2153f03b6184c20"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0038",
+   "short": "M.G.L. c. 38",
+   "title": "General Laws, Chapter 38: Medical examiners and inquests",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter38",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter38",
+     "sha256": "60d3d3306e22c2aae2b92a489140bb84243da0a6917d546ece1e32f11feb42f8"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0039",
+   "short": "M.G.L. c. 39",
+   "title": "General Laws, Chapter 39: Municipal government",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter39",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 27,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter39",
+     "sha256": "3f07642be4979f6e260e89d9d515fac87f5df4aae378cb3b9ef64e3ee24fe83f"
     }
    ]
   },
@@ -982,6 +1192,34 @@
    ]
   },
   {
+   "slug": "gl-chapter-0071a",
+   "short": "M.G.L. c. 71A",
+   "title": "General Laws, Chapter 71A: English language education in public schools",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71A",
+   "versions": [
+    {
+     "from": "2026-10-11",
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71A",
+     "sha256": "87aed17d1820e88cda22f0fd2db0a845077d73b49afd3e5dce2e5cd62e03e14c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0078",
+   "short": "M.G.L. c. 78",
+   "title": "General Laws, Chapter 78: Libraries",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter78",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 45,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter78",
+     "sha256": "5ab04f95cd8dde23ddd968f653ef36ea850a93cb8e2d785d5961bb3e988effd5"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0007a",
    "short": "M.G.L. c. 7A",
    "title": "General Laws, Chapter 7A: Office of the comptroller",
@@ -1034,6 +1272,104 @@
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7D",
      "sha256": "64d2054063558ca5f8c45f9ab9032b4992f43b36b81244c8f703caa98b419dd6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0086",
+   "short": "M.G.L. c. 86",
+   "title": "General Laws, Chapter 86: Boundaries of highways and other public places, and encroachments thereon",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter86",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter86",
+     "sha256": "dbc0ba9c4089337d6a280a9598d5e100ec90d4e56daadabbed23c5a23246984d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0087",
+   "short": "M.G.L. c. 87",
+   "title": "General Laws, Chapter 87: Shade trees",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter87",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter87",
+     "sha256": "95d3f3fab89b6d21cd625fb3d185334e8fbe933b6b01faadda3bfae8893706dd"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0089",
+   "short": "M.G.L. c. 89",
+   "title": "General Laws, Chapter 89: Law of the road",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter89",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 22,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter89",
+     "sha256": "95a2c5d4dec323d4c232595f838ead249550fba1e64c478722629966efc389f8"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090b",
+   "short": "M.G.L. c. 90B",
+   "title": "General Laws, Chapter 90B: Motorboats, other vessels and recreational vehicles",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90B",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 64,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90B",
+     "sha256": "bfcf2f7e0516696890abf8480895300f160ccf52f4d145101fdc8a56700147dd"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090c",
+   "short": "M.G.L. c. 90C",
+   "title": "General Laws, Chapter 90C: Procedure for motor vehicle offenses",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90C",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90C",
+     "sha256": "1130e816e714385d104f4f34d87ef27425b0aadc4f9af7a261ce04e6890bcc28"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090e",
+   "short": "M.G.L. c. 90E",
+   "title": "General Laws, Chapter 90E: Bikeways",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90E",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90E",
+     "sha256": "99d942f30a7bff78db3a230bbc3fe39aa5804bc629f4c894ae9eb662ffe652eb"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0091",
+   "short": "M.G.L. c. 91",
+   "title": "General Laws, Chapter 91: Waterways",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter91",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 85,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter91",
+     "sha256": "60e9613a91aab9ad22c531f5f1272a218c7a36b7ade531935f4947e294b3647a"
     }
    ]
   },

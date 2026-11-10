@@ -4,6 +4,6 @@
   "name": "Massachusetts",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-massachusetts-law",
-  "build": "built: Constitution of the Commonwealth of Massachusetts with its 121 articles of amendment (one version, dated by the 2026-10-15 Common Crawl capture of the General Court's page); plus General Laws chapters 1, 2, 4, 6C, 6D, 6E, 7, 7A, 7B, 7C, 7D, 9A, 11, 12A, 12C, 15D, 18A, 19, 19B, 19C, 19D, 21A, 21C, 21G, 21H, 21I, 21J, 21N, 22, 22C, 22E, 23A, 23B, 23G, 23K, 25, 25A, 29, 30A, 30B, 33, 33A, 40A, 40P, 40R, 40U, 40V, 43C, 44, 44A, 44B, 49, 50, 52, 55, 60, 61, 61A, 61B, 62B, 62D, 62F, 64G, 65C, 66, 66A, 69, 93A, 183, 186, 207, 208, 231, 265, 266 (one version each, from web captures)",
+  "build": "built: Constitution of the Commonwealth of Massachusetts with its 121 articles of amendment (one version, dated by the 2026-10-15 Common Crawl capture of the General Court's page); plus General Laws chapters 1, 2, 4, 6C, 6D, 6E, 7, 7A, 7B, 7C, 7D, 9A, 11, 12, 12A, 12C, 15, 15D, 15E, 18A, 19, 19B, 19C, 19D, 21A, 21C, 21D, 21E, 21G, 21H, 21I, 21J, 21M, 21N, 21O, 22, 22C, 22D, 22E, 23A, 23B, 23G, 23K, 25, 25A, 27, 29, 29C, 30, 30A, 30B, 32B, 33, 33A, 34B, 38, 39, 40A, 40P, 40R, 40U, 40V, 43C, 44, 44A, 44B, 49, 50, 52, 55, 60, 61, 61A, 61B, 62B, 62D, 62F, 64G, 65C, 66, 66A, 69, 71A, 78, 86, 87, 89, 90B, 90C, 90E, 91, 93A, 183, 186, 207, 208, 231, 265, 266 (one version each, from web captures)",
   "register_date": "2026-10-30"
 }
