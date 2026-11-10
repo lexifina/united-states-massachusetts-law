@@ -254,6 +254,48 @@
    ]
   },
   {
+   "slug": "gl-chapter-0118i",
+   "short": "M.G.L. c. 118I",
+   "title": "General Laws, Chapter 118I: Health information technology",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118I",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 16,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118I",
+     "sha256": "320b4b5245e030d4e12c7be6e831b8fb3d5bd93e2d0f287a309673d7487bc093"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0119",
+   "short": "M.G.L. c. 119",
+   "title": "General Laws, Chapter 119: Protection and care of children, and proceedings against them",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 98,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119",
+     "sha256": "bc86d5e32d192b308a49a425108ee63bc7b4a548cebefef03814c56681929353"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0119a",
+   "short": "M.G.L. c. 119A",
+   "title": "General Laws, Chapter 119A: Child support enforcement",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119A",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 25,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119A",
+     "sha256": "195104b1cd734f320e32000778c067531c565ea3d73b0948e3c3991833d173e1"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0012",
    "short": "M.G.L. c. 12",
    "title": "General Laws, Chapter 12: Department of the attorney general, and the district attorneys",
@@ -2088,6 +2130,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0090f",
+   "short": "M.G.L. c. 90F",
+   "title": "General Laws, Chapter 90F: Uniform operation of commercial motor vehicles act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90F",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 16,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90F",
+     "sha256": "3e35b6d6ae21ce4c25926d5ee03a61a4b598151b6fa758e6a658bdffeae8aa1e"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0091",
    "short": "M.G.L. c. 91",
    "title": "General Laws, Chapter 91: Waterways",
@@ -2112,6 +2168,20 @@
      "units": 66,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter92",
      "sha256": "9264a26c9b7efc08627f49e2fd478caa35ef11da7fed785ad2326964a6ef7fb3"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0093b",
+   "short": "M.G.L. c. 93B",
+   "title": "General Laws, Chapter 93B: Regulation of business practices between motor vehicle manufacturers, distributors and dealers",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93B",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93B",
+     "sha256": "ca8faf7cdb2642ddebd3849ef84559f68fbbb5e3fca362c44ecab32966e7f5d2"
     }
    ]
   },
@@ -2172,6 +2242,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0093l",
+   "short": "M.G.L. c. 93L",
+   "title": "General Laws, Chapter 93L: Student loan servicers",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93L",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93L",
+     "sha256": "78fda6563c48cc4e7edb9be5f23f954a0959665e18d59a34264ef746b6e35afc"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0094",
    "short": "M.G.L. c. 94",
    "title": "General Laws, Chapter 94: Inspection and sale of food, drugs and various articles",
@@ -2182,6 +2266,20 @@
      "units": 455,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94",
      "sha256": "2065a82bb7877f0f594a4b34eb368a230dc1b0bd68f1875a03a81a362c6c1490"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0094a",
+   "short": "M.G.L. c. 94A",
+   "title": "General Laws, Chapter 94A: Milk control",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94A",
+   "versions": [
+    {
+     "from": "2026-07-11",
+     "units": 30,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94A",
+     "sha256": "d2c54aebaad321e0cbf80e3aa2f87ba310de3183130353a62189c4e66429ff20"
     }
    ]
   },
@@ -2214,6 +2312,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0094d",
+   "short": "M.G.L. c. 94D",
+   "title": "General Laws, Chapter 94D: Controlled substances therapeutic research act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94D",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 3,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94D",
+     "sha256": "4f0e207f7446309786170f1628754ffddda528f56ae015ea3abe778123bb3123"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0094f",
    "short": "M.G.L. c. 94F",
    "title": "General Laws, Chapter 94F: Complementary provisions concerning tobacco product manufacturers",
@@ -2238,6 +2350,34 @@
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94G",
      "sha256": "4b93082b6b5ed5edf9b936abd18f449a92994fc0704d1e564446278ba3ea5f4e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0094h",
+   "short": "M.G.L. c. 94H",
+   "title": "General Laws, Chapter 94H: Drug stewardship program",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94H",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94H",
+     "sha256": "5085eccdeb7f0955cafa030ed09636b9b116333abc78334400ce9af100606a4a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0094i",
+   "short": "M.G.L. c. 94I",
+   "title": "General Laws, Chapter 94I: Medical use of marijuana",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94I",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94I",
+     "sha256": "99f644bc11daf0fcb906e096e643a5ef2cb4ea178f789766693df54b817a80c3"
     }
    ]
   },
