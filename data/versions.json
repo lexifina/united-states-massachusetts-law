@@ -380,6 +380,90 @@
    ]
   },
   {
+   "slug": "gl-chapter-0023a",
+   "short": "M.G.L. c. 23A",
+   "title": "General Laws, Chapter 23A: Department of economic development",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23A",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 74,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23A",
+     "sha256": "631465e8e23e968a86eba4ae12182e6b9fc82341f28fba78d98350cd22828f47"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023b",
+   "short": "M.G.L. c. 23B",
+   "title": "General Laws, Chapter 23B: Executive office of housing and livable communities",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23B",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 25,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23B",
+     "sha256": "647b4d0a06f38f4fd286131c2a1df56b9ca2ce48ebc4e800b0e8d2b78607ddd9"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023g",
+   "short": "M.G.L. c. 23G",
+   "title": "General Laws, Chapter 23G: The massachusetts development finance agency",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23G",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 54,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23G",
+     "sha256": "31235a0f8603b06beb70a5933024af1494bf81de4771b240dea5f78285271d16"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023k",
+   "short": "M.G.L. c. 23K",
+   "title": "General Laws, Chapter 23K: THE MASSACHUSETTS GAMING COMMISSION fee or tax; penalties.",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23K",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 71,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23K",
+     "sha256": "daa3573e189fe2a5647176f9dc2471e98f342bbe1b453c1d6a0b1c6bc8d50b11"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0025",
+   "short": "M.G.L. c. 25",
+   "title": "General Laws, Chapter 25: Department of public utilities",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 43,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25",
+     "sha256": "08c0b2ecdc57f41a04d99fad970c3f643c79b8384c6505783cca30cee861cab2"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0025a",
+   "short": "M.G.L. c. 25A",
+   "title": "General Laws, Chapter 25A: Division of energy resources",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25A",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 31,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25A",
+     "sha256": "8a0a90ce26fe1cae2ab624e0b9cc8b079372edce69291eed6e7a8fcb4ef67fa2"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0265",
    "short": "M.G.L. c. 265",
    "title": "General Laws, Chapter 265: Crimes against the person",
@@ -408,6 +492,20 @@
    ]
   },
   {
+   "slug": "gl-chapter-0029",
+   "short": "M.G.L. c. 29",
+   "title": "General Laws, Chapter 29: State finance",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 283,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29",
+     "sha256": "3b1c3a12516b44b26d64e41115eb094892998b44ddaaf26a66ec727d74504db0"
+    }
+   ]
+  },
+  {
    "slug": "gl-chapter-0030a",
    "short": "M.G.L. c. 30A",
    "title": "General Laws, Chapter 30A: State administrative procedure",
@@ -418,6 +516,20 @@
      "units": 41,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30A",
      "sha256": "132392c02129d5ae050a0fc2cf39d0543d7a6d6cfccbfc19244bb838804c0d56"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0030b",
+   "short": "M.G.L. c. 30B",
+   "title": "General Laws, Chapter 30B: Uniform procurement act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 25,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B",
+     "sha256": "3b8bf8ff53d44c8a0760bc2752e2411b21eaa7735a18258274b18463ccdd1df7"
     }
    ]
   },

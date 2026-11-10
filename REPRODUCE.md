@@ -33,9 +33,17 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22C> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22E> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23A> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23B> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23G> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23K> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25A> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30A> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter4> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6D> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
@@ -78,9 +86,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0022c` | General Laws, Chapter 22C: The department of state police | 1 | 2026-10-12 to 2026-10-12 |
 | `gl-chapter-0022e` | General Laws, Chapter 22E: State dna database | 1 | 2026-10-14 to 2026-10-14 |
 | `gl-chapter-0231` | General Laws, Chapter 231: Pleading and practice | 1 | 2026-10-19 to 2026-10-19 |
+| `gl-chapter-0023a` | General Laws, Chapter 23A: Department of economic development | 1 | 2026-10-18 to 2026-10-18 |
+| `gl-chapter-0023b` | General Laws, Chapter 23B: Executive office of housing and livable communities | 1 | 2026-10-05 to 2026-10-05 |
+| `gl-chapter-0023g` | General Laws, Chapter 23G: The massachusetts development finance agency | 1 | 2026-10-16 to 2026-10-16 |
+| `gl-chapter-0023k` | General Laws, Chapter 23K: THE MASSACHUSETTS GAMING COMMISSION fee or tax; penalties. | 1 | 2026-10-09 to 2026-10-09 |
+| `gl-chapter-0025` | General Laws, Chapter 25: Department of public utilities | 1 | 2026-10-14 to 2026-10-14 |
+| `gl-chapter-0025a` | General Laws, Chapter 25A: Division of energy resources | 1 | 2026-10-17 to 2026-10-17 |
 | `gl-chapter-0265` | General Laws, Chapter 265: Crimes against the person | 1 | 2026-10-17 to 2026-10-17 |
 | `gl-chapter-0266` | General Laws, Chapter 266: Crimes against property | 1 | 2026-10-18 to 2026-10-18 |
+| `gl-chapter-0029` | General Laws, Chapter 29: State finance | 1 | 2026-10-17 to 2026-10-17 |
 | `gl-chapter-0030a` | General Laws, Chapter 30A: State administrative procedure | 1 | 2026-10-18 to 2026-10-18 |
+| `gl-chapter-0030b` | General Laws, Chapter 30B: Uniform procurement act | 1 | 2026-10-17 to 2026-10-17 |
 | `gl-chapter-0004` | General Laws, Chapter 4: Statutes | 1 | 2026-10-26 to 2026-10-26 |
 | `gl-chapter-0066` | General Laws, Chapter 66: Public records | 1 | 2026-10-19 to 2026-10-19 |
 | `gl-chapter-0006d` | General Laws, Chapter 6D: Health policy commission | 1 | 2026-10-18 to 2026-10-18 |
@@ -90,11 +106,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0007d` | General Laws, Chapter 7D: Massachusetts office of information technology | 1 | 2026-10-08 to 2026-10-08 |
 | `gl-chapter-0093a` | General Laws, Chapter 93A: Regulation of business practices for consumers protection | 1 | 2026-10-21 to 2026-10-21 |
 
-The build made 38 commits:
+The build made 46 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 38 | first version of an act |
+| 46 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -102,7 +118,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 38 tags.
+- 46 tags.
 
 ## Dates
 
@@ -114,7 +130,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f8f0bc6837d539a3e547b90c51549f9321a207d679e38643f394375367c8fc64` (3571963 bytes).
+- Corpus: sha256 `1f5d738732f6acf61169069f1d72765dc29225be9da5cc5945a7d7c7e7d8764f` (5254088 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -157,9 +173,17 @@ No second build of this corpus has been compared yet.
 - General Laws chapter 22C: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-06-08 to 2026-10-12), so the single version is dated 2026-10-12, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
 - General Laws chapter 22E: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-05-18 to 2026-10-14), so the single version is dated 2026-10-14, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
 - General Laws chapter 231: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2024-12-11 to 2026-10-17), so the single version is dated 2026-10-19, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section amended between its capture and that day would show its older text.
+- General Laws chapter 23A: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-01-14 to 2026-10-18), so the single version is dated 2026-10-18, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
+- General Laws chapter 23B: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-07-13 to 2026-10-05), so the single version is dated 2026-10-05, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
+- General Laws chapter 23G: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2025-12-11 to 2026-10-16), so the single version is dated 2026-10-16, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
+- General Laws chapter 23K: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-01-18 to 2026-10-09), so the single version is dated 2026-10-09, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
+- General Laws chapter 25: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-04-15 to 2026-10-14), so the single version is dated 2026-10-14, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
+- General Laws chapter 25A: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-02-12 to 2026-10-17), so the single version is dated 2026-10-17, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
 - General Laws chapter 265: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2024-12-07 to 2026-10-17), so the single version is dated 2026-10-17, the newest capture day (or the Constitution's day, if later, so the history only grows); a section amended between its capture and that day would show its older text.
 - General Laws chapter 266: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2024-12-09 to 2026-10-16), so the single version is dated 2026-10-18, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section amended between its capture and that day would show its older text.
+- General Laws chapter 29: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-02-07 to 2026-10-17), so the single version is dated 2026-10-17, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
 - General Laws chapter 30A: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2026-03-14 to 2026-10-17), so the single version is dated 2026-10-18, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section amended between its capture and that day would show its older text.
+- General Laws chapter 30B: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-05-10 to 2026-10-17), so the single version is dated 2026-10-17, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
 - General Laws chapter 4: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2025-04-01 to 2026-10-26), so the single version is dated 2026-10-26, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
 - General Laws chapter 66: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2026-02-10 to 2026-10-17), so the single version is dated 2026-10-19, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section amended between its capture and that day would show its older text.
 - General Laws chapter 6D: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2026-01-14 to 2026-10-18), so the single version is dated 2026-10-18, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
@@ -180,6 +204,14 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
