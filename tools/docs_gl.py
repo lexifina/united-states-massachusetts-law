@@ -12,12 +12,17 @@ parts = sorted(p for p in os.listdir(os.path.join(HERE, 'corpus.d')) if p.endswi
 acts = [json.load(open(os.path.join(HERE, 'corpus.d', p), encoding='utf-8'))['acts'][0] for p in parts]
 acts.sort(key=lambda a: a['slug'])
 
+def span(a):
+    m = re.search(r'between (\d{4}-\d\d-\d\d) and (\d{4}-\d\d-\d\d)', a['versions'][0]['note'])
+    return f'{m.group(1)} to {m.group(2)}'
+
+
 rd = os.path.join(R, 'README.md')
 t = open(rd, encoding='utf-8').read()
 t = re.sub(r'\n\| `gl-chapter-[^\n]*', '', t)
 rows = ''.join(
     f"{NL}| `{a['slug']}/` | {a['title']} | {len(a['versions'][0]['units'])} | One version: the General Court's online text, "
-    f"each section from its newest web capture (captured {a['versions'][0]['note'].split('between ')[1].split(':')[0].replace(' and ', ' to ')}), dated {a['versions'][0]['from']} |"
+    f"each section from its newest web capture (captured {span(a)}), dated {a['versions'][0]['from']} |"
     for a in acts)
 i = t.index('| `constitution/` |')
 j = t.index(NL, i)
@@ -26,17 +31,16 @@ t = re.sub(r'The Constitution of the Commonwealth of Massachusetts as a git repo
            'The Constitution of the Commonwealth of Massachusetts and chapters of the General Laws as a git repository: one file per article, section or article of amendment of the Constitution and one per section of the General Laws,', t)
 t = re.sub(r'That is all the law this repository holds today\.[^\n]*',
            'That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.', t)
-gl_src = ('\n\nThe General Laws are published one page per section (malegislature.gov/Laws/GeneralLaws/...), with a table of '
-          'contents page per chapter. A chapter is included only when every section its table of contents lists was read: '
-          'each section page comes from its newest **Common Crawl** capture, or, where Common Crawl had none, its newest '
-          '**Internet Archive** capture from 2025 on. The sha256 of the pages read for each chapter is in `data/versions.json`.')
+gl_src = (NL + NL + 'The General Laws are published one page per section (malegislature.gov/Laws/GeneralLaws/...), with a table of '
+          'contents page per chapter. The sha256 of the pages read for each chapter is in `data/versions.json`.')
 t = t.replace(gl_src, '')
 k = t.index('## Dates')
 t = t[:k].rstrip(NL) + gl_src + NL + NL + t[k:]
-gl_date = ("- Each General Laws chapter is one version, dated by the newest capture day of its section pages (or, if "
-           "later, the day of the newest law already in the repository, so the history only grows), and credited to the "
-           "publisher as \"oldest version available\". Its sections were captured on different days, which the commit's "
-           "note gives; a section amended after its capture would show its older text here.")
+gl_date = ("- Each General Laws chapter is one version, dated by the newest capture day of its section pages, and credited to the "
+           "publisher as \"oldest version available\". (The chapters published up to 2026-10-30 were dated a day or so later "
+           "where needed so the history only grew; chapters added from 2026-11-10 on carry their newest capture day unchanged.) "
+           "The section pages state no date, so this is a capture date, not a commencement date. Sections were captured on "
+           "different days, which the commit's note gives; a section amended after its capture would show its older text here.")
 t = re.sub(r'\n- Each General Laws chapter is one version[^\n]*', '', t)
 t = t.replace(NL + gl_date, '')
 k = t.index('## What it does not show')

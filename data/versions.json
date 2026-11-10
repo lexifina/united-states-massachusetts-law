@@ -140,6 +140,20 @@
      "sha256": "8ab00df235e11ef03241140368b7c7467cfbb4ed06c6fc79ee5a7bdd845c2994"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0093a",
+   "short": "M.G.L. c. 93A",
+   "title": "General Laws, Chapter 93A: Regulation of business practices for consumers protection",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93A",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93A",
+     "sha256": "8096e3f252a52c567eacdcbd1f27d2e5fd9fe77aa128c54fa551c71263eb9cef"
+    }
+   ]
   }
  ]
 }

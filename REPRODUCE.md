@@ -1,6 +1,6 @@
 # How this repository was made (Massachusetts)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-10, the day the source data was retrieved.
 
 ## Sources
 
@@ -16,6 +16,7 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30A> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66> | 2026-10-30 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
+| General Court of Massachusetts: General Laws chapter 93A, official section pages (Internet Archive copies) | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93A> | 2026-11-06 | Official statutory text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)); website design, photographs, videos and third-party copyrighted material are excluded. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -33,20 +34,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0266` | General Laws, Chapter 266: Crimes against property | 1 | 2026-10-18 to 2026-10-18 |
 | `gl-chapter-0030a` | General Laws, Chapter 30A: State administrative procedure | 1 | 2026-10-18 to 2026-10-18 |
 | `gl-chapter-0066` | General Laws, Chapter 66: Public records | 1 | 2026-10-19 to 2026-10-19 |
+| `gl-chapter-0093a` | General Laws, Chapter 93A: Regulation of business practices for consumers protection | 1 | 2026-10-21 to 2026-10-21 |
 
-The build made 10 commits:
+The build made 11 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 10 | first version of an act |
+| 11 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 10 tags.
+- 11 tags.
 
 ## Dates
 
@@ -58,13 +60,13 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1cc7ec53e63f6cac1c4b5f08b3336abf693a3d50f6c0fdd2c818555b58fa85c0` (1435656 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a97ff7ea62c3c7595c5668a297d533da0b74373c`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `15174b2125bc3a005dd28f3d70926fd0377eb34ee0261f3ebf3394db8c974d55` (1468062 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-10 versions of 10 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -84,6 +86,8 @@ No second build of this corpus has been compared yet.
 - General Laws chapter 266: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2024-12-09 to 2026-10-16), so the single version is dated 2026-10-18, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section amended between its capture and that day would show its older text.
 - General Laws chapter 30A: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2026-03-14 to 2026-10-17), so the single version is dated 2026-10-18, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section amended between its capture and that day would show its older text.
 - General Laws chapter 66: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different web captures (2026-02-10 to 2026-10-17), so the single version is dated 2026-10-19, the newest capture day (or, if later, the day of the newest law already in the repository, or the day after it when the chapter would otherwise sort before it, so the history only grows); a section amended between its capture and that day would show its older text.
+- In-force basis: the official section pages provide no dated consolidation or latest-amendment commencement for this assembled text. 2026-10-21 is the newest source capture day, not an established commencement day. Text-as-of: 2026-10-21. The eleven section pages were captured between 2025-09-03 and 2026-10-21; this assembled archival baseline does not establish a coherent historical version for every day in that interval, or current text on the retrieval day.
+- One unit per section in the official chapter table of contents; no amendment history reconstructed. Typesetting normalization only: whitespace, typographic quotes and dashes; no legal words authored or corrected.
 
 ## What AI did and did not do
 
@@ -104,3 +108,4 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- GPT-6 wrote the source-handling and validation code and selected the chapter; no model-generated or model-corrected legal text or OCR was used.
