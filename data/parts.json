@@ -1175,6 +1175,12 @@
     "gl-chapter-0093a"
    ],
    "sha256": "2239d117b4662fcd6f1c25a038ae8e809175abad47eeb3c57b6e95d1a2f844a3"
+  },
+  "zzq1529-history-93a.json": {
+   "acts": [
+    "gl-chapter-0093a"
+   ],
+   "sha256": "f166d6031fc7a3483b5010e794ee17e6897e3e85e2f7b21f657700230e7881b1"
   }
  },
  "schema": 1
