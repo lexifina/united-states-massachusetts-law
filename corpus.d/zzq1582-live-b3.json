@@ -1,0 +1,245 @@
+{
+ "acts": [
+  {
+   "slug": "gl-chapter-0093f",
+   "short": "M.G.L. c. 93F",
+   "title": "General Laws, Chapter 93F: Regulation of certain business practices between motion picture distributors and exhibitors",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93F",
+   "first_law": null,
+   "earlier_laws": [],
+   "publisher": {
+    "name": "General Court of the Commonwealth of Massachusetts",
+    "email": "generalcourt@malegislature.invalid"
+   },
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93F",
+     "sha256": "c7b018f45c1f2051b950f5b4b12adbb61dc9e0c21a5733eea97326cded8968bd",
+     "units": {
+      "sec-0001": {
+       "label": "M.G.L. c. 93F, § 1",
+       "kind": "section",
+       "text": "# Section 1: Definitions\nSection 1. The following words, as used in this chapter, unless the context otherwise requires or a different meaning is specifically prescribed, shall have the following meaning:—\n''Bid'', a written offer or proposal by an exhibitor to a distributor, in response to an ''invitation to bid'', stating the terms under which the exhibitor will agree to exhibit a motion picture.\n''Blind bidding'', the solicitation of bidding for, solicitation of negotiation for, or solicitations of offers for or agreeing to terms for the licensing or exhibition of, a motion picture if the motion picture has not been trade screened within the commonwealth before any such event has occurred.\n''Defined geographic area'', a relevant market area as used in the motion picture industry.\n''Distributor'', any person engaged in the business of distributing or supplying motion pictures to exhibitors by rental, sale or licensing.\n''Exhibit'' or ''exhibition'', showing a motion picture to the public for a charge.\n''Exhibitor'', any person engaged in the business of operating one or more theatres.\n''Invitation to bid'', a written solicitation or invitation by a distributor to one or more exhibitors to bid for the right to exhibit a motion picture.\n''License agreement'', any contract agreement, understanding or condition between a distributor and an exhibitor relating to the licensing of exhibition of a motion picture by the exhibitor.\n''Person'', one or more individuals, partnerships, associates, societies, trust, or corporations.\n''Run'', the continuous exhibition of a motion picture in a defined geographic area for a specified period of time. A ''first run'' is the first exhibition of a picture in the designated area, a ''second run'' is the second exhibition and ''subsequent runs'' are subsequent exhibitions after the second run. ''Exclusive run'' is any run limited to a single theatre in a defined geographic area and a ''non-exclusive run'' is any run in more than one theatre in a defined geographic area.\n''Theatre'', any establishment in which motion pictures are exhibited to the public regularly for a charge.\n''Trade screening'', the showing of a motion picture by a distributor at some location within Metropolitan Boston which is open to any exhibitor interested in exhibiting the motion picture.\n"
+      },
+      "sec-0002": {
+       "label": "M.G.L. c. 93F, § 2",
+       "kind": "section",
+       "text": "# Section 2: Blind bidding; trade screening\nSection 2. Blind bidding is hereby prohibited within the commonwealth. No bids shall be returnable, no negotiations for the exhibition or licensing of a motion picture shall take place, and no license agreement or any of its terms shall be agreed to, for the exhibition of any motion picture before the motion picture has been trade screened within the commonwealth.\nA distributor shall include in each invitation to bid for a motion picture for exhibition, if such motion picture has not already been trade screened within the commonwealth, the date, time and place of the trade screening of the motion picture within the commonwealth.\nA distributor shall provide reasonable and uniform notice to exhibitors within the commonwealth of all trade screenings within the commonwealth of motion pictures he is distributing.\nAny purported waiver of the requirements of this section shall be void and unenforceable.\n"
+      },
+      "sec-0003": {
+       "label": "M.G.L. c. 93F, § 3",
+       "kind": "section",
+       "text": "# Section 3: Bids; procedures\nSection 3. If bids are solicited from exhibitors for the licensing of a motion picture within the commonwealth then:—\n1. The invitation to bid shall specify (a) the number and length of runs for which the bid is being solicited, whether it is a first, second or subsequent run, and the geographic area for each run; (b) the names of all exhibitors who are being solicited; (c) the date and hour the invitation to bid expires; and (d) the location, including the address, where the bids will be opened, which shall be within the commonwealth.\n2. All bids shall be submitted in writing and shall be opened at the same time and in the presence of exhibitors, or their agents, who submitted bids and are present at such time.\n3. After being opened, bids shall be subject to examination by exhibitors, or their agents, who submitted bids. Within seven business days after a bid is accepted, the distributor shall notify in writing each exhibitor who submitted a bid of the terms of the accepted bid and the name of the winning bidder.\n4. Once bids are solicited, the distributor shall license the picture only by bidding and may negotiate if he does not accept any of the original bids.\n"
+      },
+      "sec-0004": {
+       "label": "M.G.L. c. 93F, § 4",
+       "kind": "section",
+       "text": "# Section 4: Violations\nSection 4. Any violations of the provisions of this act shall be deemed to be an unfair and deceptive trade practice, as defined in section two of chapter ninety-three A.\n"
+      }
+     },
+     "credits": {},
+     "source_images": [],
+     "in_force_basis": "The official chapter and section pages state no date for this text; retrieval on 2026-11-11 is used as the oldest available current-text baseline.",
+     "note": "Current General Court online chapter and every section listed in its chapter table of contents, retrieved 2026-11-11."
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0095",
+   "short": "M.G.L. c. 95",
+   "title": "General Laws, Chapter 95: Measuring of leather",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter95",
+   "first_law": null,
+   "earlier_laws": [],
+   "publisher": {
+    "name": "General Court of the Commonwealth of Massachusetts",
+    "email": "generalcourt@malegislature.invalid"
+   },
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter95",
+     "sha256": "d0d3ce8d9b27f02625f4bf499fc65bdb1d605e1810581d2470a94142cb68df5c",
+     "units": {
+      "sec-0001": {
+       "label": "M.G.L. c. 95, § 1",
+       "kind": "section",
+       "text": "# Section 1: Measurers of leather; appointment; revocation of certificate\nSection 1. The mayor of a city or the selectmen of a town, upon the request of two or more voters thereof, shall annually appoint one or more measurers of leather who have been certified by the director of standards as fit persons for such appointment, and who shall be sworn to the faithful performance of their duty. The director of standards may at any time, for cause, revoke such certificate of fitness, and such revocation shall immediately render such appointment void.\n"
+      },
+      "sec-0002": {
+       "label": "M.G.L. c. 95, § 2",
+       "kind": "section",
+       "text": "# Section 2: Acting in any city or town\nSection 2. A measurer of leather for one town may measure leather in any other town.\n"
+      },
+      "sec-0003": {
+       "label": "M.G.L. c. 95, § 3",
+       "kind": "section",
+       "text": "# Section 3: Duties of measurer\nSection 3. Each measurer, upon request, shall go to any place within the town for which he is appointed and there ascertain the area of each skin or side or other portion of leather submitted to him. For this purpose, he shall use only such racks, measures or mechanical devices as have been legally tested and sealed, and shall mark or cause each skin or side or other portion of leather to be marked with indelible figures giving the measurement thereof in square feet, including fractions as small as one quarter of a foot. After the area of any skin or side or other portion of leather has been determined as aforesaid, it shall be permissible to add one quarter of a foot to such measurement for any remaining fraction greater than one eighth of a foot; but no such remaining fraction of less than one eighth of a foot shall be added or included in such measurement.\n"
+      },
+      "sec-0004": {
+       "label": "M.G.L. c. 95, § 4",
+       "kind": "section",
+       "text": "# Section 4: Sale of unmeasured leather\nSection 4. Whoever sells or offers leather for sale by measure shall cause the same to be measured by a sworn measurer unless such leather has previously been measured by a sworn measurer of a town in the commonwealth, or by some person lawfully appointed therefor in any other state, or unless the measurement thereof has been expressly waived in writing by the buyer and seller thereof. Whoever violates this section shall be punished by a fine of not less than ten nor more than fifty dollars.\n"
+      },
+      "sec-0005": {
+       "label": "M.G.L. c. 95, § 5",
+       "kind": "section",
+       "text": "# Section 5: Counterfeiting, altering or defacing marks of measurer\nSection 5. Whoever counterfeits or causes to be counterfeited, or, not being a sworn measurer, alters or defaces with intent to deceive, a measurer's marks on a skin or side or other portion of leather shall be punished by a fine of twenty-five dollars.\n"
+      }
+     },
+     "credits": {},
+     "source_images": [],
+     "in_force_basis": "The official chapter and section pages state no date for this text; retrieval on 2026-11-11 is used as the oldest available current-text baseline.",
+     "note": "Current General Court online chapter and every section listed in its chapter table of contents, retrieved 2026-11-11."
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0096",
+   "short": "M.G.L. c. 96",
+   "title": "General Laws, Chapter 96: Measurement of lumber",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter96",
+   "first_law": null,
+   "earlier_laws": [],
+   "publisher": {
+    "name": "General Court of the Commonwealth of Massachusetts",
+    "email": "generalcourt@malegislature.invalid"
+   },
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter96",
+     "sha256": "0e949c201641dc3a0a003808c7baa3119ba85b2049aee6d453890007dd587928",
+     "units": {
+      "sec-0007": {
+       "label": "M.G.L. c. 96, § 7",
+       "kind": "section",
+       "text": "# Section 7: Measurers of lumber; election; appointment\nSection 7. Towns may annually elect one or more measurers of lumber, who shall be sworn to the faithful performance of their duties, and cities may by ordinance provide for the annual appointment of such measurers.\n"
+      },
+      "sec-0008": {
+       "label": "M.G.L. c. 96, § 8",
+       "kind": "section",
+       "text": "# Section 8: Acting in adjoining towns; application for license; fee\nSection 8. A measurer of lumber in any town may apply to the selectmen of an adjoining town for a license to measure lumber therein, and if the selectmen are of the opinion that it will be for the public convenience they may, upon payment of a fee not exceeding one dollar, grant such license, and may limit the territory in which such license may be exercised. Such a license shall remain in force while the licensee holds the office of measurer in the town for which he was chosen, but not later than the next annual town meeting of said town.\n"
+      },
+      "sec-0009": {
+       "label": "M.G.L. c. 96, § 9",
+       "kind": "section",
+       "text": "# Section 9: Fraud or deceit in measuring, marking or numbering lumber; refusal to measure\nSection 9. A measurer of lumber for any city or town who is guilty of or connives at a fraud or deceit in measuring, marking or numbering the contents of any kind of wood or lumber, or who, when lawfully requested, refuses without good reason to measure lumber, shall be punished by a fine of not less than fifty nor more than two hundred dollars.\n"
+      },
+      "sec-0010": {
+       "label": "M.G.L. c. 96, § 10",
+       "kind": "section",
+       "text": "# Section 10: Fraud of seller or purchaser; inducing false measurements\nSection 10. A seller or purchaser of lumber who induces or attempts to induce a measurer to make a false measurement shall be punished by a fine of not less than fifty nor more than two hundred dollars.\n"
+      },
+      "sec-0011": {
+       "label": "M.G.L. c. 96, § 11",
+       "kind": "section",
+       "text": "# Section 11: Misrepresentation of authority\nSection 11. Whoever without authority represents himself to be an official measurer of lumber of any city or town shall be punished by a fine of not less than fifty nor more than two hundred dollars.\n"
+      },
+      "sec-0011a": {
+       "label": "M.G.L. c. 96, § 11A",
+       "kind": "section",
+       "text": "# Section 11A: International log rule; standard rule for determining foot content\nSection 11A. The international log rule, based upon one fourth inch saw kerf, as expressed in the formula (D 2 |m~0.22)–0.71D)|m~0.904762 for four foot sections (D represents top diameter of log in inches; taper allowance, one half inch per four feet lineal), shall be the standard log rule for determining the board foot content of saw logs in this commonwealth, and all contracts entered into for the purchase and sale of saw logs shall be deemed to be made on the basis of such standard rule, unless some other method of measurement is specifically agreed upon.\n"
+      },
+      "sec-0012": {
+       "label": "M.G.L. c. 96, § 12",
+       "kind": "section",
+       "text": "# Section 12: Repealed, 1924, 258, Sec. 3\n"
+      }
+     },
+     "credits": {},
+     "source_images": [],
+     "in_force_basis": "The official chapter and section pages state no date for this text; retrieval on 2026-11-11 is used as the oldest available current-text baseline.",
+     "note": "Current General Court online chapter and every section listed in its chapter table of contents, retrieved 2026-11-11."
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0104",
+   "short": "M.G.L. c. 104",
+   "title": "General Laws, Chapter 104: Agents, consignees and factors",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter104",
+   "first_law": null,
+   "earlier_laws": [],
+   "publisher": {
+    "name": "General Court of the Commonwealth of Massachusetts",
+    "email": "generalcourt@malegislature.invalid"
+   },
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter104",
+     "sha256": "f8877c14f28d17b25e856d0b8bfeab2f1b05dab7b384cd8c8a95dc9873b58115",
+     "units": {
+      "sec-0001": {
+       "label": "M.G.L. c. 104, § 1",
+       "kind": "section",
+       "text": "# Section 1: Sales by consignees\nSection 1. A factor or other agent intrusted with the possession of merchandise or of a bill of lading consigning merchandise to him with authority to sell the same shall be deemed the true owner of such merchandise, so far as to give validity to any bona fide contract of sale made by him.\n"
+      },
+      "sec-0002": {
+       "label": "M.G.L. c. 104, § 2",
+       "kind": "section",
+       "text": "# Section 2: Lien of consignee\nSection 2. A shipper in lawful possession of merchandise at the time of shipment and in whose name it is shipped for sale shall be deemed the true owner thereof so far as to entitle the consignee to a lien thereon for money advanced or for securities given to the shipper for or on account of such consignment, unless the consignee, at or before the time when he made the advances or gave the securities, had notice by the bill of lading or otherwise that the shipper was not the actual and bona fide owner.\n"
+      },
+      "sec-0003": {
+       "label": "M.G.L. c. 104, § 3",
+       "kind": "section",
+       "text": "# Section 3: Lien on consignment\nSection 3. If a person intrusted with merchandise has authority to sell or consign the same, a consignee to whom he consigns it shall have a lien thereon for any money or merchandise advanced or for any negotiable security given by him on the faith of such consignment, to or for the use of the person in whose name the consignment or delivery was made, and for any money, negotiable security or merchandise received for the use of such consignee by the person in whose name the consignment or delivery was made, if such consignee had, at the time of such advance or receipt, probable cause to believe that the person in whose name the merchandise was shipped, transmitted or delivered was the actual owner thereof or had a legal interest therein to the amount of said lien.\n"
+      },
+      "sec-0004": {
+       "label": "M.G.L. c. 104, § 4",
+       "kind": "section",
+       "text": "# Section 4: Lien for advances to consignee\nSection 4. If a consignee or factor, having possession of merchandise, or a bill of lading, permit, certificate or order for the delivery thereof, with authority to sell said merchandise, deposits or pledges such merchandise or a part thereof or such document with any other person as security for money or merchandise advanced or for a negotiable instrument given by him on the credit thereof, such other person, if he makes such loan, advance or exchange in good faith and with probable cause to believe that the agent making the deposit or pledge had authority so to do and was not acting fraudulently against the owner of such merchandise, shall, notwithstanding he has notice of such agency, acquire the same interest in and authority over such merchandise and documents as he would have acquired if the agent had been the actual owner thereof. In the event of conflict between the provisions of this section and provisions of article nine of chapter one hundred and six, the provisions of said article nine govern.\n"
+      },
+      "sec-0005": {
+       "label": "M.G.L. c. 104, § 5",
+       "kind": "section",
+       "text": "# Section 5: Pledge by consignee to secure antecedent debt\nSection 5. If such merchandise or document is accepted in deposit or pledge for an antecedent debt due from such consignee or factor, the person receiving the same shall thereby acquire no other or further right or interest in or authority over or lien upon the same than the consignee or factor might have enforced against the actual owner.\n"
+      },
+      "sec-0006": {
+       "label": "M.G.L. c. 104, § 6",
+       "kind": "section",
+       "text": "# Section 6: Effect of Secs. 1 to 5 on lien of consignee\nSection 6. The three preceding sections shall not affect the lien of a consignee or factor for expenses and charges attending the shipment, transportation and care of merchandise intrusted to him; nor prevent the actual owner of merchandise from recovering it, previous to any pledge thereof, from the consignee or factor or from his assignee in case of his insolvency; nor prevent such owner from recovering any merchandise or document so deposited or pledged, on tender of the money and restoration of the negotiable security or property so advanced to such consignee or factor, and on tender of such further amount of money and restoration of such negotiable instrument or property advanced or given by the consignee or factor to the owner, or upon tender of an amount of money equal to the amount or value of such merchandise; nor prevent him from recovering from a person with whom such merchandise has been so deposited or pledged any balance of money remaining in his hands as the proceeds of the sales thereof, after deducting the amount or value of the money or negotiable security so advanced thereon.\n"
+      },
+      "sec-0007": {
+       "label": "M.G.L. c. 104, § 7",
+       "kind": "section",
+       "text": "# Section 7: Definitions\nSection 7. The following terms as used in sections eight and nine, unless the context otherwise requires, shall have the following meanings:\n''Commission'', compensation accruing to a sales representative for payment by a principal, earned through the last day on which services were performed by the sales representative, the rate of which is expressed as a percentage of the dollar amount of orders or sales.\n''Principal'', a person who manufactures, produces, imports or distributes a product for wholesale; contracts to solicit orders for such product, and compensates individuals who solicit wholesale orders in whole or in part, by commission.\n''Sales representative'', a person other than an employee, who contracts with a principal to solicit wholesale orders in the commonwealth and who is compensated, in whole or in part, by commission but shall not include one who places orders or purchases exclusively for his own account for resale.\n''Day'', any calendar day, including Saturdays, Sundays and legal holidays.\n''Termination'', the end of services performed by the sales representative for the principal whether by expiration of a contract, discharge or resignation.\n"
+      },
+      "sec-0008": {
+       "label": "M.G.L. c. 104, § 8",
+       "kind": "section",
+       "text": "# Section 8: Contract for services; payment of commissions\nSection 8. The terms of the contract between a principal and a sales representative shall determine when a commission shall be due. If the time when such commission shall be due is not specified in a contract, the past practices between the parties shall control or, if there are no such past practices, the custom and usage prevalent in the commonwealth for the business that is the subject of the relationship between the parties shall control. All commissions that are due at the time of termination of a contract between a sales representative and principal shall be paid within fourteen days after the date of termination. Commissions that become due after the termination date shall be paid within fourteen days after the date on which the commissions became due.\n"
+      },
+      "sec-0009": {
+       "label": "M.G.L. c. 104, § 9",
+       "kind": "section",
+       "text": "# Section 9: Liability for failure to pay commissions; jurisdiction; waiver of statutory provisions\nSection 9. A principal who wilfully or knowingly fails to comply with provisions relating to the prompt payment of commissions set forth in section eight shall be liable to the sales representative in a civil action for the principal amount of the commissions owed and for an additional sum up to three times the amount of commissions and for reasonable attorney's fees and court costs. A principal who is not a resident of the commonwealth and who enters into a contract subject to the provisions of sections seven to nine shall be deemed to be doing business in the commonwealth for purposes of the exercise of personal jurisdiction over such principal. No provision of sections seven to nine may be waived, whether by express waiver or by an attempt to make a contract or agreement subject to the laws of another jurisdiction. A waiver of any provision of sections seven to nine shall be void.\n"
+      }
+     },
+     "credits": {},
+     "source_images": [],
+     "in_force_basis": "The official chapter and section pages state no date for this text; retrieval on 2026-11-11 is used as the oldest available current-text baseline.",
+     "note": "Current General Court online chapter and every section listed in its chapter table of contents, retrieved 2026-11-11."
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "name": "General Court of the Commonwealth of Massachusetts, live General Laws",
+   "url": "https://malegislature.gov/Laws/GeneralLaws",
+   "retrieved": "2026-11-11",
+   "requests": 29,
+   "licence": "Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words.",
+   "notes": "Each included chapter has a live official table of contents and all listed live section pages."
+  }
+ ],
+ "decisions": [
+  "Each included chapter is one current-text baseline. Every listed section was fetched; chapters with dated legal text or normative images were held for separate review. Source pages for included chapters state no date, so their retrieval day is used explicitly."
+ ],
+ "ai_use": [
+  "A model wrote the deterministic collector and parser, but did not author or edit law text."
+ ]
+}

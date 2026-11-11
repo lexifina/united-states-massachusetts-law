@@ -207,19 +207,20 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0266/` | General Laws, Chapter 266: Crimes against property | 218 | One version: the General Court's online text, each section from its newest web capture (captured 2024-12-09 to 2026-10-16), dated 2026-10-18 |
 
 | `gl-chapter-0014/` | General Laws, Chapter 14: Department of revenue | 14 | One current online version retrieved 2026-11-11; the official pages give no text date |
-| `gl-chapter-0016/` | General Laws, Chapter 16: Department of highways | 15 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0031a/` | General Laws, Chapter 31A: Municipal personnel systems | 11 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0040x/` | General Laws, Chapter 40X: Tourism destination marketing districts | 11 | One current online version retrieved 2026-11-11; the official pages give no text date |
-| `gl-chapter-0042/` | General Laws, Chapter 42: Boundaries of cities and towns | 12 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0047/` | General Laws, Chapter 47: Infirmaries | 12 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0055b/` | General Laws, Chapter 55B: The state ballot law commission | 12 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0055c/` | General Laws, Chapter 55C: Limited public financing of campaigns for statewide elective office | 13 | One current online version retrieved 2026-11-11; the official pages give no text date |
-| `gl-chapter-0063b/` | General Laws, Chapter 63B: Declaration of estimated tax by corporations | 13 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0090a/` | General Laws, Chapter 90A: The highway safety act | 7 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0090h/` | General Laws, Chapter 90H: Gateway roads program | 5 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0090i/` | General Laws, Chapter 90I: Complete streets program | 4 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0090j/` | General Laws, Chapter 90J: Counterfeit airbag prohibition | 2 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0090k/` | General Laws, Chapter 90K: Automated enforcement of bus stops and bus lanes | 9 | One current online version retrieved 2026-11-11; the official pages give no text date |
+| `gl-chapter-0093f/` | General Laws, Chapter 93F: Regulation of certain business practices between motion picture distributors and exhibitors | 4 | One current online version retrieved 2026-11-11; the official pages give no text date |
+| `gl-chapter-0095/` | General Laws, Chapter 95: Measuring of leather | 5 | One current online version retrieved 2026-11-11; the official pages give no text date |
+| `gl-chapter-0096/` | General Laws, Chapter 96: Measurement of lumber | 7 | One current online version retrieved 2026-11-11; the official pages give no text date |
+| `gl-chapter-0104/` | General Laws, Chapter 104: Agents, consignees and factors | 9 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0021f/` | General Laws, Chapter 21F: Coastal facilities improvement | 7 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0021l/` | General Laws, Chapter 21L: Environmental endangerment act | 4 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0022a/` | General Laws, Chapter 22A: Missing persons | 9 | One current online version retrieved 2026-11-11; the official pages give no text date |
@@ -230,7 +231,6 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0040y/` | General Laws, Chapter 40Y: Starter home zoning districts | 8 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0063a/` | General Laws, Chapter 63A: Taxation of certain corporations, associations and organizations engaged in the sale of alcoholic beverages | 3 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0064m/` | General Laws, Chapter 64M: Taxation of direct broadcast satellite service | 6 | One current online version retrieved 2026-11-11; the official pages give no text date |
-| `gl-chapter-0065a/` | General Laws, Chapter 65A: Taxation of transfers of certain estates | 7 | One current online version retrieved 2026-11-11; the official pages give no text date |
 | `gl-chapter-0065b/` | General Laws, Chapter 65B: Settlement of disputes respecting the domicile of decedents for death tax purposes | 7 | One current online version retrieved 2026-11-11; the official pages give no text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
