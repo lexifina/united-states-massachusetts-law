@@ -1,0 +1,9 @@
+# General Laws, Chapter 66A: Fair information practices
+
+M.G.L. c. 66A · 1 versions, from 2026-10-08 (latest in force: 2026-10-08) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| M.G.L. c. 66A, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 66A, § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| M.G.L. c. 66A, § 3 | [sec-0003.md](sec-0003.md) | 0 |  |

@@ -1,0 +1,75 @@
+# General Laws, Chapter 109: Limited partnership
+
+M.G.L. c. 109 · 1 versions, from 2026-10-17 (latest in force: 2026-10-17) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter109>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| M.G.L. c. 109, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 109, § 1A | [sec-0001a.md](sec-0001a.md) | 0 |  |
+| M.G.L. c. 109, § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| M.G.L. c. 109, § 3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| M.G.L. c. 109, § 4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| M.G.L. c. 109, § 4A | [sec-0004a.md](sec-0004a.md) | 0 |  |
+| M.G.L. c. 109, § 5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| M.G.L. c. 109, § 6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| M.G.L. c. 109, § 7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| M.G.L. c. 109, § 8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| M.G.L. c. 109, § 9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| M.G.L. c. 109, § 10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| M.G.L. c. 109, § 11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| M.G.L. c. 109, § 12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| M.G.L. c. 109, § 13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| M.G.L. c. 109, § 14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| M.G.L. c. 109, § 15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| M.G.L. c. 109, § 16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| M.G.L. c. 109, § 16A | [sec-0016a.md](sec-0016a.md) | 0 |  |
+| M.G.L. c. 109, § 17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| M.G.L. c. 109, § 18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| M.G.L. c. 109, § 19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| M.G.L. c. 109, § 20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| M.G.L. c. 109, § 21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| M.G.L. c. 109, § 22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| M.G.L. c. 109, § 23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| M.G.L. c. 109, § 24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| M.G.L. c. 109, § 25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| M.G.L. c. 109, § 26 | [sec-0026.md](sec-0026.md) | 0 |  |
+| M.G.L. c. 109, § 27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| M.G.L. c. 109, § 28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| M.G.L. c. 109, § 29 | [sec-0029.md](sec-0029.md) | 0 |  |
+| M.G.L. c. 109, § 30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| M.G.L. c. 109, § 31 | [sec-0031.md](sec-0031.md) | 0 |  |
+| M.G.L. c. 109, § 32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| M.G.L. c. 109, § 33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| M.G.L. c. 109, § 34 | [sec-0034.md](sec-0034.md) | 0 |  |
+| M.G.L. c. 109, § 35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| M.G.L. c. 109, § 36 | [sec-0036.md](sec-0036.md) | 0 |  |
+| M.G.L. c. 109, § 37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| M.G.L. c. 109, § 38 | [sec-0038.md](sec-0038.md) | 0 |  |
+| M.G.L. c. 109, § 39 | [sec-0039.md](sec-0039.md) | 0 |  |
+| M.G.L. c. 109, § 40 | [sec-0040.md](sec-0040.md) | 0 |  |
+| M.G.L. c. 109, § 41 | [sec-0041.md](sec-0041.md) | 0 |  |
+| M.G.L. c. 109, § 42 | [sec-0042.md](sec-0042.md) | 0 |  |
+| M.G.L. c. 109, § 43 | [sec-0043.md](sec-0043.md) | 0 |  |
+| M.G.L. c. 109, § 44 | [sec-0044.md](sec-0044.md) | 0 |  |
+| M.G.L. c. 109, § 45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| M.G.L. c. 109, § 46 | [sec-0046.md](sec-0046.md) | 0 |  |
+| M.G.L. c. 109, § 47 | [sec-0047.md](sec-0047.md) | 0 |  |
+| M.G.L. c. 109, § 48 | [sec-0048.md](sec-0048.md) | 0 |  |
+| M.G.L. c. 109, § 49 | [sec-0049.md](sec-0049.md) | 0 |  |
+| M.G.L. c. 109, § 50 | [sec-0050.md](sec-0050.md) | 0 |  |
+| M.G.L. c. 109, § 51 | [sec-0051.md](sec-0051.md) | 0 |  |
+| M.G.L. c. 109, § 52 | [sec-0052.md](sec-0052.md) | 0 |  |
+| M.G.L. c. 109, § 53 | [sec-0053.md](sec-0053.md) | 0 |  |
+| M.G.L. c. 109, § 54 | [sec-0054.md](sec-0054.md) | 0 |  |
+| M.G.L. c. 109, § 55 | [sec-0055.md](sec-0055.md) | 0 |  |
+| M.G.L. c. 109, § 56 | [sec-0056.md](sec-0056.md) | 0 |  |
+| M.G.L. c. 109, § 57 | [sec-0057.md](sec-0057.md) | 0 |  |
+| M.G.L. c. 109, § 58 | [sec-0058.md](sec-0058.md) | 0 |  |
+| M.G.L. c. 109, § 59 | [sec-0059.md](sec-0059.md) | 0 |  |
+| M.G.L. c. 109, § 60 | [sec-0060.md](sec-0060.md) | 0 |  |
+| M.G.L. c. 109, § 61 | [sec-0061.md](sec-0061.md) | 0 |  |
+| M.G.L. c. 109, § 62 | [sec-0062.md](sec-0062.md) | 0 |  |
+| M.G.L. c. 109, § 63 | [sec-0063.md](sec-0063.md) | 0 |  |
+| M.G.L. c. 109, § 64 | [sec-0064.md](sec-0064.md) | 0 |  |
+| M.G.L. c. 109, § 65 | [sec-0065.md](sec-0065.md) | 0 |  |
+| M.G.L. c. 109, § 66 | [sec-0066.md](sec-0066.md) | 0 |  |
