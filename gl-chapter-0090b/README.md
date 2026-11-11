@@ -1,0 +1,70 @@
+# General Laws, Chapter 90B: Motorboats, other vessels and recreational vehicles
+
+M.G.L. c. 90B · 1 versions, from 2026-10-17 (latest in force: 2026-10-17) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90B>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| M.G.L. c. 90B, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 90B, § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| M.G.L. c. 90B, § 3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| M.G.L. c. 90B, § 4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| M.G.L. c. 90B, § 4A | [sec-0004a.md](sec-0004a.md) | 0 |  |
+| M.G.L. c. 90B, § 4B | [sec-0004b.md](sec-0004b.md) | 0 |  |
+| M.G.L. c. 90B, § 5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| M.G.L. c. 90B, § 5A | [sec-0005a.md](sec-0005a.md) | 0 |  |
+| M.G.L. c. 90B, § 5B | [sec-0005b.md](sec-0005b.md) | 0 |  |
+| M.G.L. c. 90B, § 5C | [sec-0005c.md](sec-0005c.md) | 0 |  |
+| M.G.L. c. 90B, § 5D | [sec-0005d.md](sec-0005d.md) | 0 |  |
+| M.G.L. c. 90B, § 6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| M.G.L. c. 90B, § 7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| M.G.L. c. 90B, § 8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| M.G.L. c. 90B, § 8A | [sec-0008a.md](sec-0008a.md) | 0 |  |
+| M.G.L. c. 90B, § 8B | [sec-0008b.md](sec-0008b.md) | 0 |  |
+| M.G.L. c. 90B, § 9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| M.G.L. c. 90B, § 9A | [sec-0009a.md](sec-0009a.md) | 0 |  |
+| M.G.L. c. 90B, § 9B | [sec-0009b.md](sec-0009b.md) | 0 |  |
+| M.G.L. c. 90B, § 9C | [sec-0009c.md](sec-0009c.md) | 0 |  |
+| M.G.L. c. 90B, § 9D | [sec-0009d.md](sec-0009d.md) | 0 |  |
+| M.G.L. c. 90B, § 9E | [sec-0009e.md](sec-0009e.md) | 0 |  |
+| M.G.L. c. 90B, § 9F | [sec-0009f.md](sec-0009f.md) | 0 |  |
+| M.G.L. c. 90B, § 10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| M.G.L. c. 90B, § 11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| M.G.L. c. 90B, § 12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| M.G.L. c. 90B, § 12A | [sec-0012a.md](sec-0012a.md) | 0 |  |
+| M.G.L. c. 90B, § 13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| M.G.L. c. 90B, § 13A | [sec-0013a.md](sec-0013a.md) | 0 |  |
+| M.G.L. c. 90B, § 13B | [sec-0013b.md](sec-0013b.md) | 0 |  |
+| M.G.L. c. 90B, § 14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| M.G.L. c. 90B, § 15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| M.G.L. c. 90B, § 16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| M.G.L. c. 90B, § 17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| M.G.L. c. 90B, § 18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| M.G.L. c. 90B, § 19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| M.G.L. c. 90B, § 20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| M.G.L. c. 90B, § 21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| M.G.L. c. 90B, § 22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| M.G.L. c. 90B, § 22A | [sec-0022a.md](sec-0022a.md) | 0 |  |
+| M.G.L. c. 90B, § 23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| M.G.L. c. 90B, § 24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| M.G.L. c. 90B, § 25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| M.G.L. c. 90B, § 26 | [sec-0026.md](sec-0026.md) | 0 |  |
+| M.G.L. c. 90B, § 26A | [sec-0026a.md](sec-0026a.md) | 0 |  |
+| M.G.L. c. 90B, § 26B | [sec-0026b.md](sec-0026b.md) | 0 |  |
+| M.G.L. c. 90B, § 26C | [sec-0026c.md](sec-0026c.md) | 0 |  |
+| M.G.L. c. 90B, § 26D | [sec-0026d.md](sec-0026d.md) | 0 |  |
+| M.G.L. c. 90B, § 26E | [sec-0026e.md](sec-0026e.md) | 0 |  |
+| M.G.L. c. 90B, § 27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| M.G.L. c. 90B, § 28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| M.G.L. c. 90B, § 28A | [sec-0028a.md](sec-0028a.md) | 0 |  |
+| M.G.L. c. 90B, § 28B | [sec-0028b.md](sec-0028b.md) | 0 |  |
+| M.G.L. c. 90B, § 29 | [sec-0029.md](sec-0029.md) | 0 |  |
+| M.G.L. c. 90B, § 30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| M.G.L. c. 90B, § 31 | [sec-0031.md](sec-0031.md) | 0 |  |
+| M.G.L. c. 90B, § 32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| M.G.L. c. 90B, § 33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| M.G.L. c. 90B, § 34 | [sec-0034.md](sec-0034.md) | 0 |  |
+| M.G.L. c. 90B, § 35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| M.G.L. c. 90B, § 36 | [sec-0036.md](sec-0036.md) | 0 |  |
+| M.G.L. c. 90B, § 37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| M.G.L. c. 90B, § 38 | [sec-0038.md](sec-0038.md) | 0 |  |
+| M.G.L. c. 90B, § 39 | [sec-0039.md](sec-0039.md) | 0 |  |
