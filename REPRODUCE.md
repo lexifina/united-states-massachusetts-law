@@ -1,6 +1,6 @@
 # How this repository was made (Massachusetts)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -203,6 +203,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94I> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts: General Laws chapter 93A, official section pages (Internet Archive copies) | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93A> | 2026-11-06 | Official statutory text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)); website design, photographs, videos and third-party copyrighted material are excluded. |
+| General Court of Massachusetts: Chapter 93A, Internet Archive copies of official pages (2010 captures) | <https://web.archive.org/web/20100918122547id_/http://www.malegislature.gov:80/Laws/GeneralLaws/PartI/TitleXV/Chapter93A> | 2026-11-11 | Official Massachusetts statute text is not copyrightable in the United States; no annotations are used. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -406,9 +407,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0094h` | General Laws, Chapter 94H: Drug stewardship program | 1 | 2026-07-10 to 2026-07-10 |
 | `gl-chapter-0094i` | General Laws, Chapter 94I: Medical use of marijuana | 1 | 2026-10-13 to 2026-10-13 |
 | `gl-chapter-0009a` | General Laws, Chapter 9A: Address confidentiality program | 1 | 2026-09-13 to 2026-09-13 |
-| `gl-chapter-0093a` | General Laws, Chapter 93A: Regulation of business practices for consumers protection | 1 | 2026-10-21 to 2026-10-21 |
+| `gl-chapter-0093a` | General Laws, Chapter 93A: Regulation of business practices for consumers protection | 2 | 2010-09-21 to 2026-10-21 |
 
-The build made 197 commits:
+The build made 199 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -417,7 +418,7 @@ The build made 197 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 197 tags.
@@ -432,7 +433,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e29d7132143070f4fc59b9c15089e3a072c7b2f19b69d2ede046c25825e3e35e` (16223699 bytes).
+- Corpus: sha256 `e4c2b689eae465f2e0bab487c6659618c5eb926809621764fb682b8b03807bda` (16286485 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -646,6 +647,7 @@ No second build of this corpus has been compared yet.
 - General Laws chapter 9A: one unit per section listed in the chapter's table of contents, including sections shown as repealed. Sections were read from different captures (2023-06-07 to 2026-07-06), so the single version is dated 2026-09-13, the newest capture day among the chapter's pages; the pages state no date, so it is a capture date, not a commencement date. A section amended between its capture and that day would show its older text.
 - In-force basis: the official section pages provide no dated consolidation or latest-amendment commencement for this assembled text. 2026-10-21 is the newest source capture day, not an established commencement day. Text-as-of: 2026-10-21. The eleven section pages were captured between 2025-09-03 and 2026-10-21; this assembled archival baseline does not establish a coherent historical version for every day in that interval, or current text on the retrieval day.
 - One unit per section in the official chapter table of contents; no amendment history reconstructed. Typesetting normalization only: whitespace, typographic quotes and dashes; no legal words authored or corrected.
+- Chapter 93A: adds a 2010 archival as-of text before the existing 2026 version. The original signed-off act and its current version are copied without change. Later complete 2016 and 2022 archived section sets show the same letters and digits as the 2010 text after excluding a site-internal marker; they add no distinct historical wording. Archive captures are labelled; their timestamps are not claimed as amendment dates.
 
 ## What AI did and did not do
 
@@ -853,3 +855,4 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - GPT-6 wrote the source-handling and validation code and selected the chapter; no model-generated or model-corrected legal text or OCR was used.
+- An AI worker wrote this deterministic parser and reviewed its checks; no model wrote or corrected legal text.
