@@ -1,0 +1,70 @@
+# General Laws, Chapter 79: Eminent domain
+
+M.G.L. c. 79 · 1 versions, from 2026-10-13 (latest in force: 2026-10-13) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIII/Chapter79>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| M.G.L. c. 79, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 79, § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| M.G.L. c. 79, § 3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| M.G.L. c. 79, § 4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| M.G.L. c. 79, § 5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| M.G.L. c. 79, § 5A | [sec-0005a.md](sec-0005a.md) | 0 |  |
+| M.G.L. c. 79, § 5B | [sec-0005b.md](sec-0005b.md) | 0 |  |
+| M.G.L. c. 79, § 5C | [sec-0005c.md](sec-0005c.md) | 0 |  |
+| M.G.L. c. 79, § 6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| M.G.L. c. 79, § 6A | [sec-0006a.md](sec-0006a.md) | 0 |  |
+| M.G.L. c. 79, § 7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| M.G.L. c. 79, § 7A | [sec-0007a.md](sec-0007a.md) | 0 |  |
+| M.G.L. c. 79, § 7B | [sec-0007b.md](sec-0007b.md) | 0 |  |
+| M.G.L. c. 79, § 7C | [sec-0007c.md](sec-0007c.md) | 0 |  |
+| M.G.L. c. 79, § 7D | [sec-0007d.md](sec-0007d.md) | 0 |  |
+| M.G.L. c. 79, § 7E | [sec-0007e.md](sec-0007e.md) | 0 |  |
+| M.G.L. c. 79, § 7F | [sec-0007f.md](sec-0007f.md) | 0 |  |
+| M.G.L. c. 79, § 7G | [sec-0007g.md](sec-0007g.md) | 0 |  |
+| M.G.L. c. 79, § 7H | [sec-0007h.md](sec-0007h.md) | 0 |  |
+| M.G.L. c. 79, § 8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| M.G.L. c. 79, § 8A | [sec-0008a.md](sec-0008a.md) | 0 |  |
+| M.G.L. c. 79, § 8B | [sec-0008b.md](sec-0008b.md) | 0 |  |
+| M.G.L. c. 79, § 9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| M.G.L. c. 79, § 10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| M.G.L. c. 79, § 10A | [sec-0010a.md](sec-0010a.md) | 0 |  |
+| M.G.L. c. 79, § 11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| M.G.L. c. 79, § 12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| M.G.L. c. 79, § 12A | [sec-0012a.md](sec-0012a.md) | 0 |  |
+| M.G.L. c. 79, § 13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| M.G.L. c. 79, § 14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| M.G.L. c. 79, § 15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| M.G.L. c. 79, § 16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| M.G.L. c. 79, § 17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| M.G.L. c. 79, § 18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| M.G.L. c. 79, § 19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| M.G.L. c. 79, § 20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| M.G.L. c. 79, § 21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| M.G.L. c. 79, § 22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| M.G.L. c. 79, § 23 | [sec-0023.md](sec-0023.md) | 0 |  |
+| M.G.L. c. 79, § 24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| M.G.L. c. 79, § 25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| M.G.L. c. 79, § 26 | [sec-0026.md](sec-0026.md) | 0 |  |
+| M.G.L. c. 79, § 27 | [sec-0027.md](sec-0027.md) | 0 |  |
+| M.G.L. c. 79, § 28 | [sec-0028.md](sec-0028.md) | 0 |  |
+| M.G.L. c. 79, § 29 | [sec-0029.md](sec-0029.md) | 0 |  |
+| M.G.L. c. 79, § 30 | [sec-0030.md](sec-0030.md) | 0 |  |
+| M.G.L. c. 79, § 31 | [sec-0031.md](sec-0031.md) | 0 |  |
+| M.G.L. c. 79, § 32 | [sec-0032.md](sec-0032.md) | 0 |  |
+| M.G.L. c. 79, § 33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| M.G.L. c. 79, § 34 | [sec-0034.md](sec-0034.md) | 0 |  |
+| M.G.L. c. 79, § 35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| M.G.L. c. 79, § 35A | [sec-0035a.md](sec-0035a.md) | 0 |  |
+| M.G.L. c. 79, § 36 | [sec-0036.md](sec-0036.md) | 0 |  |
+| M.G.L. c. 79, § 36A | [sec-0036a.md](sec-0036a.md) | 0 |  |
+| M.G.L. c. 79, § 37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| M.G.L. c. 79, § 38 | [sec-0038.md](sec-0038.md) | 0 |  |
+| M.G.L. c. 79, § 39 | [sec-0039.md](sec-0039.md) | 0 |  |
+| M.G.L. c. 79, § 40 | [sec-0040.md](sec-0040.md) | 0 |  |
+| M.G.L. c. 79, § 41 | [sec-0041.md](sec-0041.md) | 0 |  |
+| M.G.L. c. 79, § 42 | [sec-0042.md](sec-0042.md) | 0 |  |
+| M.G.L. c. 79, § 43 | [sec-0043.md](sec-0043.md) | 0 |  |
+| M.G.L. c. 79, § 44 | [sec-0044.md](sec-0044.md) | 0 |  |
+| M.G.L. c. 79, § 44A | [sec-0044a.md](sec-0044a.md) | 0 |  |
+| M.G.L. c. 79, § 45 | [sec-0045.md](sec-0045.md) | 0 |  |

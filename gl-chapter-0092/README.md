@@ -1,0 +1,72 @@
+# General Laws, Chapter 92: Metropolitan sewers, water and parks
+
+M.G.L. c. 92 · 1 versions, from 2026-05-21 (latest in force: 2026-05-21) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter92>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| M.G.L. c. 92, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 92, § 9A | [sec-0009a.md](sec-0009a.md) | 0 |  |
+| M.G.L. c. 92, § 26B | [sec-0026b.md](sec-0026b.md) | 0 |  |
+| M.G.L. c. 92, § 33 | [sec-0033.md](sec-0033.md) | 0 |  |
+| M.G.L. c. 92, § 34 | [sec-0034.md](sec-0034.md) | 0 |  |
+| M.G.L. c. 92, § 34A | [sec-0034a.md](sec-0034a.md) | 0 |  |
+| M.G.L. c. 92, § 34B | [sec-0034b.md](sec-0034b.md) | 0 |  |
+| M.G.L. c. 92, § 34C | [sec-0034c.md](sec-0034c.md) | 0 |  |
+| M.G.L. c. 92, § 34D | [sec-0034d.md](sec-0034d.md) | 0 |  |
+| M.G.L. c. 92, § 34E | [sec-0034e.md](sec-0034e.md) | 0 |  |
+| M.G.L. c. 92, § 34F | [sec-0034f.md](sec-0034f.md) | 0 |  |
+| M.G.L. c. 92, § 35 | [sec-0035.md](sec-0035.md) | 0 |  |
+| M.G.L. c. 92, § 35A | [sec-0035a.md](sec-0035a.md) | 0 |  |
+| M.G.L. c. 92, § 36 | [sec-0036.md](sec-0036.md) | 0 |  |
+| M.G.L. c. 92, § 37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| M.G.L. c. 92, § 38 | [sec-0038.md](sec-0038.md) | 0 |  |
+| M.G.L. c. 92, § 41 | [sec-0041.md](sec-0041.md) | 0 |  |
+| M.G.L. c. 92, § 42 | [sec-0042.md](sec-0042.md) | 0 |  |
+| M.G.L. c. 92, § 43 | [sec-0043.md](sec-0043.md) | 0 |  |
+| M.G.L. c. 92, § 44 | [sec-0044.md](sec-0044.md) | 0 |  |
+| M.G.L. c. 92, § 45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| M.G.L. c. 92, § 46 | [sec-0046.md](sec-0046.md) | 0 |  |
+| M.G.L. c. 92, § 47 | [sec-0047.md](sec-0047.md) | 0 |  |
+| M.G.L. c. 92, § 48 | [sec-0048.md](sec-0048.md) | 0 |  |
+| M.G.L. c. 92, § 49 | [sec-0049.md](sec-0049.md) | 0 |  |
+| M.G.L. c. 92, § 50 | [sec-0050.md](sec-0050.md) | 0 |  |
+| M.G.L. c. 92, § 51 | [sec-0051.md](sec-0051.md) | 0 |  |
+| M.G.L. c. 92, § 52 | [sec-0052.md](sec-0052.md) | 0 |  |
+| M.G.L. c. 92, § 53 | [sec-0053.md](sec-0053.md) | 0 |  |
+| M.G.L. c. 92, § 56 | [sec-0056.md](sec-0056.md) | 0 |  |
+| M.G.L. c. 92, § 60A | [sec-0060a.md](sec-0060a.md) | 0 |  |
+| M.G.L. c. 92, § 62B | [sec-0062b.md](sec-0062b.md) | 0 |  |
+| M.G.L. c. 92, § 63 | [sec-0063.md](sec-0063.md) | 0 |  |
+| M.G.L. c. 92, § 66A | [sec-0066a.md](sec-0066a.md) | 0 |  |
+| M.G.L. c. 92, § 67 | [sec-0067.md](sec-0067.md) | 0 |  |
+| M.G.L. c. 92, § 68 | [sec-0068.md](sec-0068.md) | 0 |  |
+| M.G.L. c. 92, § 69 | [sec-0069.md](sec-0069.md) | 0 |  |
+| M.G.L. c. 92, § 70 | [sec-0070.md](sec-0070.md) | 0 |  |
+| M.G.L. c. 92, § 71 | [sec-0071.md](sec-0071.md) | 0 |  |
+| M.G.L. c. 92, § 74 | [sec-0074.md](sec-0074.md) | 0 |  |
+| M.G.L. c. 92, § 74A | [sec-0074a.md](sec-0074a.md) | 0 |  |
+| M.G.L. c. 92, § 75 | [sec-0075.md](sec-0075.md) | 0 |  |
+| M.G.L. c. 92, § 76 | [sec-0076.md](sec-0076.md) | 0 |  |
+| M.G.L. c. 92, § 76A | [sec-0076a.md](sec-0076a.md) | 0 |  |
+| M.G.L. c. 92, § 76B | [sec-0076b.md](sec-0076b.md) | 0 |  |
+| M.G.L. c. 92, § 76C | [sec-0076c.md](sec-0076c.md) | 0 |  |
+| M.G.L. c. 92, § 76D | [sec-0076d.md](sec-0076d.md) | 0 |  |
+| M.G.L. c. 92, § 76E | [sec-0076e.md](sec-0076e.md) | 0 |  |
+| M.G.L. c. 92, § 79 | [sec-0079.md](sec-0079.md) | 0 |  |
+| M.G.L. c. 92, § 80 | [sec-0080.md](sec-0080.md) | 0 |  |
+| M.G.L. c. 92, § 83 | [sec-0083.md](sec-0083.md) | 0 |  |
+| M.G.L. c. 92, § 84 | [sec-0084.md](sec-0084.md) | 0 |  |
+| M.G.L. c. 92, § 85 | [sec-0085.md](sec-0085.md) | 0 |  |
+| M.G.L. c. 92, § 86 | [sec-0086.md](sec-0086.md) | 0 |  |
+| M.G.L. c. 92, § 87 | [sec-0087.md](sec-0087.md) | 0 |  |
+| M.G.L. c. 92, § 88 | [sec-0088.md](sec-0088.md) | 0 |  |
+| M.G.L. c. 92, § 89 | [sec-0089.md](sec-0089.md) | 0 |  |
+| M.G.L. c. 92, § 90 | [sec-0090.md](sec-0090.md) | 0 |  |
+| M.G.L. c. 92, § 91 | [sec-0091.md](sec-0091.md) | 0 |  |
+| M.G.L. c. 92, § 92 | [sec-0092.md](sec-0092.md) | 0 |  |
+| M.G.L. c. 92, § 93 | [sec-0093.md](sec-0093.md) | 0 |  |
+| M.G.L. c. 92, § 94 | [sec-0094.md](sec-0094.md) | 0 |  |
+| M.G.L. c. 92, § 95 | [sec-0095.md](sec-0095.md) | 0 |  |
+| M.G.L. c. 92, § 95A | [sec-0095a.md](sec-0095a.md) | 0 |  |
+| M.G.L. c. 92, § 99 | [sec-0099.md](sec-0099.md) | 0 |  |
+| M.G.L. c. 92, § 102 | [sec-0102.md](sec-0102.md) | 0 |  |
