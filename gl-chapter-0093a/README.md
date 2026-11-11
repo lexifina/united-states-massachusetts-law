@@ -1,10 +1,10 @@
 # General Laws, Chapter 93A: Regulation of business practices for consumers protection
 
-M.G.L. c. 93A · 1 versions, from 2026-10-21 (latest in force: 2026-10-21) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93A>
+M.G.L. c. 93A · 2 versions, from 2010-09-21 (latest in force: 2026-10-21)
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| M.G.L. c. 93A, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 93A, § 1 | [sec-0001.md](sec-0001.md) | 1 | 2026-10-21 |
 | M.G.L. c. 93A, § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
 | M.G.L. c. 93A, § 3 | [sec-0003.md](sec-0003.md) | 0 |  |
 | M.G.L. c. 93A, § 4 | [sec-0004.md](sec-0004.md) | 0 |  |
