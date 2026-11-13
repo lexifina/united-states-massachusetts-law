@@ -1,0 +1,17 @@
+{
+ "corpus": "ma/national/acts",
+ "path": "united-states-massachusetts/national/acts",
+ "scope": "selected-acts",
+ "acts": 4,
+ "future_branch": "future",
+ "publisher": "General Court of the Commonwealth of Massachusetts",
+ "name": "Massachusetts",
+ "language": "en",
+ "coverage": "4 acts of Massachusetts, the current text of each as of 2026-11-13",
+ "history": "current-only",
+ "history_from": "2026-10-15",
+ "record_to": "2026-11-13",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from General Court of the Commonwealth of Massachusetts.",
+ "in_force_trailer": "In-force"
+}
