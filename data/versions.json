@@ -9,6 +9,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 229,
      "source_url": "https://malegislature.gov/Laws/Constitution",
      "sha256": "0da92e89babf377bedab6d03a98fbfed23756164d28cc417c836750a3db147be"
@@ -23,6 +26,9 @@
    "versions": [
     {
      "from": "2026-06-04",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter1",
      "sha256": "ec1bc048514930adcac9039d5ae4e21ce287814e4376f94c692925fceb1ea956"
@@ -37,6 +43,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter100",
      "sha256": "c41466796c7f66eff1549c98844a1d7c13dee9f010680a4d69b887df3e631ccf"
@@ -51,6 +60,9 @@
    "versions": [
     {
      "from": "2026-02-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter100A",
      "sha256": "acd9fee89cb344ef46e977598f177f6c7084bf4cca250a37afb939177b3beacc"
@@ -65,6 +77,9 @@
    "versions": [
     {
      "from": "2026-09-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 40,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter101",
      "sha256": "3c3c6e6cc94f8a973a6fa83f6ab2a955ebcd83b987ac1221d563b5ce7e4e8f0d"
@@ -79,6 +94,9 @@
    "versions": [
     {
      "from": "2026-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter102",
      "sha256": "c180067ecc8309b9af6aecf23b4779df65b3fc985b6d6615d50e7f582a2dbe5d"
@@ -93,6 +111,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter103",
      "sha256": "91ccb024f955b8257d84d3b8d05a6c28e5dab42a4beda3a4aa834316c11effa4"
@@ -107,6 +128,9 @@
    "versions": [
     {
      "from": "2026-08-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter105A",
      "sha256": "839c390474002c1701c3c9311777eba23f6f9e6059dec709cd11cee70c413ba4"
@@ -121,6 +145,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 49,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter108A",
      "sha256": "5ada07186b97107a83c02d595670ce99476083a959d8dbc8ac144b5114fd7106"
@@ -135,6 +162,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 69,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter109",
      "sha256": "cf33b0088fa3afa6d82e450816d0a48681f760d8559a56927c4a9d8f76553a7f"
@@ -149,6 +179,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter109A",
      "sha256": "0baea2ada4f97a91bbb7f1fe2fa46b2089eaea6aaaa347ddbf94c69d26d2b2aa"
@@ -163,6 +196,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter11",
      "sha256": "9b1881368201f006fe4fa8280b608c97f08bd98a7ee1c87b445a80d9a3cd6161"
@@ -177,6 +213,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110",
      "sha256": "6b72d69f778fcc861a147f4da61cca8c4df188cb9f16567221b2473ea9fa9839"
@@ -191,6 +230,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110A",
      "sha256": "fefa611cc80fc560ed9dbfd4d2a858ccf599cf9fd556ff788db24b11f3a01676"
@@ -205,6 +247,9 @@
    "versions": [
     {
      "from": "2025-05-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110F",
      "sha256": "7648319f1d7b8366f0eab2091ca3c0a2976bae8f7e179ac8c14d0b836ac8bf1b"
@@ -219,6 +264,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110G",
      "sha256": "8769b3c433187a54a75225b52c857dbb0af29e2a0cbde984e4fba43b6112fc37"
@@ -233,6 +281,9 @@
    "versions": [
     {
      "from": "2026-08-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110H",
      "sha256": "f3722d6fe491f5b7bce84b65dc37b58f67f883766c35164a9f9deb938730e55d"
@@ -247,6 +298,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 527,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111",
      "sha256": "6bb09f0f5440fd9757c96beecd67ae7cfcaf98df57434896d62b3fe8377c5c99"
@@ -261,6 +315,9 @@
    "versions": [
     {
      "from": "2026-09-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111B",
      "sha256": "77a9ac36eb89751c7b099a7232f9ae735e99e8fee664f2aca242b723e4e79d81"
@@ -275,6 +332,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111D",
      "sha256": "adff27490e6916e010b8d844765db6f566d0e067e8f809e0b11834d6891569a0"
@@ -289,6 +349,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111F",
      "sha256": "a810fd29742947d2a507c9643eab9920e55d6c31aaa67bec8ddcadb1cc5eadb3"
@@ -303,6 +366,9 @@
    "versions": [
     {
      "from": "2026-08-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111G",
      "sha256": "37260c6d892825d458daee86fc4c696be59f311f6d3d669ffa5be30bf7685181"
@@ -317,6 +383,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 48,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111H",
      "sha256": "2c59aeaf2dfd269161d8f873e3a364f14e7122ba34f4c0cd6390a3a003023533"
@@ -331,6 +400,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111J",
      "sha256": "8275d3b78dfc7b1d9c13aa66049866e51c8562ba443c0d6954132057587e7229"
@@ -345,6 +417,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111L",
      "sha256": "786f3c45842238254350c8663d4804cec650ec000b7c5de8aa367e6f7ebcf386"
@@ -359,6 +434,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111M",
      "sha256": "cef3013702e4db168f5b4ccc163e726957f33f9f56b77e57972c70525ec98d18"
@@ -373,6 +451,9 @@
    "versions": [
     {
      "from": "2026-08-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111N",
      "sha256": "35e7a1b62249f05821f977823cc3b3bb0456458d4e93a1e3fb70eea689307d54"
@@ -387,6 +468,9 @@
    "versions": [
     {
      "from": "2026-09-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111O",
      "sha256": "0fc4b9ad273a02ce134c41ab3f6b794476915c563329201325b5ec8e085848b0"
@@ -401,6 +485,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter113A",
      "sha256": "b6bd148321da6db4252452b5bd388a2c9529501216f421b574d8545c4e81fe55"
@@ -415,6 +502,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 79,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter114",
      "sha256": "c597fc1b2dc7b030aacd02144cee58cbc44e11bf8586ebcb4aacdacc6e49cc07"
@@ -429,6 +519,9 @@
    "versions": [
     {
      "from": "2026-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter115A",
      "sha256": "e646687f409e4c55da68c8b4204089b4a6cbc373c60fbe881c638e5459b23dee"
@@ -443,6 +536,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter117A",
      "sha256": "db2b53d2e5284d90640cbd7d0f1ecdb0f7f76d4d366cdf8d76c47fbc7d27708e"
@@ -457,6 +553,9 @@
    "versions": [
     {
      "from": "2026-08-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118A",
      "sha256": "13e2d261f01caad5a4d9dd048f1f06ceb8d7942f6c2a725a2f3e5267509007a8"
@@ -471,6 +570,9 @@
    "versions": [
     {
      "from": "2026-08-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118I",
      "sha256": "320b4b5245e030d4e12c7be6e831b8fb3d5bd93e2d0f287a309673d7487bc093"
@@ -485,6 +587,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 98,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119",
      "sha256": "bc86d5e32d192b308a49a425108ee63bc7b4a548cebefef03814c56681929353"
@@ -499,6 +604,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter119A",
      "sha256": "195104b1cd734f320e32000778c067531c565ea3d73b0948e3c3991833d173e1"
@@ -513,6 +621,9 @@
    "versions": [
     {
      "from": "2026-10-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 89,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12",
      "sha256": "f591d7ea2bb6f341e47c078316e6fcdeb8a62b955f3c0d7531d61b9f99d63da1"
@@ -527,6 +638,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 33,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter120",
      "sha256": "2019476d787b107db54b5ab9533cae53338d522cd36fed3724efca36a2e52ede"
@@ -541,6 +655,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121A",
      "sha256": "b89bf9e2f848048d0f1062cb24080416b7336468213611f21e67c005be50e176"
@@ -555,6 +672,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 86,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121B",
      "sha256": "5a58ddcd889817bfdfd6e3c248cbc3b75bdc0826f7b059c0c2e9251f9af4fd03"
@@ -569,6 +689,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121C",
      "sha256": "d03a4242eae35b1181d9640e54d10a912372504f109d889e46cc9c50ac6be72a"
@@ -583,6 +706,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121D",
      "sha256": "69833d0c290a9eda0598573616cc88e48719d9d89e76175d3f54487a8e27a1a6"
@@ -597,6 +723,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121F",
      "sha256": "1d2959c0ef442e0c3982eedd7ab825d24fc0cabcb45c2b309fafe1880563f538"
@@ -611,6 +740,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 44,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter123",
      "sha256": "f455b57d77d5c7e10470ecc82d0e0d67fe99dd402ea9a0f90178b2c9ce27d05b"
@@ -625,6 +757,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter123A",
      "sha256": "243296cb137b64761019e87b3a70a45a77419a0a28ce4c9bded49db1150ad654"
@@ -639,6 +774,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter123B",
      "sha256": "0b17712a423e542f1d02015648783a6f0fe72af734fd8ca30f14c6d8b185cc9f"
@@ -653,6 +791,9 @@
    "versions": [
     {
      "from": "2026-09-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVIII/Chapter125",
      "sha256": "6db2410b10119be04998fc0f0eaa7fa0188895938e47d36cab8ceaab04aa32d0"
@@ -667,6 +808,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 214,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVIII/Chapter127",
      "sha256": "aaadd989b3774e8b87b0e0f8ffb1036fbee567e532c95d4e6a7e508f69881789"
@@ -681,6 +825,9 @@
    "versions": [
     {
      "from": "2026-07-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter128C",
      "sha256": "05ea5515508577a90c7f5d8312235a525ab69cb1da086ebd1abd6d3391929759"
@@ -695,6 +842,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 81,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter129",
      "sha256": "b49002874f759bdb0b8d17b374ed6d6717654e56edb68ee85a6b0ad539af1e42"
@@ -709,6 +859,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12A",
      "sha256": "6b57055e2aee22bf9e09ec6f30d1314910823ada5a54fbb4734b2c4de85a48fe"
@@ -723,6 +876,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter12C",
      "sha256": "1354894f8a8981c5dfbaf6ba2ed92e5ca1f9ef0f02863bd68d9abf023dab975a"
@@ -737,6 +893,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 118,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter130",
      "sha256": "4314a546560d77f0eb80db251f91102d492e791424d179c6132eb1237e7a9d87"
@@ -751,6 +910,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 133,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter131",
      "sha256": "8f27820857daa6d66e27b8a61c71ca06d4aa979369506ae308799713f813b223"
@@ -765,6 +927,9 @@
    "versions": [
     {
      "from": "2026-09-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter131A",
      "sha256": "6c2d9f19aea31466ff52815bf67176e7f46aee1a7441ea738222657322b96146"
@@ -779,6 +944,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter131B",
      "sha256": "1e240253b5c2753f99da63817b4b84e408c5dc52900a5d97181c48c67d50fbe6"
@@ -793,6 +961,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 45,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter132A",
      "sha256": "b63bc2e5fbb34d66f6500503dfb0f503a05a99e3e2616315b4460fda0105807a"
@@ -807,6 +978,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter132B",
      "sha256": "4b0ee64c58873ffc6c81bf61b710b646b13c26ebf6437825eb36962749ec42d5"
@@ -821,6 +995,9 @@
    "versions": [
     {
      "from": "2026-05-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter134",
      "sha256": "a775e4626dfedb1d181c03ae522da6d1b010cef63ccfd11618205eaaa6f7d544"
@@ -835,6 +1012,9 @@
    "versions": [
     {
      "from": "2026-07-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter135",
      "sha256": "272f78585326820be63977826381b9f64ae26dd705c094b778b922acfdf3a3e9"
@@ -849,6 +1029,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter136",
      "sha256": "0aecc5901311662c783510e5d6ec6364d4fa373b5bc3a9e91675facdc65a4bfa"
@@ -863,6 +1046,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter137",
      "sha256": "425a830e092b7b28d742d92e20b1bcb8900fd1847ba55602fdada8d05e4fdc1b"
@@ -877,6 +1063,9 @@
    "versions": [
     {
      "from": "2026-04-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter139",
      "sha256": "ccd3af15dc9384493e7851e0b15d04cfcffcc92252630ea7b8bf566bfa04e8c9"
@@ -891,6 +1080,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 356,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140",
      "sha256": "9ba66345a0ac97eb6a9219c89b282333b5450446c729eed461a873bb877a3bb0"
@@ -905,6 +1097,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 39,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140D",
      "sha256": "5eb20e601f0f074c9cedaa6484450d24c4c3ccce2c728c9481fe40d09ba4fa39"
@@ -919,6 +1114,9 @@
    "versions": [
     {
      "from": "2026-10-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter141",
      "sha256": "52fa8e6f5baaddbc76d29889fec4e98143b38ee42eb23469badf98babf6cec83"
@@ -933,6 +1131,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter142",
      "sha256": "a45809b63da0844f30e0b7027a30e9767b0053a52fc546efbda5bd6cd1cb44cc"
@@ -947,6 +1148,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter142A",
      "sha256": "4a94bc99bddc9ee9ec9cfeba6f8256b2ac268e5d3026d138f075f6066b3d6665"
@@ -961,6 +1165,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 110,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter143",
      "sha256": "ea0b8cf23273abf3a629db690b74644ed3a2c6233ca933e4932638b9ab349fbf"
@@ -975,6 +1182,9 @@
    "versions": [
     {
      "from": "2026-10-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter145",
      "sha256": "0a5ab79f42ab91125a39578bb991c278e8ae90ba10b1f0144a5f0aa7bbe283bc"
@@ -989,6 +1199,9 @@
    "versions": [
     {
      "from": "2026-10-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 108,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter146",
      "sha256": "9b38de4f997feda32ad8066eaf67789a293594ef9cbb0c7d30290f358063fe21"
@@ -1003,6 +1216,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 101,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter148",
      "sha256": "8b3ea2a54b04750e675855a84dddf60b1d28d6de7262e5977132141a244ba08d"
@@ -1017,6 +1233,9 @@
    "versions": [
     {
      "from": "2026-07-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter148A",
      "sha256": "e60ea269a08271b0742ec64b085011dc6b5e22826300422f770e63b9105feace"
@@ -1031,6 +1250,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter149A",
      "sha256": "13b9cc5e5df69a16e00b1bbb78639454560a87ae19fb244a7ceca27a816533c5"
@@ -1045,6 +1267,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 37,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15",
      "sha256": "3a10800bd034fc471c1d39619f5596126f921baa1a2f002924df975735def97a"
@@ -1059,6 +1284,9 @@
    "versions": [
     {
      "from": "2026-06-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150",
      "sha256": "5635a5e108142a61c24ff0d33f1adb17f6cc4d94d3ab2dfe25058004b59800fe"
@@ -1073,6 +1301,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150A",
      "sha256": "a678012f46b9c86ca0b5b8524d871f4ff8ed39d2f3050cd179202db6d4610b62"
@@ -1087,6 +1318,9 @@
    "versions": [
     {
      "from": "2026-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150C",
      "sha256": "4006b7566265778ff8b4f3a78fba14a32df027fe52dc27c8a5cf4094e3397308"
@@ -1101,6 +1335,9 @@
    "versions": [
     {
      "from": "2026-09-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150E",
      "sha256": "a52434c85a6827451f2f596fe1be0c927d93b7a55a07fc94a9140471825168ab"
@@ -1115,6 +1352,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151",
      "sha256": "5a5477b962ab25fdcae8ffc46dd99b2a0472f06c4172bca65409ff38074e3b5a"
@@ -1129,6 +1369,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 136,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151A",
      "sha256": "52749cc930d23e85ba26adbfbb5f5ceaba9d1bb45bb509ef4ddde86e811d7f68"
@@ -1143,6 +1386,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151B",
      "sha256": "8dda57a7f763a464de0c8ec409586f5e82786144ec286ed09ab1a3ef7b39fd16"
@@ -1157,6 +1403,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151C",
      "sha256": "8c74c13960649a867b4d2c79ab83c319641c426a42bf68b0c3778c396ac98b0e"
@@ -1171,6 +1420,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 184,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter152",
      "sha256": "d3557215c9e9efbb5c24b03bed8678a787134dac6f4f1a4215795631faadd2a8"
@@ -1185,6 +1437,9 @@
    "versions": [
     {
      "from": "2025-04-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter154",
      "sha256": "f191c7924d895ff7a54c48335c9729f15166028b653ae9c5505ede9175634ea6"
@@ -1199,6 +1454,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 64,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156",
      "sha256": "7f521b3a426ce9886e74e8b3b3a6a917532145254ad7ed2793b393e705bfebaa"
@@ -1213,6 +1471,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156A",
      "sha256": "6ece0b4f05a0a36e134008693ecf30d638acf58543e6418b617a3f1e01074c0d"
@@ -1227,6 +1488,9 @@
    "versions": [
     {
      "from": "2026-09-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 126,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156B",
      "sha256": "4e61a83ee18702aec80aaa9498f6fabea33862761b0ff3027c80785b069a0189"
@@ -1241,6 +1505,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 73,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156C",
      "sha256": "3ec1671a3d4dd06d099b7fd15a5eaf7923f0171d8b086f2b8c6e69585860de88"
@@ -1255,6 +1522,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter156E",
      "sha256": "195c079ab092c51ce7713e0aaffafb768234c912d2a0134f46e893601ff6311d"
@@ -1269,6 +1539,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter157",
      "sha256": "222e34190a66499154c89588299f9792ad7e11f832931d1c59da9b86d9e17764"
@@ -1283,6 +1556,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter157A",
      "sha256": "cb80487e4d17498fc87e472780106220690f9cf7a3bb098d2999fa3fe58c45e9"
@@ -1297,6 +1573,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter157B",
      "sha256": "ef2049cc9e88de7487fee3ad03661c01251b8d22f1e3433ae5b4b6bfc14014d8"
@@ -1311,6 +1590,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 101,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter159",
      "sha256": "732ad282732c95c11f0fd3b59f3b73dcd3623c59a05f3b04b45289d0198d8cd4"
@@ -1325,6 +1607,9 @@
    "versions": [
     {
      "from": "2026-06-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter159A",
      "sha256": "e34354da78b848769e939de0b9eefee9b270cedd2c3aee42faeb5ae2be5b4b2a"
@@ -1339,6 +1624,9 @@
    "versions": [
     {
      "from": "2026-09-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 36,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter159B",
      "sha256": "b64590854778dd4732313359edf3fb975f211fb133130b5a8ce842ebb2c4d643"
@@ -1353,6 +1641,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter159C",
      "sha256": "06e9c8778491fbe1f8b2f98d7e7a518249d99726b679ee744a0062e1e9ba4da2"
@@ -1367,6 +1658,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15D",
      "sha256": "effa4f6ae20b03ef9b4aae4e19d7b114c781a8c68b0c3f4ad7d6eab63828fdb9"
@@ -1381,6 +1675,9 @@
    "versions": [
     {
      "from": "2026-06-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15E",
      "sha256": "76ce3be498d93af67ec55e966af1cfc9b413aca51a1cb2ea6d535517deed0f7c"
@@ -1395,6 +1692,9 @@
    "versions": [
     {
      "from": "2025-11-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161D",
      "sha256": "d982e1775c23118817bbe4d2d67403c39da73129bd3b6b9bb62121117533e4bd"
@@ -1409,6 +1709,9 @@
    "versions": [
     {
      "from": "2026-09-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter162",
      "sha256": "f874d0594db689f9362a636e62adc942e0ac2b0f07e92692372fc8f8af455e14"
@@ -1423,6 +1726,9 @@
    "versions": [
     {
      "from": "2026-09-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter163",
      "sha256": "6169ff08487591f3943f9e1f65cebfcc909d7091499c24dd58d97e4de7b57081"
@@ -1437,6 +1743,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164A",
      "sha256": "e6aa2841071830141cac08cf4c9dca38e2450a59070eba032d3c617f2f6dbaab"
@@ -1451,6 +1760,9 @@
    "versions": [
     {
      "from": "2026-09-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter164B",
      "sha256": "6c97572daf5b1a686b36c1d63ce174b7e6918342e370778bb0432e7686f310f8"
@@ -1465,6 +1777,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 40,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter165",
      "sha256": "7ccee0eef0d5c0730d9d341a908ee34a064e0d0d116a799c2ab4dc3b3fe0aca2"
@@ -1479,6 +1794,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 76,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter166",
      "sha256": "1bb259de0c0b44f3e12c7f1548e11d6411404eaaf6eb9f79fdfed26863c6125b"
@@ -1493,6 +1811,9 @@
    "versions": [
     {
      "from": "2026-08-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter166A",
      "sha256": "a94543b17499c666b5f1b56cb4bc913afac5b10e781a1a812aa01fdf093e0d53"
@@ -1507,6 +1828,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 88,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167",
      "sha256": "d9745589d67bf72606e7d30401ac6106f688ee9b00e62c57c694145790851db8"
@@ -1521,6 +1845,9 @@
    "versions": [
     {
      "from": "2026-09-23",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167A",
      "sha256": "8fb1d6088cf2403917336de02c1eaef11fcf579a6dc36b9d01e753045f9c4d05"
@@ -1535,6 +1862,9 @@
    "versions": [
     {
      "from": "2026-06-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167B",
      "sha256": "867caa7a73949c062e88cf4c1de6985ceca1a3f8bf996ee97397b28683cd2aa3"
@@ -1549,6 +1879,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167C",
      "sha256": "accb95db09988c556c66ac4d7e9f362e2ac9bb78a7115e07ec6428873b9dc928"
@@ -1563,6 +1896,9 @@
    "versions": [
     {
      "from": "2026-09-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167E",
      "sha256": "8752e26a571d9039ecb04cda812f6daaa7a476bb51f4a86dfd7eb727a72d4578"
@@ -1577,6 +1913,9 @@
    "versions": [
     {
      "from": "2026-07-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167F",
      "sha256": "bc689198f31d46e3eb6c49d7de5b35fe7cdc245ed6c1ddb7643d66a977f7e781"
@@ -1591,6 +1930,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167H",
      "sha256": "2570dbd7c0b2e01895509e132f61bb55e23b004ec01a17718421006da00c5db6"
@@ -1605,6 +1947,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167J",
      "sha256": "100058d0f69f5d0be09b75b7353097c37afa11c99db0e99e57742a1e5dcb333d"
@@ -1619,6 +1964,9 @@
    "versions": [
     {
      "from": "2026-04-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 36,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter168",
      "sha256": "4ff6aa52acebc0972568f70477d638aa8117eade2affad94483d721cc9dd6f87"
@@ -1633,6 +1981,9 @@
    "versions": [
     {
      "from": "2026-08-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter169",
      "sha256": "34e9cd77aa3ba525e772eb9fee3a11b222f40dae187e95a6b07a8c99892f4a0f"
@@ -1647,6 +1998,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter169A",
      "sha256": "fb2e2588bec18c8935d5aa4f595473345336f33d84c43e638db76acd2db8e38f"
@@ -1661,6 +2015,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter169B",
      "sha256": "793306cf261c0b62951e6ecbbd5ce245656c7d143168bf937afa0775f41610cf"
@@ -1675,6 +2032,9 @@
    "versions": [
     {
      "from": "2026-01-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174C",
      "sha256": "63bfd6acc997f0d54a3027b687e66ff737feebe03ab353e96facd3540d336d09"
@@ -1689,6 +2049,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175C",
      "sha256": "f41c2c29542b4f5b260e1fdb74312294696610fb4bac7f5529bb732d42decc53"
@@ -1703,6 +2066,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175H",
      "sha256": "a4de8e46c3f5013a02053a26eb1a8c24d6a513dcc137c94344e5944b3fdca1b4"
@@ -1717,6 +2083,9 @@
    "versions": [
     {
      "from": "2026-10-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175I",
      "sha256": "e6d24ad1c250c5af9e2ac62017d7a2d6b29b2390cfae1f63917ba5383290bfc0"
@@ -1731,6 +2100,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175J",
      "sha256": "88b4875f976407e8623c523b663b215bce793bd82a04e8ef303b177a6191d63f"
@@ -1745,6 +2117,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175K",
      "sha256": "863ea903f1098ec11a5effdd8deac34d2c779dd36ef3d8eedbdd6534e44d5f35"
@@ -1759,6 +2134,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175L",
      "sha256": "8b19405e3fa76ebb40e903da6877421c6df2504c793c7562be47b2ad23f2bf8f"
@@ -1773,6 +2151,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175M",
      "sha256": "b7cfdb35364cbc846b8b293a2707a3d4d17a420a57fcd055811a294aa484dd02"
@@ -1787,6 +2168,9 @@
    "versions": [
     {
      "from": "2026-03-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 59,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176",
      "sha256": "7550fb0b55e81dd84db9013ea6888dbcd1941d2f9deadfaf77ea66406d116f86"
@@ -1801,6 +2185,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176C",
      "sha256": "a6380313b56f0d3b3b8690346dd54ad10d35a599763d851aeb092c91957b87f1"
@@ -1815,6 +2202,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176D",
      "sha256": "5d550311b7d9f05be31978c85ff3c3a8b545bcc76caa9a9314edd0dfa235fc87"
@@ -1829,6 +2219,9 @@
    "versions": [
     {
      "from": "2026-05-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176E",
      "sha256": "a5f8e1b1115ba266646081d49b8835539fd2ed8ddef6c399a6b4fcf0ccdde2b7"
@@ -1843,6 +2236,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176F",
      "sha256": "7f4fb75dfe8ee39873cd92daaf01044025831d0276637cf532aa33082909c2bb"
@@ -1857,6 +2253,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 91,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176G",
      "sha256": "bc23a15315ce63776b1fc765be851ab5e148c611fe377ce18704e3decca05073"
@@ -1871,6 +2270,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176I",
      "sha256": "87c1468260751b72a2cdbdb2a456b7096154dcec845e8b0628f3638a43745ed8"
@@ -1885,6 +2287,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176J",
      "sha256": "1104a2be3c7f6a5b36328864482240d537d709068ceb0beeee529f2b84353a17"
@@ -1899,6 +2304,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176K",
      "sha256": "b19522f95d4d61a4489f4aad05e55935438b4d6c1d5cbbe438b1e1c4ad4f40be"
@@ -1913,6 +2321,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176M",
      "sha256": "d0b7326c58ef32e58c9607b0334fd76166d345db74ff61a401c308f5d1336372"
@@ -1927,6 +2338,9 @@
    "versions": [
     {
      "from": "2026-04-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176N",
      "sha256": "26e832f3f1bfc9b6769b4c3c7c96af26b5c64f7f329e8da7e92f11b7503efce9"
@@ -1941,6 +2355,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 38,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176O",
      "sha256": "c4e419eecca36ff263a3274275def44c23db88b51e0cb45376e192f4d3004d5d"
@@ -1955,6 +2372,9 @@
    "versions": [
     {
      "from": "2026-08-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176Q",
      "sha256": "56ac99dd83a3e95b4593fad8e377531e4e810693c954cb980083c5dca3f99ee3"
@@ -1969,6 +2389,9 @@
    "versions": [
     {
      "from": "2025-03-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176T",
      "sha256": "72f5539b610da28dd0c2695bfc712911760aea846aa6e8eecd8f23236e8648c4"
@@ -1983,6 +2406,9 @@
    "versions": [
     {
      "from": "2026-07-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176X",
      "sha256": "ae5856beb9b8afc0624e2450cfc1a0045ac6b1745a107c77665a493cb96bd4f7"
@@ -1997,6 +2423,9 @@
    "versions": [
     {
      "from": "2026-10-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 59,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter180",
      "sha256": "2ed046c37acee3223db269ccf1e92fc7d6b5be0f9f70444bacb2ecc0630829c9"
@@ -2011,6 +2440,9 @@
    "versions": [
     {
      "from": "2026-07-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter180A",
      "sha256": "a79f0129ccd8abc0a5829a2bb2823481df6275bc81ef0df93d13eb32465d79bd"
@@ -2025,6 +2457,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter182",
      "sha256": "693f6d1f8379d93d53c2e4c1536ee0185d22cf8a79921b53ce49b730217d3c0f"
@@ -2039,6 +2474,9 @@
    "versions": [
     {
      "from": "2026-10-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 85,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183",
      "sha256": "ce4cb9dabe39d471af6e3f17661f942141f6d2f348c9a64646c8c032088a3504"
@@ -2053,6 +2491,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183A",
      "sha256": "a64e3758ae6abad4c6751ee548047e9e419ca12a76aa31686710987ff25a548a"
@@ -2067,6 +2508,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 60,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183B",
      "sha256": "0db1f4c1b1b97f121420f7681f52a76518bd2f0dc6df45d9cae19a051ebd5b38"
@@ -2081,6 +2525,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183C",
      "sha256": "43a54c3a80d206c8265a2385407ac785bb1fbb4e9969b6a9db3225cb1444788a"
@@ -2095,6 +2542,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 43,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter184",
      "sha256": "ee141f33915f771bb37d3d8ef20b1ba2ae16cb8560275a8721209c8c812842f9"
@@ -2109,6 +2559,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 125,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter185",
      "sha256": "818a102824a769bc46f64e139ed214e20f1c026b29005ad762c161a3045dd1f7"
@@ -2123,6 +2576,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter185C",
      "sha256": "64204167fc15a73f98ef9e38d37ac1230d34c1697ba949c153805fff1bf6e707"
@@ -2137,6 +2593,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 41,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186",
      "sha256": "6e3ecd27cac94dd6eba4bc6b07193bb3e7f8573b5f977767187349d9f4d0ae0f"
@@ -2151,6 +2610,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter187",
      "sha256": "b3db67200c32c123c05d9de6b6f08e7d3b2c256a5850d55036e8d852b6cea449"
@@ -2165,6 +2627,9 @@
    "versions": [
     {
      "from": "2026-01-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18A",
      "sha256": "6bb5f156f1517b7a70c7d6f78b7ddecb3c48223c243c8e06f70b16e2806223d8"
@@ -2179,6 +2644,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19",
      "sha256": "20899f7cdaf5bf67031b3833b2c297901cceaf375069af1a22d2b8b3a5f2bbb4"
@@ -2193,6 +2661,9 @@
    "versions": [
     {
      "from": "2026-05-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter191B",
      "sha256": "49a22c9283b2d9172953f2dd6fb77b1a420963c6ebdc8ac6e58da98f3ea4961e"
@@ -2207,6 +2678,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter194",
      "sha256": "290f30bbd7c584dc0295167d6d84a49b66a545b9fcbe7b4ebbe880d9b1d933c1"
@@ -2221,6 +2695,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19B",
      "sha256": "2cd31ae8b7aeeabbc71231537dd7119c8c6770bfe29708cd05728c5f5008722e"
@@ -2235,6 +2712,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19C",
      "sha256": "deac712c3ed42c51c95661abd89f5ba2c70205627ba6324f0e0a451869ad93a1"
@@ -2249,6 +2729,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter19D",
      "sha256": "e907dd0444f9469f55233fe8f8db6fdbb15d5e15dbb8501a93f40ef37cc7d176"
@@ -2263,6 +2746,9 @@
    "versions": [
     {
      "from": "2026-10-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 66,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter2",
      "sha256": "17146e84dd3ad03cca7e0c65e7544df0f49005edf4236990212044e6e2c86da1"
@@ -2277,6 +2763,9 @@
    "versions": [
     {
      "from": "2026-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter200",
      "sha256": "9b3eb64c520b5239d71ff71c3dae69d116356e3ed85c05000f85a7d54a392f12"
@@ -2291,6 +2780,9 @@
    "versions": [
     {
      "from": "2026-09-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 40,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter200A",
      "sha256": "2bf4c4c5650abb284f027415b389c4cb0cb3b821475bdbb3ac532b38e4f74c2c"
@@ -2305,6 +2797,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter201A",
      "sha256": "acb3098c489a312971c933e4751ef24205c4534e050c4f9cf795303c9e35667d"
@@ -2319,6 +2814,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter201D",
      "sha256": "78633db4ad3d55c00e4a0e549979b298cd50ab87a3e22a9dc11f5e22cd85527e"
@@ -2333,6 +2831,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter201F",
      "sha256": "d42e2b83ab1cf1848da2ce3131dca6082e1908b9dcf1d9326a401e2ff05a6c87"
@@ -2347,6 +2848,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 40,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter202",
      "sha256": "2ef0a4883058a6dd46fe9d9c88c8f7e86e87d839049ae8d7f4d3df4657e5b9cd"
@@ -2361,6 +2865,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203C",
      "sha256": "c5071250fc7bbafc84a9d602435b9dd86feb9848de74170f7d74c55ebad187df"
@@ -2375,6 +2882,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter205",
      "sha256": "cb86f7e4bc9f1bef4a675ac16abfa67f628542a7edecc71bcd00a4d00185b624"
@@ -2389,6 +2899,9 @@
    "versions": [
     {
      "from": "2025-05-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter206",
      "sha256": "412b78a542e287d07a091dcfac81ad057abf6c60ad9cecf5d8807787e3170a6a"
@@ -2403,6 +2916,9 @@
    "versions": [
     {
      "from": "2026-10-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 59,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter207",
      "sha256": "80829c9a6ddd0361eab60ccf8cfdcaf8f7be15ba1926db97aeb05740ae024df0"
@@ -2417,6 +2933,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 71,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter208",
      "sha256": "4dd9bd847c78a29d78eee9f199e9f491620f9e478f4d6376297d8f50a806dbd1"
@@ -2431,6 +2950,9 @@
    "versions": [
     {
      "from": "2026-10-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 36,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter209",
      "sha256": "9c974d3705d1a6b299f7d0f641193c2e74ef91d41b21129665cc1b412c1cbe37"
@@ -2445,6 +2967,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/Partii/Titleiii/Chapter209A",
      "sha256": "8c1c4719272a6854666236dfe4f7e428ad7ae1c49eb6dafd90ff73f634bab782"
@@ -2459,6 +2984,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter209B",
      "sha256": "7c3987861bc1d8d45ebafeeea9ba6e97542cdb19249501044dbab146b39c81e8"
@@ -2473,6 +3001,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter210",
      "sha256": "8ebd5731c105e24e285f3626c189b8c4b8e484ad725dbc585e162bec9adfd4a7"
@@ -2487,6 +3018,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211A",
      "sha256": "bcfe3a432f8d9f968d9da7e6cd27d99bf75003b46e328741db8e8a05d2682925"
@@ -2501,6 +3035,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211B",
      "sha256": "616b0e780a8b03f6e2605e7ae6809068165bf97af6e426d2ff5c3cdbbb499de0"
@@ -2515,6 +3052,9 @@
    "versions": [
     {
      "from": "2026-07-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211C",
      "sha256": "89df8b11dfa19371e0ca5d98cb666a66f4e7b97cdc6ef85179eca8d28cba1b6d"
@@ -2529,6 +3069,9 @@
    "versions": [
     {
      "from": "2026-09-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211D",
      "sha256": "cb26ef86185cfe2d3952c5ac3567acb1e443e849ef295b75e58e13b10ec1fe3d"
@@ -2543,6 +3086,9 @@
    "versions": [
     {
      "from": "2026-09-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211E",
      "sha256": "dbf8a05072227c61e42deee159af86869ccd763da38aa7a431a911f5e5805782"
@@ -2557,6 +3103,9 @@
    "versions": [
     {
      "from": "2026-08-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211F",
      "sha256": "2720965be238aeae98528d51581bf3bdd37cc6fe39dd95d85fa1911b54ed0ea3"
@@ -2571,6 +3120,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter212",
      "sha256": "ac30036c093293b7fdadff372c639c14191eca842a3e374ab36c0562e9e94741"
@@ -2585,6 +3137,9 @@
    "versions": [
     {
      "from": "2026-10-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 71,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter217",
      "sha256": "86673eb7b9195e73c8509e6874b71b1dc438d3664b853a23d764d0a70bab086b"
@@ -2599,6 +3154,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 68,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21A",
      "sha256": "a47c5309021048b0c234a8a9c7ce1bfc9a584fe2d709067771af58d682f7a96a"
@@ -2613,6 +3171,9 @@
    "versions": [
     {
      "from": "2026-09-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21C",
      "sha256": "61a9e4cf5db5dbdbb9a5591d64eeca29b0fbfd346c931d17259e8882d0f85d92"
@@ -2627,6 +3188,9 @@
    "versions": [
     {
      "from": "2026-05-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21D",
      "sha256": "6b521ffc6d34ea222b2b717d8e377a24a9aa27a66a44145188400a716add2977"
@@ -2641,6 +3205,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21E",
      "sha256": "7e2d7acc862059c17cf826bcf1f331dd3e86549116664dfd8a82f1c629727580"
@@ -2655,6 +3222,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21G",
      "sha256": "f675b48df7ad00ca75ec0004d2e60f6c83778a2989a98189eb8a157fa0dd0780"
@@ -2669,6 +3239,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21H",
      "sha256": "a9165d59677a705069238105e5657971ece7e3a20b17ea7009f6ed61e688ac8b"
@@ -2683,6 +3256,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21I",
      "sha256": "f754b62802e558c55a9a098b8f370950f4794ee619e898d34be60652e92897d4"
@@ -2697,6 +3273,9 @@
    "versions": [
     {
      "from": "2026-05-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21J",
      "sha256": "bcabe7d740f843b0894ba8d3428299348306ec1ab7daf83cd3f834eea44d8c8d"
@@ -2711,6 +3290,9 @@
    "versions": [
     {
      "from": "2026-10-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21M",
      "sha256": "582e044833ed7127daf9a1ebefc9b6b9f65ee5918b41ca4a59e6cd9606fda7b4"
@@ -2725,6 +3307,9 @@
    "versions": [
     {
      "from": "2026-09-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21N",
      "sha256": "1a32683a970c4f61575b6c5579f350405a62fc3df2b96aa014e6dfa8661c2ce4"
@@ -2739,6 +3324,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21O",
      "sha256": "fc9c92701595354d50257c6a3186103a0602fafbc107354b8d7c3649f6fffc18"
@@ -2753,6 +3341,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22",
      "sha256": "fa7d241a3a050de5c11293abeb9a06190ee2f342ed0f46e7bc9a892ab4f07454"
@@ -2767,6 +3358,9 @@
    "versions": [
     {
      "from": "2026-07-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter220",
      "sha256": "4a21afe605271cce0944455c6e24983d06b5c9cda0d0518c0fa57f8d00b161f4"
@@ -2781,6 +3375,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 148,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter221",
      "sha256": "8c86028e6aee6e2683944885a7962612f506bae3b0ec6d9046bf4e49cf900657"
@@ -2795,6 +3392,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter221A",
      "sha256": "2b2b04f8b86c009e949889a3cdb26f8adff7bb49b4c65a5450bbb47437871b9d"
@@ -2809,6 +3409,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter221C",
      "sha256": "e03d586a8c5085f50da688fda9812262815333e8f4633d6617deae5bda0e4046"
@@ -2823,6 +3426,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter222",
      "sha256": "61f4d1e8bacdb4c217ead6b2c9cd7e2f7ce24b46186e8caed30d88c1fbe72019"
@@ -2837,6 +3443,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter223A",
      "sha256": "eaf04395d3643de142b45df02467c078a4e446702642a535f425ececd669bdc9"
@@ -2851,6 +3460,9 @@
    "versions": [
     {
      "from": "2026-09-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter224",
      "sha256": "29a13a5ab086491cc74059b550558305c9dac05dd57f42413c6789525318a0a0"
@@ -2865,6 +3477,9 @@
    "versions": [
     {
      "from": "2026-08-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter227",
      "sha256": "e3492862045e50f1226f2f1ed41f76cd61a95ee401cdc33cd2482bf43785b280"
@@ -2879,6 +3494,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 80,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22C",
      "sha256": "35f0aeaf2b3c11c2c7eaca726cd4198cddd32f43db9e04cef01ae48a80976c5d"
@@ -2893,6 +3511,9 @@
    "versions": [
     {
      "from": "2025-11-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22D",
      "sha256": "66ccf5b5438c493129a0aff0405ca5495c11b9eb25aca5f4f0c08962d9e2c6a9"
@@ -2907,6 +3528,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22E",
      "sha256": "64c9a49799826790d27a1e03f0610ef3c4c82fa9b42bb446402b0523732123ba"
@@ -2921,6 +3545,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 163,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231",
      "sha256": "5b91a7f200a5c37c0e7e79700375d886fa8a5de1cfda5453876f30bc44715949"
@@ -2935,6 +3562,9 @@
    "versions": [
     {
      "from": "2026-07-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231A",
      "sha256": "a29fd724131f38f4d2ccb739c16b74822038bd2ad28f9b5b1a21de5d14de27ec"
@@ -2949,6 +3579,9 @@
    "versions": [
     {
      "from": "2026-05-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231B",
      "sha256": "39e95ea4a696f40d8f4429e593ee619ef2a077d884ac634370a8172e6ba64122"
@@ -2963,6 +3596,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231C",
      "sha256": "4723fa79d46cadd56e0aa175a2a2c97805ada033c66c44b10c8e0a72ee6e3196"
@@ -2977,6 +3613,9 @@
    "versions": [
     {
      "from": "2026-10-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 126,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter233",
      "sha256": "0803168957245f721be20f4ba04922f4719e8415786b654564ee0c6b8bde9ffb"
@@ -2991,6 +3630,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 92,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter234A",
      "sha256": "6d1efbf00b2ffaa83c614733eff28e08772e842b41c253d5ec726b2d4428298d"
@@ -3005,6 +3647,9 @@
    "versions": [
     {
      "from": "2026-09-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 54,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter235",
      "sha256": "0277aaac74454bcb6569f3b5ea3171401c747c6967145743d7185db21582768a"
@@ -3019,6 +3664,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter236",
      "sha256": "860993057f76a66d08da0ea282ca1cc80b232455ff83d87085c32dc6c8d4388c"
@@ -3033,6 +3681,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/Partiii/Titleiii/Chapter239",
      "sha256": "0cbd1e27144ea92447815a4aeea2cceb0be7510b90aa2faa0d0bb83a3ae03eae"
@@ -3047,6 +3698,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 74,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23A",
      "sha256": "631465e8e23e968a86eba4ae12182e6b9fc82341f28fba78d98350cd22828f47"
@@ -3061,6 +3715,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23B",
      "sha256": "647b4d0a06f38f4fd286131c2a1df56b9ca2ce48ebc4e800b0e8d2b78607ddd9"
@@ -3075,6 +3732,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 54,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23G",
      "sha256": "31235a0f8603b06beb70a5933024af1494bf81de4771b240dea5f78285271d16"
@@ -3089,6 +3749,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 71,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23K",
      "sha256": "daa3573e189fe2a5647176f9dc2471e98f342bbe1b453c1d6a0b1c6bc8d50b11"
@@ -3103,6 +3766,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 33,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter240",
      "sha256": "4db0b0ebaf0cb463bc0c7ae30b6df1dd831332bf3ccbd833f3f24e43043ae479"
@@ -3117,6 +3783,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 37,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/Partiii/Titleiii/Chapter241",
      "sha256": "49b20e7f8764c540477a33e99e0588397d39468cd15ab32ba838df7b7c7514d6"
@@ -3131,6 +3800,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter242",
      "sha256": "5363aeb9c6ea098de498e1fc9a8924f3879f2276fd9126469d4e23f1afe6ca04"
@@ -3145,6 +3817,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 87,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter246",
      "sha256": "6d99b9433b8814e5bd38b87a53dbe7cbae7dbe8dac00d95a91c102fab82d63d8"
@@ -3159,6 +3834,9 @@
    "versions": [
     {
      "from": "2026-06-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter247",
      "sha256": "0ea3e649b09c67a8e12d6aec89c4af9a6ae1970becb121a06158b1f55ed9e51a"
@@ -3173,6 +3851,9 @@
    "versions": [
     {
      "from": "2026-07-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter249",
      "sha256": "3884b2f5846a46db94952e27a8620a1df75a27f92206bd2e86cc2fed07b4fa8e"
@@ -3187,6 +3868,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 43,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25",
      "sha256": "08c0b2ecdc57f41a04d99fad970c3f643c79b8384c6505783cca30cee861cab2"
@@ -3201,6 +3885,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter251",
      "sha256": "5e1f21e3ac3a5c2cc74ebc5a1c788a199c36265aef622a50132108fa3aa48539"
@@ -3215,6 +3902,9 @@
    "versions": [
     {
      "from": "2026-08-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 65,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter253",
      "sha256": "338c6dc5f75bca69f532f75bbcb15f04da9aae614dc74ffda4366cda60311c47"
@@ -3229,6 +3919,9 @@
    "versions": [
     {
      "from": "2026-10-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255",
      "sha256": "f6d0008304be2f80b30d823b060444273068c89320dab377d5cd8158aa8f6c7f"
@@ -3243,6 +3936,9 @@
    "versions": [
     {
      "from": "2026-10-29",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255B",
      "sha256": "7115c29526f0470f31e39b5c570e1291333e14e9e392553dcd866b39100b0ad8"
@@ -3257,6 +3953,9 @@
    "versions": [
     {
      "from": "2026-08-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255C",
      "sha256": "bce79d4956e0e632bf99ed68b6136c88aa6eec6d02ef309efcff814352b5bd1f"
@@ -3271,6 +3970,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 39,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255D",
      "sha256": "ff73f6ef358e075e808609f7b56958f874e2723c619d53b13d71475972a8f37b"
@@ -3285,6 +3987,9 @@
    "versions": [
     {
      "from": "2026-09-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255E",
      "sha256": "c9287597f972248ad97b29dd7f8f5ab1357490c3b5be24fce8ccf55d891e8ba8"
@@ -3299,6 +4004,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter255F",
      "sha256": "0b71ecd0895d4186825fa0d897ba54a1aebbc4dcb08f30d860846abcd6ef3e8b"
@@ -3313,6 +4021,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter257",
      "sha256": "fc56f3583e11221c8807c1f7b315aa7e36fd4d96598ace4fa3285ca33e4586e6"
@@ -3327,6 +4038,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258",
      "sha256": "bd2d5617117981e6ef2409a0e5ebb18ba835f47c6de7c2ac8b4257b7c944dcbe"
@@ -3341,6 +4055,9 @@
    "versions": [
     {
      "from": "2026-10-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258B",
      "sha256": "486166ec80912f458378cff73c187b333970798440631331bad5b6c0aa908251"
@@ -3355,6 +4072,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258C",
      "sha256": "27a8bf45fb3477bdff4adc13b3f4d5f455ba7c222274d8258e437c24e8887f90"
@@ -3369,6 +4089,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258D",
      "sha256": "69c0ef7073f386d8c0e4d2d5300be74811f8c137dc514ac24f3a15e84b7dee2e"
@@ -3383,6 +4106,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258E",
      "sha256": "114a0fc45d1507adf4dc5c403b41325547a738938d9493dc6c00c1ebb19e6419"
@@ -3397,6 +4123,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleV/Chapter259",
      "sha256": "9d5349305a00d1f60eca7c1be85f0e8e75618f8cec17ba9402cfc0e9816ee02c"
@@ -3411,6 +4140,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25A",
      "sha256": "8a0a90ce26fe1cae2ab624e0b9cc8b079372edce69291eed6e7a8fcb4ef67fa2"
@@ -3425,6 +4157,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 47,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleV/Chapter260",
      "sha256": "d855617e4f7eabaf7fb79167e02157233b77217a55edd3c0273590491adf720d"
@@ -3439,6 +4174,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter263",
      "sha256": "946a0b87620ccbda1ff0a03f84941cf8240f5b0ff9fd71ce371cce69cd403ea3"
@@ -3453,6 +4191,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter263A",
      "sha256": "e106f9be7e08eba3538a887d959ff787ecd4aad9b9e6cfef3185fc936d79995e"
@@ -3467,6 +4208,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter264",
      "sha256": "6ba11b7bff6295653215a1330290ce1f2881c49ed9e3a40f45ea5f0d4fb83b3e"
@@ -3481,6 +4225,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 96,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265",
      "sha256": "db162f4f4f8c47b727e4c28367de5b347243f1af5f338dd6f285b20a6b0b342f"
@@ -3495,6 +4242,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 218,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter266",
      "sha256": "123eb82194f4fba592bcf086de83c324e47f06cc4cbbfecc86dec87d8b1c2296"
@@ -3509,6 +4259,9 @@
    "versions": [
     {
      "from": "2026-09-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter267",
      "sha256": "33322b7fdc89994859b963ac3d821ad90fe09a93ad7abdc209ac629fa3a9a3c3"
@@ -3523,6 +4276,9 @@
    "versions": [
     {
      "from": "2026-08-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter267A",
      "sha256": "84719c22102af8c42218886662318a6a23abae7d43c5a661985ae0a68f1ea6ff"
@@ -3537,6 +4293,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 52,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268",
      "sha256": "c3f99427d25a5b670450b02b3e5673299293cca0976c3784fb4bd285ff87a6b2"
@@ -3551,6 +4310,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 37,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268A",
      "sha256": "1f601b6e2ae1997e4ef6d4e94927c41dd34b47aac6e7f02aa972e293fe78e190"
@@ -3565,6 +4327,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268B",
      "sha256": "d34039a7ea41c36066cc3c2eea41e1466581f50ffed00649f6e38959493b144f"
@@ -3579,6 +4344,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 45,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter269",
      "sha256": "c6e9e26c9a8d02483f35d7493108df0127607bcb4b8f3e3537f9e51a6d38665c"
@@ -3593,6 +4361,9 @@
    "versions": [
     {
      "from": "2026-07-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter27",
      "sha256": "9924f2f1e21a117c7d0160d90c6f320f0d086e7daea749b8ef17d2af93ed6d65"
@@ -3607,6 +4378,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter270",
      "sha256": "4f95d60d6772eee818b447272d6976ab7396362d5282265cb434b99d8aa49a36"
@@ -3621,6 +4395,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 66,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter271",
      "sha256": "ec0d33890c1f018f7f5f0cd538ff3387e632db0a91476251efc711f886e4a912"
@@ -3635,6 +4412,9 @@
    "versions": [
     {
      "from": "2026-08-24",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter271A",
      "sha256": "e6ebb9317ffeeeeb97ad5cbbb1397239e5ada38d0604ef50e195a04b947eaa61"
@@ -3649,6 +4429,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 146,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter272",
      "sha256": "5a7d40204a54ca54a462aa25ee7a7a42aae7f4fd4f9759324fbed8b88773452c"
@@ -3663,6 +4446,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter273",
      "sha256": "3f35d2820649b84af684cbcf0b4c1cfb9b4f64cf0653c1cf2896f8283ed41e48"
@@ -3677,6 +4463,9 @@
    "versions": [
     {
      "from": "2026-09-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter274",
      "sha256": "8e3b5d932d83a8e8ab8d01898dfdc725352ff750eec8e29a4b42a4418b42bbdd"
@@ -3691,6 +4480,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter275",
      "sha256": "c0bb308219bea8370c287acfcd238f395484db570cda090c336760557bfc45f6"
@@ -3705,6 +4497,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter276A",
      "sha256": "defaea903bbcc7d810793fc3386cace77f13cba1359bbe35e8fc73528ed4bfe8"
@@ -3719,6 +4514,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter276B",
      "sha256": "7ea167958e71d6ca9b5a3c287ad271a201e1deecd9c9e1647307451da4c9bfad"
@@ -3733,6 +4531,9 @@
    "versions": [
     {
      "from": "2025-09-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter277B",
      "sha256": "5dda1f71f7a1ec42861eca0a7828af3a42367c178e61050b406713fb65570faf"
@@ -3747,6 +4548,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 43,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter278",
      "sha256": "bbdb81ab539ddb7921898c9ad3c8305d3a779283f18db3b9fc1fb482cbef1827"
@@ -3761,6 +4565,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter278A",
      "sha256": "f7978b559eb2f9c20626e3d28dbff931d1f335a8d2e7f47fd7ace8ae36e6b2f8"
@@ -3775,6 +4582,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 67,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter279",
      "sha256": "9e63555758ee6d50b4b9365b3ea7adf1edadd6614e575c4057205c8b759ee53d"
@@ -3789,6 +4599,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 283,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29",
      "sha256": "3b1c3a12516b44b26d64e41115eb094892998b44ddaaf26a66ec727d74504db0"
@@ -3803,6 +4616,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29C",
      "sha256": "a9300493ea5ac574dd154262d226c50eecab972e3450d1c3710c5a767b9c3221"
@@ -3817,6 +4633,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 132,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30",
      "sha256": "fb7a307edbda033b8142a6d9ac52b2933e188065dcc8e6d1bc448576cd4f6158"
@@ -3831,6 +4650,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 41,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30A",
      "sha256": "132392c02129d5ae050a0fc2cf39d0543d7a6d6cfccbfc19244bb838804c0d56"
@@ -3845,6 +4667,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter30B",
      "sha256": "3b8bf8ff53d44c8a0760bc2752e2411b21eaa7735a18258274b18463ccdd1df7"
@@ -3859,6 +4684,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 52,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIV/Chapter32B",
      "sha256": "cb31138ec7436cc88b7590e0c4093cf561f00cc5a51fc2358a5552166420a99d"
@@ -3873,6 +4701,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 135,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleV/Chapter33",
      "sha256": "d269042d75e85473f9359b098ca443d041eac313f35f7976e07f20f38fdd6aa6"
@@ -3887,6 +4718,9 @@
    "versions": [
     {
      "from": "2026-06-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 136,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleV/Chapter33A",
      "sha256": "29ed9720b1a5a27225d20b8f8c80c23018d975be584c76332de2a74f89c53b40"
@@ -3901,6 +4735,9 @@
    "versions": [
     {
      "from": "2026-09-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter34B",
      "sha256": "7901aa1de0d78daff7ae5a020cb92d6f30c7b5751e00f31ea2153f03b6184c20"
@@ -3915,6 +4752,9 @@
    "versions": [
     {
      "from": "2026-08-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter38",
      "sha256": "60d3d3306e22c2aae2b92a489140bb84243da0a6917d546ece1e32f11feb42f8"
@@ -3929,6 +4769,9 @@
    "versions": [
     {
      "from": "2026-08-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter39",
      "sha256": "3f07642be4979f6e260e89d9d515fac87f5df4aae378cb3b9ef64e3ee24fe83f"
@@ -3943,6 +4786,9 @@
    "versions": [
     {
      "from": "2026-10-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter4",
      "sha256": "c89d021df55bfa4b632a6f586c0f116e438e4eb8d9e86599fdbbe3ab91618468"
@@ -3957,6 +4803,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40A",
      "sha256": "97b4b648f4595f0c7d2772fcd356c33b0ca88289354037e24ecb62bf9a722b95"
@@ -3971,6 +4820,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40C",
      "sha256": "3188549053da1d604cb4f155b6327c3791be6a941d1bd84f20dc0c06788465c4"
@@ -3985,6 +4837,9 @@
    "versions": [
     {
      "from": "2026-08-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40H",
      "sha256": "683f328eb8a0d8096025ae46e93cc2688b51adb09ac8a8931958627e3468f2bf"
@@ -3999,6 +4854,9 @@
    "versions": [
     {
      "from": "2026-10-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40N",
      "sha256": "a5741a388b297364819340f8d1753f19e502fa30c93259896f54db21a3561284"
@@ -4013,6 +4871,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40P",
      "sha256": "07728a40bf558e2142d014454381f97af04d1ee4f0f8b23e390f2433bf3bdb8e"
@@ -4027,6 +4888,9 @@
    "versions": [
     {
      "from": "2026-02-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40Q",
      "sha256": "e6c19c4330cb48c1f88b5c3a298c21ea0a9f40e8c33a9b8d097eba3508b77994"
@@ -4041,6 +4905,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40R",
      "sha256": "2da42cffd1c1b007cdf177f1b6a72f6a2cc73f5d5c30b1d7b765a7159e493f90"
@@ -4055,6 +4922,9 @@
    "versions": [
     {
      "from": "2026-05-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40S",
      "sha256": "1141afa65a10da454c8e3a161910a0a2d105dd48374bfb7fb27e986142938b4c"
@@ -4069,6 +4939,9 @@
    "versions": [
     {
      "from": "2026-07-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40T",
      "sha256": "210167a65a33a33720d04abbda2ac25233a28631fe74daf7eb6760e665e149e7"
@@ -4083,6 +4956,9 @@
    "versions": [
     {
      "from": "2026-05-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40U",
      "sha256": "9316a0349e6868a83ea2d3661ec3998d72948bc2c021a765bed2ef68fe2448b1"
@@ -4097,6 +4973,9 @@
    "versions": [
     {
      "from": "2026-08-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40V",
      "sha256": "09076c8d845824784a8f614cafca1995bfb498e781ee009e6a647adf5f6d750c"
@@ -4111,6 +4990,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter43C",
      "sha256": "1f110caafa8d0fa92fea4b5e4ed8e30206a51cfb414510771a1ed6aa1fd5d735"
@@ -4125,6 +5007,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 117,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44",
      "sha256": "fe9f7d653be011de7e9736b401de989e05ce8c7ed51bc484928fcdcbfeb79e5f"
@@ -4139,6 +5024,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44A",
      "sha256": "10fa857ba0287700c66e47e929c8d26f207e8da68104cc27244ca8169d965ac5"
@@ -4153,6 +5041,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter44B",
      "sha256": "2c10d7483685e51db3bfb111bb77867a3e92992043f3214793abccc6740e089c"
@@ -4167,6 +5058,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter45",
      "sha256": "5afaef9e953b1c6d54e21a56212d4014591400aacff4101b8738829a0836170a"
@@ -4181,6 +5075,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 59,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter46",
      "sha256": "9c0600c0a82343cb5c6209fb5ac0b5fdcd8346f7025f49a9a24eb1940a4afe87"
@@ -4195,6 +5092,9 @@
    "versions": [
     {
      "from": "2026-10-05",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 42,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter49",
      "sha256": "5ca36fb67b199872e100c630e977da0e1b621801d624a882101a2bb4c47267a6"
@@ -4209,6 +5109,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter50",
      "sha256": "512f1e380e46cc93baedc22a2602d2462166c7656c4569e07fff5d42ce45188a"
@@ -4223,6 +5126,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 97,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter51",
      "sha256": "e6e12f05122dfdc745f410791d9974b99ad1c33c0297bff844a9d60f76dd3a13"
@@ -4237,6 +5143,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter52",
      "sha256": "73566b2c4489fee5c71ee67d28da18829b7c17f2a04c79381bffd89fc3f7aa2a"
@@ -4251,6 +5160,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 62,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter55",
      "sha256": "749fb991e1028ca87b6d2042c2019672a65f2bab34ef95ee715d8e5682898efa"
@@ -4265,6 +5177,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter57",
      "sha256": "a89d5fd7a544484d5437641e4ab603737ca9195948664e59927b21e715fd81df"
@@ -4279,6 +5194,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter58A",
      "sha256": "4a9b0db06d61eb9e2352a87d509f9cd9873585aa64fbea8b2a974d1e8c673f56"
@@ -4293,6 +5211,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 138,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter60",
      "sha256": "bb4661bc06ad10b34bbf739c36722a8fcb7c91c8cccc719e67d8e36ecde0879b"
@@ -4307,6 +5228,9 @@
    "versions": [
     {
      "from": "2026-04-22",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter60B",
      "sha256": "6dafa67665d813d1bca5bb4ea61563cdd0841f859cbda2ce769c798949debe60"
@@ -4321,6 +5245,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61",
      "sha256": "807dc312e3ff4c584c51d48c114ab888862728dad9c62c10666855b9003f0f89"
@@ -4335,6 +5262,9 @@
    "versions": [
     {
      "from": "2026-10-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61A",
      "sha256": "dceb5f72535993d877936412c2d4ef6e565b1dd0baa4ab6107179bbd990bdf02"
@@ -4349,6 +5279,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter61B",
      "sha256": "42a8fe0d43e6c011728180dba1e11689d9ffdac38a6b6f2c974e7de7e1e0f3c7"
@@ -4363,6 +5296,9 @@
    "versions": [
     {
      "from": "2026-08-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62B",
      "sha256": "2c6ab60ddba5c419475cc1c920b4cf9201bc5d6fdc053fb101957f16aec5ecfc"
@@ -4377,6 +5313,9 @@
    "versions": [
     {
      "from": "2026-10-30",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 126,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62C",
      "sha256": "01948fb40ac58d15b2a0476ec098e33bdac78865e5f8f40b6c9926cfb38652c8"
@@ -4391,6 +5330,9 @@
    "versions": [
     {
      "from": "2026-10-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62D",
      "sha256": "c2aaa14867b800e2ce71b6c8f9f772ddb92359cde31fc4b983d40cc267e14599"
@@ -4405,6 +5347,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62E",
      "sha256": "1052b0c97ec3fea89cef60c55d3176c90941397701fd2163bef0663fb63b2304"
@@ -4419,6 +5364,9 @@
    "versions": [
     {
      "from": "2026-08-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter62F",
      "sha256": "0bc6e4d376ee2a8a6e167eb1f3118985b8e8c1fcb3017e510baed9955d5d35b1"
@@ -4433,6 +5381,9 @@
    "versions": [
     {
      "from": "2026-10-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64A",
      "sha256": "71b02d477e7c074ad27a9c3ebe78691e948c60a831a7839ccd1b046d5352896d"
@@ -4447,6 +5398,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 48,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64C",
      "sha256": "f4dd0d4259a44eefc2a80253fad345e1a84f6a2f6985e05ca48d0c0f5d87a9c1"
@@ -4461,6 +5415,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64D",
      "sha256": "220d92ee1b1df139ec7f806ea9be139777aaf326cb7826252464fcb2bf712ebc"
@@ -4475,6 +5432,9 @@
    "versions": [
     {
      "from": "2025-09-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64E",
      "sha256": "78f7e00604baa7c71c98fd6e23710d4546ad26f8f4be47fd3ef81ba893130338"
@@ -4489,6 +5449,9 @@
    "versions": [
     {
      "from": "2025-06-20",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64F",
      "sha256": "dba349cbe7fefc926f325f6ae99ff106dd295a0f92d08de069df655d546ed5c4"
@@ -4503,6 +5466,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64G",
      "sha256": "83af3b48d3eb5f39962729f8fd21df8735ef3a942df17079971449bcd49fc318"
@@ -4517,6 +5483,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H",
      "sha256": "736319b62007ff2a93ac683310d74c49461194ce584fc02c37e7e2136dc48555"
@@ -4531,6 +5500,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64I",
      "sha256": "bdaecdaa14768229e085eb4e0072ef1cc165697a3bcd69015f489f75303d44a1"
@@ -4545,6 +5517,9 @@
    "versions": [
     {
      "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64J",
      "sha256": "544d243487b2ae2ebd423e6c31a0780851e4b741a42c29eb6dac95d0a1afe2b3"
@@ -4559,6 +5534,9 @@
    "versions": [
     {
      "from": "2026-08-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64L",
      "sha256": "6a4a3e60768465d23a9f1001e2ac39e07c94d8ce533fb8a36146762f4fefa71a"
@@ -4573,6 +5551,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64N",
      "sha256": "a1b5b89d416b47d9f7ec72601f8af538620209c053159d1a8fa38562e7524433"
@@ -4587,6 +5568,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65C",
      "sha256": "86a66be7c4ecea02891bd40de60a69a03909c80475ffe5c943c3542e9f320075"
@@ -4601,6 +5585,9 @@
    "versions": [
     {
      "from": "2026-10-19",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 34,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66",
      "sha256": "8ab00df235e11ef03241140368b7c7467cfbb4ed06c6fc79ee5a7bdd845c2994"
@@ -4615,6 +5602,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A",
      "sha256": "4243f4214293d6087dc00fc8998d24a9cec77ee62692dc623bb19d211389581e"
@@ -4629,6 +5619,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 36,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXI/Chapter68",
      "sha256": "0f5aca2ace6590afaf0482ab3674dccce35b9d8517db79400f75ea933cc0b6e2"
@@ -4643,6 +5636,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 47,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter69",
      "sha256": "c01d4f440619b95ee69e3f176a11876198390f104fe2ef0dccbdaa80fddfa68e"
@@ -4657,6 +5653,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 82,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6C",
      "sha256": "9ed4d9753bc35e280bc4c287b69290eac2eebb88a4f595d261df977ea3a13435"
@@ -4671,6 +5670,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6D",
      "sha256": "754ebcdc7d8c0e1f9f936444e88060cef744787681fa7192c97293521a2bd096"
@@ -4685,6 +5687,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6E",
      "sha256": "0f207f92caf6667207e27fe968dc825444c7566713aeb12debabc10761fa7461"
@@ -4699,6 +5704,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 106,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7",
      "sha256": "d594319e98349393ecb7c16a8c2070ff4064e197490334a9f8463a69ed8fe471"
@@ -4713,6 +5721,9 @@
    "versions": [
     {
      "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter70",
      "sha256": "a99327783683c03ed439fbc4cf238899d2d86120a934b78f91a6ecd85d1abe61"
@@ -4727,6 +5738,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71A",
      "sha256": "87aed17d1820e88cda22f0fd2db0a845077d73b49afd3e5dce2e5cd62e03e14c"
@@ -4741,6 +5755,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter71B",
      "sha256": "8b80fd7f5d3796c1a2a019feb57c3a4132b5bda4b2c9b0bb2bd1d8bdde61f49b"
@@ -4755,6 +5772,9 @@
    "versions": [
     {
      "from": "2026-09-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter72",
      "sha256": "909cd8cb4d96b3037a7873ebf1248f49f99cea355b4ac3468e49661ba9b878ca"
@@ -4769,6 +5789,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter76",
      "sha256": "787af38d2809d59e032956953edc345b6344ec0d8b92106c033d3338495c8124"
@@ -4783,6 +5806,9 @@
    "versions": [
     {
      "from": "2026-10-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 45,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter78",
      "sha256": "5ab04f95cd8dde23ddd968f653ef36ea850a93cb8e2d785d5961bb3e988effd5"
@@ -4797,6 +5823,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 64,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIII/Chapter79",
      "sha256": "b506696ddf982bd0bb4ef39d9a6d9c66bb64b82332d9465dcf8dff35897f1bf6"
@@ -4811,6 +5840,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIII/Chapter79A",
      "sha256": "1a1a6bc1b161237faec548093d1a631ceacbaafcf4b1edfaeef0c6d01ff072cf"
@@ -4825,6 +5857,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7A",
      "sha256": "2481f1ce4cb7a612ea38711ed980d5690eb4bdf052fc6eb7b708032457d39005"
@@ -4839,6 +5874,9 @@
    "versions": [
     {
      "from": "2026-06-09",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7B",
      "sha256": "10394b9d093600720db0c12cfd6ffceaa29f38b3ff051f7c686fb0d6801a360a"
@@ -4853,6 +5891,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 74,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7C",
      "sha256": "44405dae9489055a1e7793e6488eac36d9e4d6a68613c7f708be601b9750791c"
@@ -4867,6 +5908,9 @@
    "versions": [
     {
      "from": "2026-10-08",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter7D",
      "sha256": "64d2054063558ca5f8c45f9ab9032b4992f43b36b81244c8f703caa98b419dd6"
@@ -4881,6 +5925,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 20,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIII/Chapter80",
      "sha256": "dca5f73f2de756bb2f323b58e7787d9de0d13878d7556a20467ea94cafc007d2"
@@ -4895,6 +5942,9 @@
    "versions": [
     {
      "from": "2026-07-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIII/Chapter80A",
      "sha256": "ad283c0f7973804b25a26917d56ab7ced78cae90349443976dd9a7b2d1e67a3b"
@@ -4909,6 +5959,9 @@
    "versions": [
     {
      "from": "2026-09-12",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 52,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter81",
      "sha256": "492515175e6a404b3fe12d4fe65e5f0b5b61c9b950c765db42cbac55c5a66a9b"
@@ -4923,6 +5976,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 48,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter82",
      "sha256": "491c26eeb65b78bd8d016df4dc1602feb2556ff0e319af0958beef08268309ef"
@@ -4937,6 +5993,9 @@
    "versions": [
     {
      "from": "2026-09-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter82A",
      "sha256": "1b3a0f9538bf0fddad0eaba50280f605c7e32b048639a80ba391f89c866a7731"
@@ -4951,6 +6010,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter84",
      "sha256": "9d8fa57afdc6eadc768841b08db98be496ad43387c228eed7c8243a8b2d33349"
@@ -4965,6 +6027,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter85",
      "sha256": "e1c38c5393e2c98630ca97f5621ef70d73d77d7318532a3a1a0719e4cfc2ba96"
@@ -4979,6 +6044,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter86",
      "sha256": "dbc0ba9c4089337d6a280a9598d5e100ec90d4e56daadabbed23c5a23246984d"
@@ -4993,6 +6061,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter87",
      "sha256": "95d3f3fab89b6d21cd625fb3d185334e8fbe933b6b01faadda3bfae8893706dd"
@@ -5007,6 +6078,9 @@
    "versions": [
     {
      "from": "2026-10-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter89",
      "sha256": "95a2c5d4dec323d4c232595f838ead249550fba1e64c478722629966efc389f8"
@@ -5021,6 +6095,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 64,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90B",
      "sha256": "bfcf2f7e0516696890abf8480895300f160ccf52f4d145101fdc8a56700147dd"
@@ -5035,6 +6112,9 @@
    "versions": [
     {
      "from": "2026-09-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90C",
      "sha256": "1130e816e714385d104f4f34d87ef27425b0aadc4f9af7a261ce04e6890bcc28"
@@ -5049,6 +6129,9 @@
    "versions": [
     {
      "from": "2026-09-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90E",
      "sha256": "99d942f30a7bff78db3a230bbc3fe39aa5804bc629f4c894ae9eb662ffe652eb"
@@ -5063,6 +6146,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90F",
      "sha256": "3e35b6d6ae21ce4c25926d5ee03a61a4b598151b6fa758e6a658bdffeae8aa1e"
@@ -5077,6 +6163,9 @@
    "versions": [
     {
      "from": "2026-10-06",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 85,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter91",
      "sha256": "60e9613a91aab9ad22c531f5f1272a218c7a36b7ade531935f4947e294b3647a"
@@ -5091,6 +6180,9 @@
    "versions": [
     {
      "from": "2026-05-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 66,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter92",
      "sha256": "9264a26c9b7efc08627f49e2fd478caa35ef11da7fed785ad2326964a6ef7fb3"
@@ -5105,6 +6197,9 @@
    "versions": [
     {
      "from": "2026-09-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93B",
      "sha256": "ca8faf7cdb2642ddebd3849ef84559f68fbbb5e3fca362c44ecab32966e7f5d2"
@@ -5119,6 +6214,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93D",
      "sha256": "64497a0ec547336a214b2dc8879e633f16f1516882c3891cccc1ce791b1b777f"
@@ -5133,6 +6231,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93H",
      "sha256": "302b76eaebe2b0b084b73e1505de4f74c72eb2d0dedcfb5d8f1d5380a5d2bc04"
@@ -5147,6 +6248,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93I",
      "sha256": "962b542af5028706cf5c833d3c76b64321673c057812ff3c5426f72175b74bf1"
@@ -5161,6 +6265,9 @@
    "versions": [
     {
      "from": "2026-08-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93K",
      "sha256": "1a9a65b2c29e0c78a6e82267ddbd0bc45082bce747caa26b86ac2dbeb845495c"
@@ -5175,6 +6282,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93L",
      "sha256": "78fda6563c48cc4e7edb9be5f23f954a0959665e18d59a34264ef746b6e35afc"
@@ -5189,6 +6299,9 @@
    "versions": [
     {
      "from": "2026-10-16",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 455,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94",
      "sha256": "2065a82bb7877f0f594a4b34eb368a230dc1b0bd68f1875a03a81a362c6c1490"
@@ -5203,6 +6316,9 @@
    "versions": [
     {
      "from": "2026-07-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94A",
      "sha256": "d2c54aebaad321e0cbf80e3aa2f87ba310de3183130353a62189c4e66429ff20"
@@ -5217,6 +6333,9 @@
    "versions": [
     {
      "from": "2026-08-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94B",
      "sha256": "9993bd0fba6e8163554acb7719d9095fa7018612c5ef9ee37c91e4d7b3ce1ea5"
@@ -5231,6 +6350,9 @@
    "versions": [
     {
      "from": "2026-10-18",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 85,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94C",
      "sha256": "d1ea64ad26511524f105044d21473457eed7dfcbfcae6b3730e4cf5479939137"
@@ -5245,6 +6367,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94D",
      "sha256": "4f0e207f7446309786170f1628754ffddda528f56ae015ea3abe778123bb3123"
@@ -5259,6 +6384,9 @@
    "versions": [
     {
      "from": "2026-10-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94F",
      "sha256": "4d1a99fb63a6cafee2f46552db1dedbbd77d68f010a901ead76db44c234fc53b"
@@ -5273,6 +6401,9 @@
    "versions": [
     {
      "from": "2026-10-17",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94G",
      "sha256": "4b93082b6b5ed5edf9b936abd18f449a92994fc0704d1e564446278ba3ea5f4e"
@@ -5287,6 +6418,9 @@
    "versions": [
     {
      "from": "2026-07-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94H",
      "sha256": "5085eccdeb7f0955cafa030ed09636b9b116333abc78334400ce9af100606a4a"
@@ -5301,6 +6435,9 @@
    "versions": [
     {
      "from": "2026-10-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94I",
      "sha256": "99f644bc11daf0fcb906e096e643a5ef2cb4ea178f789766693df54b817a80c3"
@@ -5315,6 +6452,9 @@
    "versions": [
     {
      "from": "2026-09-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A",
      "sha256": "43c42fc2a90e696fbc7a390160c7f529ef94b25a8e51cd8297f7bb69f4a3b866"
@@ -5329,15 +6469,599 @@
    "versions": [
     {
      "from": "2010-09-21",
+     "to": "2026-10-20",
+     "status": "replaced",
+     "text_as_of": "2010-09-21",
      "units": 11,
      "source_url": "https://web.archive.org/web/20100918122547id_/http://www.malegislature.gov:80/Laws/GeneralLaws/PartI/TitleXV/Chapter93A",
      "sha256": "d55d885f0b9d0347ecc6ca4dfbf17ac4899bdd28995a074d9056e7844694cd95"
     },
     {
      "from": "2026-10-21",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": "2026-10-21",
      "units": 11,
      "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93A",
      "sha256": "8096e3f252a52c567eacdcbd1f27d2e5fd9fe77aa128c54fa551c71263eb9cef"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0014",
+   "short": "M.G.L. c. 14",
+   "title": "General Laws, Chapter 14: Department of revenue",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter14",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter14",
+     "sha256": "0f0e48da6f0bb81e90bdb0fcadc5de6cd0000555b92afe6942b00b1a27e22204"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0031a",
+   "short": "M.G.L. c. 31A",
+   "title": "General Laws, Chapter 31A: Municipal personnel systems",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIV/Chapter31A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIV/Chapter31A",
+     "sha256": "4bf700eea2123fba43767d3eee11304522c420743aba33ef6bea146686d638e0"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0040x",
+   "short": "M.G.L. c. 40X",
+   "title": "General Laws, Chapter 40X: Tourism destination marketing districts",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40X",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40X",
+     "sha256": "36dfb2435586359308f29435a167afb286bb695c15d4b2aa028a13756e8c6d9e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0047",
+   "short": "M.G.L. c. 47",
+   "title": "General Laws, Chapter 47: Infirmaries",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter47",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter47",
+     "sha256": "21d0d0d100eec44a3aa9d1e9d6b9a9a60913fed767bec5c08b9d54babb1cdcb1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0055b",
+   "short": "M.G.L. c. 55B",
+   "title": "General Laws, Chapter 55B: The state ballot law commission",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter55B",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter55B",
+     "sha256": "a7614049bc8597022a3b5debc97f26778fc73a310427f9476a1860092f0906a5"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0055c",
+   "short": "M.G.L. c. 55C",
+   "title": "General Laws, Chapter 55C: Limited public financing of campaigns for statewide elective office",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter55C",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter55C",
+     "sha256": "9fa806ef191420b80f4bc6801a935116d75a5a95cef6dfcc5b68b5d1350bdef3"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090a",
+   "short": "M.G.L. c. 90A",
+   "title": "General Laws, Chapter 90A: The highway safety act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90A",
+     "sha256": "274e2e6d630430c95c4c837f3887f54037baa08d28bf735ed2044febfbba8a26"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090h",
+   "short": "M.G.L. c. 90H",
+   "title": "General Laws, Chapter 90H: Gateway roads program",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90H",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90H",
+     "sha256": "572a53687bf643dfa5a25c6afa1543ba919a996d0a16eb8ad6c63cf72d5ba0d6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090i",
+   "short": "M.G.L. c. 90I",
+   "title": "General Laws, Chapter 90I: Complete streets program",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90I",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90I",
+     "sha256": "e459418f2df466bc7e4fba64e11f39e9b86607f3a8e030374abe2bc13bd3a6e4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090j",
+   "short": "M.G.L. c. 90J",
+   "title": "General Laws, Chapter 90J: Counterfeit airbag prohibition",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90J",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90J",
+     "sha256": "f44b92e0fb0886929d578dc8a3b876877e4b210b7fe2356411f68b9989d6819c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0090k",
+   "short": "M.G.L. c. 90K",
+   "title": "General Laws, Chapter 90K: Automated enforcement of bus stops and bus lanes",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90K",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90K",
+     "sha256": "3259f492e587f9ef3a4104334d4153bca7827e4fdd7982f6c93b8c5ad357cd40"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0093f",
+   "short": "M.G.L. c. 93F",
+   "title": "General Laws, Chapter 93F: Regulation of certain business practices between motion picture distributors and exhibitors",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93F",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93F",
+     "sha256": "c7b018f45c1f2051b950f5b4b12adbb61dc9e0c21a5733eea97326cded8968bd"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0095",
+   "short": "M.G.L. c. 95",
+   "title": "General Laws, Chapter 95: Measuring of leather",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter95",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter95",
+     "sha256": "d0d3ce8d9b27f02625f4bf499fc65bdb1d605e1810581d2470a94142cb68df5c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0096",
+   "short": "M.G.L. c. 96",
+   "title": "General Laws, Chapter 96: Measurement of lumber",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter96",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter96",
+     "sha256": "0e949c201641dc3a0a003808c7baa3119ba85b2049aee6d453890007dd587928"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0104",
+   "short": "M.G.L. c. 104",
+   "title": "General Laws, Chapter 104: Agents, consignees and factors",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter104",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter104",
+     "sha256": "f8877c14f28d17b25e856d0b8bfeab2f1b05dab7b384cd8c8a95dc9873b58115"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021f",
+   "short": "M.G.L. c. 21F",
+   "title": "General Laws, Chapter 21F: Coastal facilities improvement",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21F",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21F",
+     "sha256": "5a50b466b0ebe475f337051ad186bd78c0a3badd7b5937d6d8bb2db6f79d2999"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021l",
+   "short": "M.G.L. c. 21L",
+   "title": "General Laws, Chapter 21L: Environmental endangerment act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21L",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21L",
+     "sha256": "6d567f0dd54a2a14a237d3ce18b6b7c0d5c46fc1d73356a5ebe7b395a5916540"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0022a",
+   "short": "M.G.L. c. 22A",
+   "title": "General Laws, Chapter 22A: Missing persons",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter22A",
+     "sha256": "d7cee009499114012169c0ba3f8d295487e7a7646a903582b98cb0081b9f0024"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023l",
+   "short": "M.G.L. c. 23L",
+   "title": "General Laws, Chapter 23L: Local infrastructure development program",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23L",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23L",
+     "sha256": "7ac56d7a92ffd9a44bc95b5e24eadaeddfa32d5a36a615a248cce63a30d5f9c6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0024a",
+   "short": "M.G.L. c. 24A",
+   "title": "General Laws, Chapter 24A: Office of consumer affairs and business regulation",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter24A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter24A",
+     "sha256": "62f89d7c6b0249f847a414235a7d5b4ef4667feff1a10443e61711f89dfb443b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0029a",
+   "short": "M.G.L. c. 29A",
+   "title": "General Laws, Chapter 29A: Financing of the judicial system",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIII/Chapter29A",
+     "sha256": "0d07f2b2bbe48747696785ba261e15876f9cbefa9f8ff4c31ccf7df97101de03"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0040l",
+   "short": "M.G.L. c. 40L",
+   "title": "General Laws, Chapter 40L: Agricultural incentive areas",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40L",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40L",
+     "sha256": "55341f5c16f05081fc5c30b8572fc3673ffc2e1fabb5e301068cac682b33e431"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0040y",
+   "short": "M.G.L. c. 40Y",
+   "title": "General Laws, Chapter 40Y: Starter home zoning districts",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40Y",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40Y",
+     "sha256": "92dcf9c108f06bd3c0f4e67a6aab55ad8cd496e9f00d4c743ee7bbabbe0c42e1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0063a",
+   "short": "M.G.L. c. 63A",
+   "title": "General Laws, Chapter 63A: Taxation of certain corporations, associations and organizations engaged in the sale of alcoholic beverages",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter63A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter63A",
+     "sha256": "fca95e6ff5e9b9baf2ea18c7d02b868a225cdec45cfa082bb971f3ac935e5876"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0064m",
+   "short": "M.G.L. c. 64M",
+   "title": "General Laws, Chapter 64M: Taxation of direct broadcast satellite service",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64M",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64M",
+     "sha256": "8afabd17d2ad26b956323a3d1998cb7f183125483c82b3ed2ca4a45239b97be0"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0065b",
+   "short": "M.G.L. c. 65B",
+   "title": "General Laws, Chapter 65B: Settlement of disputes respecting the domicile of decedents for death tax purposes",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65B",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65B",
+     "sha256": "876b84700a4cb467211af94894677ded67ea4ba71a33ec67910f3a53762338c5"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023m",
+   "short": "M.G.L. c. 23M",
+   "title": "General Laws, Chapter 23M: Commercial property assessed clean energy",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23M",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23M",
+     "sha256": "34fb5257a9419cf333a29ad7c8953d890750b46bd1fdcf8b4a2ea02b1480b975"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0094e",
+   "short": "M.G.L. c. 94E",
+   "title": "General Laws, Chapter 94E: Provisions concerning certain tobacco manufacturers",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94E",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94E",
+     "sha256": "452a0e6f5a4e057ddd9f566be71ce69cccbb47018602490271ed70b9b34150ba"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021k",
+   "short": "M.G.L. c. 21K",
+   "title": "General Laws, Chapter 21K: Mitigation of hazardous materials",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21K",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21K",
+     "sha256": "33a91b1959d452d6aeff7729ce115cc24245b59649115ef5b30663d75c601b9b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0025c",
+   "short": "M.G.L. c. 25C",
+   "title": "General Laws, Chapter 25C: Department of telecommunications and cable",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25C",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25C",
+     "sha256": "05f572570ce31ecb59f334afcde1e1e7c25f892944477d08e8a70ed0aea1878a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0040o",
+   "short": "M.G.L. c. 40O",
+   "title": "General Laws, Chapter 40O: Business improvement districts",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40O",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40O",
+     "sha256": "c8cf3d876b0c783def47dac736be0f2a864c98a906b55fe2bb3427ebcc1d1c94"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0043e",
+   "short": "M.G.L. c. 43E",
+   "title": "General Laws, Chapter 43E: Expedited state permitting",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter43E",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter43E",
+     "sha256": "ae1143e69864d6d79259c5c007029c1c00f90f1de19d213a5cc3bb1e6a15edec"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0068a",
+   "short": "M.G.L. c. 68A",
+   "title": "General Laws, Chapter 68A: Limitations upon the conduct of certain trusts and corporations having charitable interests",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXI/Chapter68A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXI/Chapter68A",
+     "sha256": "6bebb1a3265c1bde252d15af7f098922d82c91502325e15ade5c5465c86c3182"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0099",
+   "short": "M.G.L. c. 99",
+   "title": "General Laws, Chapter 99: The metric system of weights and measures",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter99",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter99",
+     "sha256": "0b8faaaddee0a1d1dd47dfa18b892c5a3e839cbeb970dd62867d2c17d958e758"
     }
    ]
   }

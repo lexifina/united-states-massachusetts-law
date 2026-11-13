@@ -1,6 +1,6 @@
 # How this repository was made (Massachusetts)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -388,6 +388,11 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | General Court of Massachusetts | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter9A> | 2026-11-10 | Statute text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). No annotations are used. |
 | General Court of Massachusetts: General Laws chapter 93A, official section pages (Internet Archive copies) | <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93A> | 2026-11-06 | Official statutory text is not copyrightable in the United States (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)); website design, photographs, videos and third-party copyrighted material are excluded. |
 | General Court of Massachusetts: Chapter 93A, Internet Archive copies of official pages (2010 captures) | <https://web.archive.org/web/20100918122547id_/http://www.malegislature.gov:80/Laws/GeneralLaws/PartI/TitleXV/Chapter93A> | 2026-11-11 | Official Massachusetts statute text is not copyrightable in the United States; no annotations are used. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-11 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-11 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-11 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-11 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-11 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -776,20 +781,56 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0094i` | General Laws, Chapter 94I: Medical use of marijuana | 1 | 2026-10-13 to 2026-10-13 |
 | `gl-chapter-0009a` | General Laws, Chapter 9A: Address confidentiality program | 1 | 2026-09-13 to 2026-09-13 |
 | `gl-chapter-0093a` | General Laws, Chapter 93A: Regulation of business practices for consumers protection | 2 | 2010-09-21 to 2026-10-21 |
+| `gl-chapter-0014` | General Laws, Chapter 14: Department of revenue | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0031a` | General Laws, Chapter 31A: Municipal personnel systems | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0040x` | General Laws, Chapter 40X: Tourism destination marketing districts | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0047` | General Laws, Chapter 47: Infirmaries | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0055b` | General Laws, Chapter 55B: The state ballot law commission | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0055c` | General Laws, Chapter 55C: Limited public financing of campaigns for statewide elective office | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0090a` | General Laws, Chapter 90A: The highway safety act | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0090h` | General Laws, Chapter 90H: Gateway roads program | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0090i` | General Laws, Chapter 90I: Complete streets program | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0090j` | General Laws, Chapter 90J: Counterfeit airbag prohibition | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0090k` | General Laws, Chapter 90K: Automated enforcement of bus stops and bus lanes | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0093f` | General Laws, Chapter 93F: Regulation of certain business practices between motion picture distributors and exhibitors | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0095` | General Laws, Chapter 95: Measuring of leather | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0096` | General Laws, Chapter 96: Measurement of lumber | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0104` | General Laws, Chapter 104: Agents, consignees and factors | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0021f` | General Laws, Chapter 21F: Coastal facilities improvement | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0021l` | General Laws, Chapter 21L: Environmental endangerment act | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0022a` | General Laws, Chapter 22A: Missing persons | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0023l` | General Laws, Chapter 23L: Local infrastructure development program | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0024a` | General Laws, Chapter 24A: Office of consumer affairs and business regulation | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0029a` | General Laws, Chapter 29A: Financing of the judicial system | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0040l` | General Laws, Chapter 40L: Agricultural incentive areas | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0040y` | General Laws, Chapter 40Y: Starter home zoning districts | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0063a` | General Laws, Chapter 63A: Taxation of certain corporations, associations and organizations engaged in the sale of alcoholic beverages | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0064m` | General Laws, Chapter 64M: Taxation of direct broadcast satellite service | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0065b` | General Laws, Chapter 65B: Settlement of disputes respecting the domicile of decedents for death tax purposes | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0023m` | General Laws, Chapter 23M: Commercial property assessed clean energy | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0094e` | General Laws, Chapter 94E: Provisions concerning certain tobacco manufacturers | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0021k` | General Laws, Chapter 21K: Mitigation of hazardous materials | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0025c` | General Laws, Chapter 25C: Department of telecommunications and cable | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0040o` | General Laws, Chapter 40O: Business improvement districts | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0043e` | General Laws, Chapter 43E: Expedited state permitting | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0068a` | General Laws, Chapter 68A: Limitations upon the conduct of certain trusts and corporations having charitable interests | 1 | 2026-11-11 to 2026-11-11 |
+| `gl-chapter-0099` | General Laws, Chapter 99: The metric system of weights and measures | 1 | 2026-11-11 to 2026-11-11 |
 
-The build made 383 commits:
+The build made 417 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 381 | first version of an act |
-| 0 | one law on its in-force day |
+| 415 | baseline texts where the record starts |
+| 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 2 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 381 tags.
+- 415 tags.
 
 ## Dates
 
@@ -801,8 +842,8 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `78aeceae862dfd784db8414aca8ad056b5e9d2bdf19cb660a983d74c43f4b5c6` (26917753 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `0c6c5d06ac32422f9a68b931a9f5e4dd57382d0ee38b3c7eb80263ed1d4e59bd` (27757557 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -1200,10 +1241,18 @@ No second build of this corpus has been compared yet.
 - In-force basis: the official section pages provide no dated consolidation or latest-amendment commencement for this assembled text. 2026-10-21 is the newest source capture day, not an established commencement day. Text-as-of: 2026-10-21. The eleven section pages were captured between 2025-09-03 and 2026-10-21; this assembled archival baseline does not establish a coherent historical version for every day in that interval, or current text on the retrieval day.
 - One unit per section in the official chapter table of contents; no amendment history reconstructed. Typesetting normalization only: whitespace, typographic quotes and dashes; no legal words authored or corrected.
 - Chapter 93A: adds a 2010 archival as-of text before the existing 2026 version. The original signed-off act and its current version are copied without change. Later complete 2016 and 2022 archived section sets show the same letters and digits as the 2010 text after excluding a site-internal marker; they add no distinct historical wording. Archive captures are labelled; their timestamps are not claimed as amendment dates.
+- Each included chapter is one current-text baseline. Every listed section was fetched; chapters with dated legal text or normative images were held for separate review. Source pages for included chapters state no date, so their retrieval day is used explicitly.
+- Each included chapter is one current-text baseline. Every listed section was fetched; chapters with dated legal text or normative images were held for separate review. Source pages for included chapters state no date, so their retrieval day is used explicitly.
+- Each included chapter is one current-text baseline. Every listed section was fetched; chapters with dated legal text or normative images were held for separate review. Source pages for included chapters state no date, so their retrieval day is used explicitly.
+- Each included chapter is one current-text baseline. Every listed section was fetched; chapters with unresolved current-text dates or normative images were held for separate review. Source pages for included chapters state no current-text date, so their retrieval day is used explicitly. Reviewed source year references unrelated to the current-text date in chapters 23M, 94E.
+- Each included chapter is one current-text baseline. Every listed section was fetched; chapters with unresolved current-text dates or normative images were held for separate review. Source pages for included chapters state no current-text date, so their retrieval day is used explicitly. Reviewed source year references unrelated to the current-text date in chapters 21K, 25C, 40O, 43A, 43E, 68A, 99.
+- Official chapter and every listed section independently surveyed: zero legal-content images; only source_images is corrected from an invalid empty list to the integer zero. Statutory text, source hashes, and version dates are unchanged.
+- Official chapter and every listed section independently surveyed: zero legal-content images; only source_images is corrected from an invalid empty list to the integer zero. Statutory text, source hashes, and version dates are unchanged.
+- Official chapter and every listed section independently surveyed: zero legal-content images; only source_images is corrected from an invalid empty list to the integer zero. Statutory text, source hashes, and version dates are unchanged.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -1592,3 +1641,11 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - GPT-6 wrote the source-handling and validation code and selected the chapter; no model-generated or model-corrected legal text or OCR was used.
 - An AI worker wrote this deterministic parser and reviewed its checks; no model wrote or corrected legal text.
+- A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote the verification script; no statutory words were authored or edited.
+- A model wrote the verification script; no statutory words were authored or edited.
+- A model wrote the verification script; no statutory words were authored or edited.
