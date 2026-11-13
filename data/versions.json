@@ -8424,6 +8424,108 @@
      "sha256": "f9c7d6f3286db55b233d9f130e7d741705251f4667f2e581f02373f9c0726d3f"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0105",
+   "short": "M.G.L. c. 105",
+   "title": "General Laws, Chapter 105: PUBLIC WAREHOUSES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter105",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter105",
+     "sha256": "73e81bf27bf33c02473261c0e6b6daf98e7bed0e946053ec1fd8a01f9ddab082"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0111e",
+   "short": "M.G.L. c. 111E",
+   "title": "General Laws, Chapter 111E: DRUG REHABILITATION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111E",
+     "sha256": "f67ea8ffcf60c02e9971cf260c4956bcb46ed55d0a68add1c41160e7f976b372"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0118",
+   "short": "M.G.L. c. 118",
+   "title": "General Laws, Chapter 118: AID TO FAMILIES WITH DEPENDENT CHILDREN",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118",
+     "sha256": "62a523d07a34a1b25a516e0bddd1cf5b594e9ff3479297831ec4d5a8705c0dbd"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0172",
+   "short": "M.G.L. c. 172",
+   "title": "General Laws, Chapter 172: TRUST COMPANIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter172",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter172",
+     "sha256": "c01ae6c694572b201df7b8340fc0201e19e6ab82a542937a046c3c38624a36e4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0174a",
+   "short": "M.G.L. c. 174A",
+   "title": "General Laws, Chapter 174A: REGULATION OF RATES FOR FIRE, MARINE AND INLAND MARINE INSURANCE, AND RATING ORGANIZATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174A",
+     "sha256": "0ce19517008e7b194050ef3e7e75d36596e24940e1ba1e5cd3c44d520c0ada56"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176h",
+   "short": "M.G.L. c. 176H",
+   "title": "General Laws, Chapter 176H: LEGAL SERVICES PLANS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176H",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176H",
+     "sha256": "085f786854265f1b14c4758f633e6e6419c2a49e0003769161f78358ce6ea5c5"
+    }
+   ]
   }
  ]
 }

@@ -2535,6 +2535,17 @@
     "gl-chapter-0280"
    ],
    "sha256": "6809423f5cd0d0c13ed4630f82966b05a85e3d720a6d966f5e487245bb638717"
+  },
+  "zzq2003-resubmission-005.json": {
+   "acts": [
+    "gl-chapter-0105",
+    "gl-chapter-0111e",
+    "gl-chapter-0118",
+    "gl-chapter-0172",
+    "gl-chapter-0174a",
+    "gl-chapter-0176h"
+   ],
+   "sha256": "0753b11136cbe51406db62d9a160e6c3a2bdbe1e763b0551b2b2ebdde65fa255"
   }
  },
  "schema": 1
