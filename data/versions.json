@@ -8407,6 +8407,125 @@
      "sha256": "059034492da1cb74ed510a5a21db60a7657f42c143f673ef225929ed51ca09fe"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0229",
+   "short": "M.G.L. c. 229",
+   "title": "General Laws, Chapter 229: ACTIONS FOR DEATH AND INJURIES RESULTING IN DEATH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter229",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter229",
+     "sha256": "45262bdd0d29100e7b8653c7a3639a9763168562909e017f9601b670e987d557"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0213",
+   "short": "M.G.L. c. 213",
+   "title": "General Laws, Chapter 213: PROVISIONS COMMON TO THE SUPREME JUDICIAL AND SUPERIOR COURTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter213",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter213",
+     "sha256": "d2a405cf8c95b4a14f6a90be581b750e997b16d8cf4a53fc96de5507f6804f7c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0175f",
+   "short": "M.G.L. c. 175F",
+   "title": "General Laws, Chapter 175F: MEDICAL MALPRACTICE SELF&ndash;INSURANCE TRUST FUNDS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175F",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175F",
+     "sha256": "91b97f208f18ded73969760b7a073a5e35b76fe5c7e1947bcc4695d56294464d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0228",
+   "short": "M.G.L. c. 228",
+   "title": "General Laws, Chapter 228: SURVIVAL OF ACTIONS AND DEATH AND DISABILITIES OF PARTIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter228",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter228",
+     "sha256": "b72339d8f8975bf40493e4627ee7f28c3dd7edfd5901446aded7884fd8abdfb2"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0151d",
+   "short": "M.G.L. c. 151D",
+   "title": "General Laws, Chapter 151D: HEALTH, WELFARE AND RETIREMENT FUNDS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151D",
+     "sha256": "1fc6d3041bc0e5fe9eca33b4389ad3e6f965b875c724963d47415b389f9e65f3"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0203",
+   "short": "M.G.L. c. 203",
+   "title": "General Laws, Chapter 203: TRUSTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203",
+     "sha256": "b662e58e6079df7af91ff861e76822c0370a391125a21af187f2e8c5190ea97c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0203b",
+   "short": "M.G.L. c. 203B",
+   "title": "General Laws, Chapter 203B: UNIFORM CUSTODIAL TRUST ACT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203B",
+     "sha256": "2f6063364771c7988f23916cf2fd46796c6674a912f33e0b9008baef66817841"
+    }
+   ]
   }
  ]
 }

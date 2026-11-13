@@ -407,6 +407,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -908,12 +909,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0097` | General Laws, Chapter 97: SURVEYING OF LAND | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0175e` | General Laws, Chapter 175E: REGULATION OF RATES FOR MOTOR VEHICLE INSURANCE | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0188` | General Laws, Chapter 188: HOMESTEADS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0229` | General Laws, Chapter 229: ACTIONS FOR DEATH AND INJURIES RESULTING IN DEATH | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0213` | General Laws, Chapter 213: PROVISIONS COMMON TO THE SUPREME JUDICIAL AND SUPERIOR COURTS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0175f` | General Laws, Chapter 175F: MEDICAL MALPRACTICE SELF&ndash;INSURANCE TRUST FUNDS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0228` | General Laws, Chapter 228: SURVIVAL OF ACTIONS AND DEATH AND DISABILITIES OF PARTIES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0151d` | General Laws, Chapter 151D: HEALTH, WELFARE AND RETIREMENT FUNDS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0203` | General Laws, Chapter 203: TRUSTS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0203b` | General Laws, Chapter 203B: UNIFORM CUSTODIAL TRUST ACT | 1 | 2026-11-13 to 2026-11-13 |
 
-The build made 496 commits:
+The build made 503 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 494 | baseline texts where the record starts |
+| 501 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 2 | corrections to the existing record |
@@ -923,7 +931,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 494 tags.
+- 501 tags.
 
 ## Dates
 
@@ -935,7 +943,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `909577794a3b46fb9768c0b1955fb78c69f0cfa86d07b8b0db876fd0b9822a8d` (30079618 bytes).
+- Corpus: sha256 `ad311e7e4d76eab28fe37369ae9607b29e301bbba11fe21b69df6681c228d7ad` (30239116 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1359,6 +1367,7 @@ No second build of this corpus has been compared yet.
 - Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
 - Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
 - Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
+- Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
 
 ## What AI did and did not do
 
@@ -1769,6 +1778,7 @@ Model use at data-build time:
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
+- A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.

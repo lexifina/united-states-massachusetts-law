@@ -278,6 +278,13 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0097/` | General Laws, Chapter 97: SURVEYING OF LAND | 14 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0175e/` | General Laws, Chapter 175E: REGULATION OF RATES FOR MOTOR VEHICLE INSURANCE | 15 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0188/` | General Laws, Chapter 188: HOMESTEADS | 16 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0229/` | General Laws, Chapter 229: ACTIONS FOR DEATH AND INJURIES RESULTING IN DEATH | 14 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0213/` | General Laws, Chapter 213: PROVISIONS COMMON TO THE SUPREME JUDICIAL AND SUPERIOR COURTS | 16 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0175f/` | General Laws, Chapter 175F: MEDICAL MALPRACTICE SELF&ndash;INSURANCE TRUST FUNDS | 18 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0228/` | General Laws, Chapter 228: SURVIVAL OF ACTIONS AND DEATH AND DISABILITIES OF PARTIES | 18 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0151d/` | General Laws, Chapter 151D: HEALTH, WELFARE AND RETIREMENT FUNDS | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0203/` | General Laws, Chapter 203: TRUSTS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0203b/` | General Laws, Chapter 203B: UNIFORM CUSTODIAL TRUST ACT | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
