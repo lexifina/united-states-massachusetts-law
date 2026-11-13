@@ -2395,6 +2395,22 @@
     "gl-chapter-0115b"
    ],
    "sha256": "93b7d0ed87ac51859258f6627e48a3f206f4f97e94cade189b451909bae2dc7e"
+  },
+  "zzq1942-depth-b.json": {
+   "acts": [
+    "gl-chapter-0023h",
+    "gl-chapter-0065a",
+    "gl-chapter-0110d",
+    "gl-chapter-0110e",
+    "gl-chapter-0111i",
+    "gl-chapter-0111k",
+    "gl-chapter-0118c",
+    "gl-chapter-0121e",
+    "gl-chapter-0121g",
+    "gl-chapter-0121h",
+    "gl-chapter-0124"
+   ],
+   "sha256": "d9b047c28b63517bfadbf00b19b3be69ee98dd4a305e935c9a3c7debca66f9bf"
   }
  },
  "schema": 1
