@@ -14,6 +14,23 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | Folder | Act | Units | History |
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution of the Commonwealth of Massachusetts (1780, as amended): Preamble, Part the First, Part the Second, the Articles of Amendment, and the notes on amendments rejected | 229 | One version: the General Court's online text as captured on 15 October 2026 |
+| `gl-chapter-0093e/` | General Laws, Chapter 93E: REGULATION OF DEALERS' AGREEMENTS FOR THE SALE OF GASOLINE | 15 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0092b/` | General Laws, Chapter 92B: COMMONWEALTH ZOOLOGICAL CORPORATION | 12 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0088/` | General Laws, Chapter 88: FERRIES, CANALS AND PUBLIC LANDINGS | 19 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0063b/` | General Laws, Chapter 63B: DECLARATION OF ESTIMATED TAX BY CORPORATIONS | 13 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0043d/` | General Laws, Chapter 43D: EXPEDITED PERMITTING | 17 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0042/` | General Laws, Chapter 42: BOUNDARIES OF CITIES AND TOWNS | 12 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0040m/` | General Laws, Chapter 40M: GOVERNMENTAL UNITS POOLED INSURANCE | 17 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0040g/` | General Laws, Chapter 40G: MASSACHUSETTS TECHNOLOGY DEVELOPMENT CORPORATION | 16 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0040d/` | General Laws, Chapter 40D: INDUSTRIAL DEVELOPMENT OF CITIES AND TOWNS | 23 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0037/` | General Laws, Chapter 37: SHERIFFS | 24 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0034a/` | General Laws, Chapter 34A: COUNTY CHARTER PROCEDURES | 21 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0023e/` | General Laws, Chapter 23E: DIVISION OF INDUSTRIAL ACCIDENTS | 15 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0021b/` | General Laws, Chapter 21B: MINING REGULATION AND RECLAMATION | 15 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0018c/` | General Laws, Chapter 18C: OFFICE OF THE CHILD ADVOCATE | 15 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0017/` | General Laws, Chapter 17: DEPARTMENT OF PUBLIC HEALTH | 28 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0016/` | General Laws, Chapter 16: DEPARTMENT OF HIGHWAYS | 15 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0008/` | General Laws, Chapter 8: STATE SUPERINTENDENT OF BUILDINGS, AND STATE HOUSE | 28 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
 | `gl-chapter-0001/` | General Laws, Chapter 1: Jurisdiction of the commonwealth and of the united states | 11 | One version: the General Court's online text, each section from its newest web capture (captured 2025-03-26 to 2026-06-04), dated 2026-06-04 |
 | `gl-chapter-0002/` | General Laws, Chapter 2: Arms, great seal and other emblems of the commonwealth | 66 | One version: the General Court's online text, each section from its newest web capture (captured 2025-07-09 to 2026-10-10), dated 2026-10-10 |
 | `gl-chapter-0004/` | General Laws, Chapter 4: Statutes | 20 | One version: the General Court's online text, each section from its newest web capture (captured 2025-04-01 to 2026-10-26), dated 2026-10-26 |
@@ -231,6 +248,9 @@ The General Laws are published one page per section (malegislature.gov/Laws/Gene
 - The page states no date of its own, so the capture date, **15 October 2026**, dates the single version. It is the oldest version available: the repository holds the Constitution as published online then, with every amendment the General Court had printed by that day (121 articles of amendment), and nothing earlier. The first commit is credited to the publisher as "oldest version available".
 - The dates on which the amendments took effect are in the text (the closing notes say when each was ratified), but they are not yet built into dated versions.
 - Each General Laws chapter is one version, dated by the newest capture day of its section pages, and credited to the publisher as "oldest version available". (The chapters published up to 2026-10-30 were dated a day or so later where needed so the history only grew; chapters added from 2026-11-10 on carry their newest capture day unchanged.) The section pages state no date, so this is a capture date, not a commencement date. Sections were captured on different days, which the commit's note gives; a section amended after its capture would show its older text here.
+
+
+The chapters added on 13 November 2026 use official current-text pages. Their year references concern cited statutes, applicability rules, repeals, appointments or reporting deadlines, rather than a current-text amendment date; their retrieval date is stated explicitly as the baseline. Chapters with unresolved effective-date notices or normative images are not included in those additions.
 
 ## What it does not show
 
