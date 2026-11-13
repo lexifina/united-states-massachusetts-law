@@ -8203,6 +8203,142 @@
      "sha256": "33cf5066a1e1b0154ec6ba2e0a98dda443d2b7fde90cdd768ddd87a5ad46814e"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0097",
+   "short": "M.G.L. c. 97",
+   "title": "General Laws, Chapter 97: SURVEYING OF LAND",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter97",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter97",
+     "sha256": "564d729e0fd58b1db65e6f039f5d22208f5d753624033d21cf653e705dea4682"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0110c",
+   "short": "M.G.L. c. 110C",
+   "title": "General Laws, Chapter 110C: REGULATION OF TAKE&ndash;OVER BIDS IN THE ACQUISITION OF CORPORATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110C",
+     "sha256": "5ee5c378cfc03e9ce652a6db680876d4e309cb8a9a4b41f3b848c57f2a73e5ca"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0150f",
+   "short": "M.G.L. c. 150F",
+   "title": "General Laws, Chapter 150F: TRANSPORTATION NETWORK DRIVERS UNIONIZATION AND COLLECTIVE BARGAINING",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150F",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150F",
+     "sha256": "5e1dd91ebc83dd75db4500f60f510df93310132b10934f6880ea8ce0a5f6e1e5"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0174b",
+   "short": "M.G.L. c. 174B",
+   "title": "General Laws, Chapter 174B: REGULATION OF AUTOMOBILE CLUBS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174B",
+     "sha256": "dc4a7f1fa5304a6a4f9f45e8746d4c2ab897b0558615f231385c11e689807332"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0188",
+   "short": "M.G.L. c. 188",
+   "title": "General Laws, Chapter 188: HOMESTEADS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter188",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter188",
+     "sha256": "3c158cc1e98ccfce8cd1b4904b1b7a531f1fc59968bf011b0e4e441dd613d78b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0229",
+   "short": "M.G.L. c. 229",
+   "title": "General Laws, Chapter 229: ACTIONS FOR DEATH AND INJURIES RESULTING IN DEATH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter229",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter229",
+     "sha256": "6f4652792c768c570cf196cd3448f5265623f64eec03f2b922b50af086e3935a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0230",
+   "short": "M.G.L. c. 230",
+   "title": "General Laws, Chapter 230: ACTIONS BY AND AGAINST EXECUTORS AND ADMINISTRATORS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter230",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter230",
+     "sha256": "b7dfc29d4d03ca8fc53c33c30e05ff5767f3d687a251f95d6da4d4cf15a2f53c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0245",
+   "short": "M.G.L. c. 245",
+   "title": "General Laws, Chapter 245: INFORMATIONS BY THE COMMONWEALTH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter245",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter245",
+     "sha256": "de44669705ce22797840a35a549f6b8e49c364efb9f0d8abc19b5462a7673281"
+    }
+   ]
   }
  ]
 }

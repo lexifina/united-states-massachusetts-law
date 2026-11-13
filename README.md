@@ -266,6 +266,14 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0256/` | General Laws, Chapter 256: RECOGNIZANCES FOR DEBTS | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0258f/` | General Laws, Chapter 258F: CERTIFICATION FOR VICTIMS OF VIOLENT CRIME AND HUMAN TRAFFICKING | 4 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0282/` | General Laws, Chapter 282: EXPRESS REPEAL OF CERTAIN ACTS AND RESOLVES | 1 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0097/` | General Laws, Chapter 97: SURVEYING OF LAND | 14 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0110c/` | General Laws, Chapter 110C: REGULATION OF TAKE&ndash;OVER BIDS IN THE ACQUISITION OF CORPORATIONS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0150f/` | General Laws, Chapter 150F: TRANSPORTATION NETWORK DRIVERS UNIONIZATION AND COLLECTIVE BARGAINING | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0174b/` | General Laws, Chapter 174B: REGULATION OF AUTOMOBILE CLUBS | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0188/` | General Laws, Chapter 188: HOMESTEADS | 16 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0229/` | General Laws, Chapter 229: ACTIONS FOR DEATH AND INJURIES RESULTING IN DEATH | 14 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0230/` | General Laws, Chapter 230: ACTIONS BY AND AGAINST EXECUTORS AND ADMINISTRATORS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0245/` | General Laws, Chapter 245: INFORMATIONS BY THE COMMONWEALTH | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
