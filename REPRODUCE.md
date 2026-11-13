@@ -414,6 +414,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -946,12 +947,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0155` | General Laws, Chapter 155: GENERAL PROVISIONS RELATIVE TO CORPORATIONS | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0023` | General Laws, Chapter 23: EXECUTIVE OFFICE OF LABOR AND WORKFORCE DEVELOPMENT | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0158` | General Laws, Chapter 158: CERTAIN MISCELLANEOUS CORPORATIONS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0067` | General Laws, Chapter 67: PARISHES AND RELIGIOUS SOCIETIES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0132` | General Laws, Chapter 132: FORESTRY | 1 | 2026-11-13 to 2026-11-13 |
 
-The build made 527 commits:
+The build made 529 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 525 | baseline texts where the record starts |
+| 527 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 2 | corrections to the existing record |
@@ -961,7 +964,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 525 tags.
+- 527 tags.
 
 ## Dates
 
@@ -973,7 +976,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `848aa42d2ee3dbbfaba196d5e4b5004b094d23cb86e3dd11d72be08db582aae1` (31150884 bytes).
+- Corpus: sha256 `ef76adbeb0cbe4ad0f9f7665caa949ebf335ea2788a6aae84720bf0936565bd5` (31247715 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1404,6 +1407,7 @@ No second build of this corpus has been compared yet.
 - Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
 - Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
 - Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
+- Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
 
 ## What AI did and did not do
 
@@ -1814,6 +1818,7 @@ Model use at data-build time:
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
+- A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.

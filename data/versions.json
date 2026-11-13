@@ -8934,6 +8934,40 @@
      "sha256": "44076966cb80d6f2efe8f04a780593358bedfe9d653faa410eb66a91edcd3d1c"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0067",
+   "short": "M.G.L. c. 67",
+   "title": "General Laws, Chapter 67: PARISHES AND RELIGIOUS SOCIETIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXI/Chapter67",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 55,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXI/Chapter67",
+     "sha256": "67acf1730d8c25ede07afec61514bb46541488cfa09c627cd70bff2301ac47c6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0132",
+   "short": "M.G.L. c. 132",
+   "title": "General Laws, Chapter 132: FORESTRY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter132",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 51,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter132",
+     "sha256": "7fbc747dac57f64d5cb53db32933acbfd4618be1c9b9dddd8d49ea37c7b81b7d"
+    }
+   ]
   }
  ]
 }
