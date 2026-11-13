@@ -8594,6 +8594,23 @@
      "sha256": "7ae5262c8c31e95a900741acce641b92edda0e6a866b14c372536ae95ab8a7f4"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0252",
+   "short": "M.G.L. c. 252",
+   "title": "General Laws, Chapter 252: IMPROVEMENT OF LOW LAND AND SWAMPS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter252",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 33,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter252",
+     "sha256": "e4874c9c2b9bbb441cc21ab87135d486dcb1c526d708c6e20c7be0fb3943ab01"
+    }
+   ]
   }
  ]
 }
