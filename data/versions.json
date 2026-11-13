@@ -7965,6 +7965,108 @@
      "sha256": "273cbc6f52936e798a8964092c6b57867cd4af671fb5a026a61901e982700c84"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0198",
+   "short": "M.G.L. c. 198",
+   "title": "General Laws, Chapter 198: INSOLVENT ESTATES OF DECEASED PERSONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter198",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter198",
+     "sha256": "1cad1f87eb589f867fc400e5097b35746e77fc06bb8811ed8e45e12b40758202"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0203a",
+   "short": "M.G.L. c. 203A",
+   "title": "General Laws, Chapter 203A: UNIFORM COMMON TRUST FUND ACT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203A",
+     "sha256": "325f423b8ad9f535209a64266f1320d6433fac3dbbfd22fe1342a393850d3ff8"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0250",
+   "short": "M.G.L. c. 250",
+   "title": "General Laws, Chapter 250: WRITS OF ERROR, VACATING JUDGMENT, WRITS OF REVIEW",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter250",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter250",
+     "sha256": "216a25d410ff87fbd46d1e774ca2b615a49e9528c490ef1a9cf3b411d1376caf"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0144",
+   "short": "M.G.L. c. 144",
+   "title": "General Laws, Chapter 144: TENEMENT HOUSES IN CITIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter144",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter144",
+     "sha256": "0088a1bcef6b78698a05f9d5812a1fb2936e7f679fbc5378c121959611990f3b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0150b",
+   "short": "M.G.L. c. 150B",
+   "title": "General Laws, Chapter 150B: PEACEFUL SETTLEMENT OF INDUSTRIAL DISPUTES DANGEROUS TO PUBLIC HEALTH AND SAFETY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150B",
+     "sha256": "b3e169a439724d201bf7cf31c2a4537871ced47af5a7ec568c8059eb58dfd5b6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0161c",
+   "short": "M.G.L. c. 161C",
+   "title": "General Laws, Chapter 161C: RAIL TRANSPORTATION IN THE COMMONWEALTH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161C",
+     "sha256": "6acd203d35ed5cdfe6ae247d78d9423231597be965805dde97d8709ff827bb77"
+    }
+   ]
   }
  ]
 }

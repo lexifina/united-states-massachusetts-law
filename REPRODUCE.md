@@ -404,6 +404,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -879,12 +880,18 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0243` | General Laws, Chapter 243: ACTIONS FOR PRIVATE NUISANCES | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0175b` | General Laws, Chapter 175B: UNAUTHORIZED INSURER'S PROCESS ACT | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0175g` | General Laws, Chapter 175G: THE POLLUTION LIABILITY REINSURANCE CORPORATION | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0198` | General Laws, Chapter 198: INSOLVENT ESTATES OF DECEASED PERSONS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0203a` | General Laws, Chapter 203A: UNIFORM COMMON TRUST FUND ACT | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0250` | General Laws, Chapter 250: WRITS OF ERROR, VACATING JUDGMENT, WRITS OF REVIEW | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0144` | General Laws, Chapter 144: TENEMENT HOUSES IN CITIES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0150b` | General Laws, Chapter 150B: PEACEFUL SETTLEMENT OF INDUSTRIAL DISPUTES DANGEROUS TO PUBLIC HEALTH AND SAFETY | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0161c` | General Laws, Chapter 161C: RAIL TRANSPORTATION IN THE COMMONWEALTH | 1 | 2026-11-13 to 2026-11-13 |
 
-The build made 470 commits:
+The build made 476 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 468 | baseline texts where the record starts |
+| 474 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 2 | corrections to the existing record |
@@ -894,7 +901,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 468 tags.
+- 474 tags.
 
 ## Dates
 
@@ -906,7 +913,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `dae66ff8ceca2c3743275f7e75369a863681094087a4e633cb4503e1e810afd6` (29643550 bytes).
+- Corpus: sha256 `9ab01859bfa4ae06963f1dd4f97e36f34611de33b9e8ea457d514f64a89936f8` (29706464 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1327,6 +1334,7 @@ No second build of this corpus has been compared yet.
 - Current-text baselines only. The source gives no date for a chapter's latest current wording unless a publisher notice is separately resolved; otherwise retrieval on 2026-11-13 is used explicitly.
 - Current-text baselines only. The source gives no date for a chapter's latest current wording unless a publisher notice is separately resolved; otherwise retrieval on 2026-11-13 is used explicitly.
 - Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
+- Current-text baselines only. Chapters containing unresolved source effective-date notices, exact calendar dates or normative images are held. Included pages give no date for the latest current wording; retrieval on 2026-11-13 is the explicitly stated baseline. Year references alone are statutory citations, repeal citations or calendar rules.
 
 ## What AI did and did not do
 
@@ -1737,4 +1745,5 @@ Model use at data-build time:
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
+- A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and independent source-verification code; no model-authored or model-corrected law words.

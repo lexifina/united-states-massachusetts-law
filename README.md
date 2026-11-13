@@ -252,6 +252,12 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0243/` | General Laws, Chapter 243: ACTIONS FOR PRIVATE NUISANCES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0175b/` | General Laws, Chapter 175B: UNAUTHORIZED INSURER'S PROCESS ACT | 7 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0175g/` | General Laws, Chapter 175G: THE POLLUTION LIABILITY REINSURANCE CORPORATION | 7 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0198/` | General Laws, Chapter 198: INSOLVENT ESTATES OF DECEASED PERSONS | 4 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0203a/` | General Laws, Chapter 203A: UNIFORM COMMON TRUST FUND ACT | 7 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0250/` | General Laws, Chapter 250: WRITS OF ERROR, VACATING JUDGMENT, WRITS OF REVIEW | 2 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0144/` | General Laws, Chapter 144: TENEMENT HOUSES IN CITIES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0150b/` | General Laws, Chapter 150B: PEACEFUL SETTLEMENT OF INDUSTRIAL DISPUTES DANGEROUS TO PUBLIC HEALTH AND SAFETY | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0161c/` | General Laws, Chapter 161C: RAIL TRANSPORTATION IN THE COMMONWEALTH | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
