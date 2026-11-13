@@ -7353,6 +7353,23 @@
      "sha256": "ff1319032873709d5b23c579a4d83bc1380ceada4647a5f8cef5ec36fb5cbfb4"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0006",
+   "short": "M.G.L. c. 6",
+   "title": "General Laws, Chapter 6: THE GOVERNOR, LIEUTENANT GOVERNOR AND COUNCIL, CERTAIN OFFICERS UNDER THE GOVERNOR AND COUNCIL, AND STATE LIBRARY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 470,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6",
+     "sha256": "47856527063d95364e020db951c6613f28deb6d3db7675c4ecdd83bf71f7d1f0"
+    }
+   ]
   }
  ]
 }
