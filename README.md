@@ -315,6 +315,8 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0098/` | General Laws, Chapter 98: WEIGHTS AND MEASURES | 69 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0215/` | General Laws, Chapter 215: PROBATE COURTS | 78 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0262/` | General Laws, Chapter 262: FEES OF CERTAIN OFFICERS | 78 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0277/` | General Laws, Chapter 277: INDICTMENTS AND PROCEEDINGS BEFORE TRIAL | 87 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0074/` | General Laws, Chapter 74: VOCATIONAL EDUCATION | 93 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 

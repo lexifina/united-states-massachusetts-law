@@ -11150,6 +11150,48 @@
    "images_source": 0,
    "images_complete": true,
    "complete": false
+  },
+  {
+   "slug": "gl-chapter-0277",
+   "path": "gl-chapter-0277",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 277: INDICTMENTS AND PROCEEDINGS BEFORE TRIAL",
+   "short": "M.G.L. c. 277",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter277",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
+  },
+  {
+   "slug": "gl-chapter-0074",
+   "path": "gl-chapter-0074",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 74: VOCATIONAL EDUCATION",
+   "short": "M.G.L. c. 74",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter74",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
   }
  ]
 }
