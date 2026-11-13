@@ -1,0 +1,2 @@
+# Section 12BB: Tadeusz Kosciuszko Day
+Section 12BB. The governor shall annually issue a proclamation setting apart the first Sunday in February as Tadeusz Kosciuszko Day and recommending that said day be observed in an appropriate manner by the public in recognition of the one hundred and seventy thousand Polish-Americans living in the commonwealth, and their contribution to the growth and development of the state and nation.

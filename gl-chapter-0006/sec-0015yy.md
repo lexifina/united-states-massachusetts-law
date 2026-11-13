@@ -1,0 +1,2 @@
+# Section 15YY: Leif Ericson Day
+Section 15YY. The governor shall annually issue a proclamation setting apart October ninth as Leif Ericson Day and recommending a period of special attention to the Norse explorer who ventured across uncharted waters in the year one thousand and three to the continent of North America, and whose courageous exploration recorded in the Icelandic sagas, led others to the shores of our country, and recommending that said day be observed in an appropriate manner by the people.

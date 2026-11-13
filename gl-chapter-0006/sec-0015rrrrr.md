@@ -1,0 +1,2 @@
+# Section 15RRRRR: Male Breast Cancer Awareness Week
+Section 15RRRRR. The governor shall annually issue a proclamation setting apart the third week in October of each year as Male Breast Cancer Awareness Week to raise awareness of the occurrence of breast cancer in men and to encourage regular testing for breast cancer amongst all citizens of the commonwealth and recommending that the week be observed in an appropriate manner by the people.

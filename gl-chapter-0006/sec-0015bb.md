@@ -1,0 +1,2 @@
+# Section 15BB: Massachusetts National Guard Week
+Section 15BB. The governor shall annually issue a proclamation setting apart that week preceding Armed Forces day as Massachusetts National Guard week and recommending that said week be observed in an appropriate manner by the people. The state secretary shall send a copy of said proclamation to each Army and National Guard unit within the commonwealth.

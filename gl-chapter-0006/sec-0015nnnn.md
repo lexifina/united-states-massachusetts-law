@@ -1,0 +1,2 @@
+# Section 15NNNN: Motorcycle Safety and Awareness Time
+Section 15NNNN. The governor shall annually issue a proclamation setting apart the period beginning the last week of March to the last week of April, inclusive, as Motorcycle Safety and Awareness Time, to promote motorcycle safety, education and awareness, and recommending that this time be observed in an appropriate manner by various agencies, associations, groups, clubs and businesses.

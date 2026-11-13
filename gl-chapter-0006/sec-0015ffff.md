@@ -1,0 +1,2 @@
+# Section 15FFFF: Irish&ndash;American Heritage Month
+Section 15FFFF. The governor shall annually issue a proclamation setting apart the month of March as Irish–American Heritage Month, in recognition of the significant contributions Irish–Americans have made to the commonwealth and to the United States. The governor may include such contributions as he shall see fit in such proclamation, after consultation with Irish–American groups, and shall recommend that said month be observed in an appropriate manner by the people.

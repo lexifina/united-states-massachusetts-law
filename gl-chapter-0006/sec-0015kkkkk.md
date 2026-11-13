@@ -1,0 +1,2 @@
+# Section 15KKKKK: Massachusetts Nonprofit Awareness Day
+Section 15KKKKK. The governor shall annually issue a proclamation setting apart the second Monday in June as Massachusetts Nonprofit Awareness Day, in recognition of the outstanding contributions of the Massachusetts nonprofit sector to the general welfare of the citizens of the commonwealth and recommending that the day be observed in an appropriate manner by the people.

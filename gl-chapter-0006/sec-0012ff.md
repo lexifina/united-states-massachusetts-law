@@ -1,0 +1,2 @@
+# Section 12FF: Anniversary of enlistment of Deborah Samson
+Section 12FF. The governor shall annually issue a proclamation setting apart May twenty-third as the anniversary of the enlistment of Deborah Samson, official heroine of the commonwealth, under the name of Robert Shurtliff, in the Continental Army, in recognition of her courage, determination, outstanding service and unique contribution as a woman to American independence and recommending that said day be observed in an appropriate manner by the people.

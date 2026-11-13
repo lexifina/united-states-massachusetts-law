@@ -1,0 +1,2 @@
+# Section 12AA: Iwo Jima Day
+Section 12AA. The governor shall annually issue a proclamation calling for the observance of February nineteenth as Iwo Jima Day, commemorating the extreme heroism and courage of the men and women of the armed forces of the United States who participated in the successful assault of the island of Iwo Jima where ''extraordinary valor was common virtue'', and recommending that said day be observed in appropriate manner by the public.

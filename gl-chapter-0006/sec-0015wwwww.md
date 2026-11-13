@@ -1,0 +1,2 @@
+# Section 15WWWWW: Ataxia Awareness Day
+Section 15WWWWW. The governor shall annually issue a proclamation setting apart September 25 as Ataxia Awareness Day, in recognition of the thousands of individuals affected by hereditary and sporadic ataxia in the United States and the need for increased public awareness, research, prevention and support for victims and their families and recommending that the day be observed in an appropriate manner by the people.

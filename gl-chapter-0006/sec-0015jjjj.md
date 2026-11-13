@@ -1,0 +1,2 @@
+# Section 15JJJJ: Congenital Heart Defect Awareness Day
+Section 15JJJJ. The governor shall annually issue a proclamation setting apart February 14 as Congenital Heart Defect Awareness Day in recognition of the thousands of residents across the commonwealth affected by congenital heart defects, and the need for increased public awareness, research and support for victims and their families, and recommending that the day be observed in an appropriate manner by the people.

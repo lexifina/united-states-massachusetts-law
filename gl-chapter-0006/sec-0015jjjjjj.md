@@ -1,0 +1,2 @@
+# Section 15JJJJJJ: Frederick Douglass Day
+Section 15JJJJJJ. The governor shall annually issue a proclamation setting apart February 14 as Frederick Douglass Day, in recognition of the outstanding contributions of Frederick Douglass to the abolitionist movement and his lifelong fight for equality in the cities of New Bedford and Lynn, the commonwealth and throughout the United States and recommend that the day be observed in an appropriate manner by the people.

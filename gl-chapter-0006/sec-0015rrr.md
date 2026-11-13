@@ -1,0 +1,2 @@
+# Section 15RRR: Emergency Responders Memorial Day
+Section 15RRR. The governor shall annually issue a proclamation setting apart the second Sunday in May of each year as Massachusetts Emergency Responders Memorial Day to honor all paramedics, emergency medical and public safety personnel, national guard personnel on state active duty, disaster assistance volunteers, and emergency management personnel killed in the line of duty and recommending that said day be observed in an appropriate manner by the people.

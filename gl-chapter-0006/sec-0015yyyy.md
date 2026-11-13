@@ -1,0 +1,2 @@
+# Section 15YYYY: World War II Commemoration Day
+Section 15YYYY. The governor shall annually issue a proclamation setting apart September 2 as World War II Commemoration Day, in honor of those who served in that war and recommending that the day be observed in an appropriate manner by the people and recommending that church bells be rung at 9:04 a.m. on that day in recognition of the final surrender of Japan and the formal conclusion of the conflict.

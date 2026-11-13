@@ -1,0 +1,2 @@
+# Section 15NNNNN: No Name Calling Day
+Section 15NNNNN. The governor shall annually issue a proclamation setting apart the fourth Wednesday in January as No Name Calling Day to increase public awareness of the devastating effects of verbal bullying, to encourage students to use positive dialogue and pledge not to use hurtful names on this designated day, to promote tolerance and respect for differences and to reaffirm the commitment of the citizens of the commonwealth to basic human rights and dignity.

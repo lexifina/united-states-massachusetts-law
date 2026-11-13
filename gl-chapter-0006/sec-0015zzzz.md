@@ -1,0 +1,2 @@
+# Section 15ZZZZ: Stalking Awareness Month
+Section 15ZZZZ. The governor shall annually issue a proclamation setting apart the month of January as Stalking Awareness Month, to increase the public's awareness of the deadly and serious crime of stalking, which affects both women and men in the commonwealth. The proclamation shall recommend that this month be observed in an appropriate manner by the people.

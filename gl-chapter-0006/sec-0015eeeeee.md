@@ -1,0 +1,2 @@
+# Section 15EEEEEE: Cystic Fibrosis Awareness Month
+Section 15EEEEEE. The governor shall annually issue a proclamation setting apart the month of May as Cystic Fibrosis Awareness Month to increase public awareness and understanding of cystic fibrosis as a progressive, genetic disease that causes persistent lung infections and limits a person's ability to breathe over time. The proclamation shall recommend that the month of May be observed in an appropriate manner by the people.

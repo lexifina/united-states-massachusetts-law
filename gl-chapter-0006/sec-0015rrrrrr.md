@@ -1,0 +1,2 @@
+# Section 15RRRRRR: Observance of the founding of the United States Coast Guard
+Section 15RRRRRR. The governor shall annually set apart August 4, the anniversary of the founding of the United States Coast Guard, in recognition of its distinguished history and seagoing service, and shall issue a proclamation recommending that the day be observed by the people in the display of the flag and in appropriate public exercises, commemorative of the services and sacrifices of the citizens of the commonwealth who have served and continue to serve in the defense of the United States.

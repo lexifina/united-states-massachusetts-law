@@ -1,0 +1,2 @@
+# Section 15YYYYYY: United States Navy Seabees Day
+Section 15YYYYYY. The governor shall annually issue a proclamation setting apart March 5 as United States Navy Seabees Day in recognition of the birthday of the United States Naval Construction Battalion, better known as the Navy Seabees, on March 5, 1942, which was an innovation of military minds during World War II having a dual mission to build and to fight in support of combat operations, humanitarian outreach and nation-building, and recommending that the day be observed in an appropriate manner by the people.

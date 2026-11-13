@@ -1,0 +1,2 @@
+# Section 15PPPPP: World Voice Week
+Section 15PPPPP. The governor shall annually issue a proclamation setting apart a week beginning on April 16 as World Voice Week, in recognition of the many citizens of the commonwealth suffering from voice disorders, the need for increased awareness amongst medical professionals and the general public to support those affected and their families and recommending that the week be observed in an appropriate manner by the people.

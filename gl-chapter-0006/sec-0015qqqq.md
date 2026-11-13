@@ -1,0 +1,2 @@
+# Section 15QQQQ: Tartan Day
+Section 15QQQQ. The governor shall annually issue a proclamation setting apart April 6 as Tartan Day, in recognition of the significant contributions of Scottish–Americans have made to the commonwealth and the United States. The governor may include such contributions as he shall see fit in such proclamation, after consultation with Scottish–American groups, and shall recommend that this day be observed in an appropriate manner by the people.

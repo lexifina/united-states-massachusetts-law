@@ -1,0 +1,2 @@
+# Section 12GG: Lithuanian Independence Day
+Section 12GG. The governor shall annually issue a proclamation setting apart February sixteenth as Lithuanian Independence Day, in commemoration of the promulgation of the Declaration of Independence in the year nineteen hundred and eighteen which established Lithuania as a sovereign nation and recommending that said day be observed in an appropriate manner by the people.

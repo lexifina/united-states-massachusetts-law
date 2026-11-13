@@ -1,0 +1,2 @@
+# Section 15VVVVV: PANDAS/PANS Awareness Day
+Section 15VVVVV. The governor shall annually issue a proclamation setting apart October 9 as PANDAS/PANS Awareness Day, to raise awareness of the occurrence of pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections and pediatric acute-onset neuropsychiatric syndrome and recommending that the day be observed in an appropriate manner by the people.

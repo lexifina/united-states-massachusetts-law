@@ -1,0 +1,2 @@
+# Section 15WWWW: Armenian&ndash;American Heritage Month
+Section 15WWWW. The governor shall issue a proclamation setting apart the month of April as Armenian–American Heritage Month, in recognition of the significant contributions Armenian–Americans have made to the commonwealth and to the United States. The governor may include such contributions as he sees fit, after consultation with Armenian–American groups, in such proclamation and shall recommend that said month be observed in an appropriate manner by the people.

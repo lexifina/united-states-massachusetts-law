@@ -1,0 +1,2 @@
+# Section 15CCCCCC: Ice Bucket Challenge Week
+Section 15CCCCCC. The governor shall annually issue a proclamation setting apart the first week in August as Ice Bucket Challenge Week to honor the contributions of Pete Frates and all persons that participate in raising funds and awareness to battle the disease Amyotrophic Lateral Sclerosis, also known as Lou Gehrig's Disease, and recommending that the week be observed in an appropriate manner by the people.

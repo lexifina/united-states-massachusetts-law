@@ -1,0 +1,2 @@
+# Section 12SS: Rose Fitzgerald Kennedy Day
+Section 12SS. The governor shall annually issue a proclamation setting July twenty-second as Rose Fitzgerald Kennedy Day and recommending that said day be observed by the people in an appropriate manner to honor the matriarch of the Kennedy family, who inspired generations of Kennedys to serve their country with honor, integrity, and dedication to justice for all.

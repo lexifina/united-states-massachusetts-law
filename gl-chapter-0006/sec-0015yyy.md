@@ -1,0 +1,2 @@
+# Section 15YYY: Clara Barton Week
+Section 15YYY. The governor shall annually issue a proclamation setting apart the week commencing on December 25 as Clara Barton Week, in recognition of her countless humanitarian efforts in the cause of peace and in aiding the victims of wartime and natural disasters, and in further recognition of her founding of the American Red Cross, and recommending that said week be observed in an appropriate manner by the people.

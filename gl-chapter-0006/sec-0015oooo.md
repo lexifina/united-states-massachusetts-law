@@ -1,0 +1,2 @@
+# Section 15OOOO: Civilian Conservation Corps Day
+Section 15OOOO. The governor shall annually issue a proclamation setting apart March 31 as Civilian Conservation Corps Day, in recognition of the contribution of its 100,000 members who helped to build roads, construct bridges and towers and preserve our nation's land during the period from 1933 to 1942, and recommending that said day be observed in an appropriate manner by the people.

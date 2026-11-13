@@ -1,0 +1,2 @@
+# Section 15EEEEEEE: Machado-Joseph Disease Awareness Day
+[ Text of section added by 2025, 32, effective December 17, 2025.] Section 15EEEEEEE. The governor shall annually issue a proclamation setting apart July 2 as Machado-Joseph Disease Awareness Day in recognition of the thousands of individuals impacted by Machado-Joesph Disease in the commonwealth and the need for increased public recognition, support and awareness of this neurodegenerative, hereditary disorder that disproportionately affects families of Portuguese-Azorean descent.

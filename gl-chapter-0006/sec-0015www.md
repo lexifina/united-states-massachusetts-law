@@ -1,0 +1,2 @@
+# Section 15WWW: Polish&ndash;American Heritage Month
+Section 15WWW. The governor shall annually issue a proclamation setting apart the month of October as Polish–American Heritage Month, in recognition of the significant contributions Polish–Americans have made to the commonwealth and to the United States. The governor may include such contributions as he shall see fit, after consultation with Polish–American groups, in such proclamation and shall recommend that said month be observed in an appropriate manner by the people.

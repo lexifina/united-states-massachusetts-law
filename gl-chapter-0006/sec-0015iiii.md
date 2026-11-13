@@ -1,0 +1,2 @@
+# Section 15IIII: Public Health Month
+Section 15IIII. The governor shall annually issue a proclamation setting apart the month of April as Public Health Month, in recognition for the achieved and future successes in identifying and addressing patterns of disease, illness and injury and for the health benefits achieved by the approach to public health by ensuring healthy living and working environments, and recommending that said month be observed in an appropriate manner by the people.

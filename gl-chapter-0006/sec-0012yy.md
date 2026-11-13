@@ -1,0 +1,2 @@
+# Section 12YY: International Education Week
+Section 12YY. The governor shall annually issue a proclamation setting apart the third week of November, or such other week if in conjunction with a federally recognized international education week, to be International Education Week for the purpose of encouraging schools to participate in programs of international education, and recommend that said week be observed in an appropriate manner by the people.

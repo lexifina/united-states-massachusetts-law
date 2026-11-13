@@ -1,0 +1,2 @@
+# Section 15LLLLL: Disability History Month
+Section 15LLLLL. The governor shall annually issue a proclamation setting apart the month of October as Disability History Month to increase awareness and understanding of the contributions made by persons with disabilities. Appropriate state agencies and cities and towns and public schools, colleges and universities shall establish programs designed to educate and promote these objectives.

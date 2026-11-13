@@ -1,0 +1,2 @@
+# Section 15JJJJJ: Lung Cancer Awareness Month
+Section 15JJJJJ. The governor shall annually issue a proclamation setting apart the month of November as Lung Cancer Awareness Month to increase public awareness of lung cancer as the leading cause of cancer death in the United States, leading to better education about the disease and thus earlier diagnoses, resulting in a higher chance of long-term survival and recommending that it be observed in an appropriate manner by the people.

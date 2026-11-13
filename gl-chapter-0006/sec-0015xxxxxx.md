@@ -1,0 +1,2 @@
+# Section 15XXXXXX: School Custodian Day
+Section 15XXXXXX. The governor shall annually issue a proclamation setting apart October 2 as School Custodian Day in recognition of the dedicated contributions provided by school custodians to ensure children of the commonwealth have clean, healthy and safe learning environments and recommend that the day be observed in an appropriate manner by the people.

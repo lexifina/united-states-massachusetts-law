@@ -1,0 +1,2 @@
+# Section 15GGGG: Portuguese&ndash;American Heritage Month
+Section 15GGGG. The governor shall annually issue a proclamation setting apart the month of June as Portuguese–American Month, in recognition of the significant contributions Portuguese–Americans have made to the commonwealth and to the United States. The governor may include such contributions as he shall see fit in such proclamation, after consultation with Portuguese–American groups, and shall recommend that said month be observed in an appropriate manner by the people.

@@ -1,0 +1,2 @@
+# Section 15EEEE: Italian&ndash;American Heritage Month
+Section 15EEEE. The governor shall annually issue a proclamation setting apart the month of October as Italian–American Heritage Month, in recognition of the significant contributions Italian–Americans have made to the commonwealth and to the United States and recommending that said month be observed in an appropriate manner by the people. After consultation with Italian–American groups, the governor may include in the proclamation such contributions as he shall see fit.

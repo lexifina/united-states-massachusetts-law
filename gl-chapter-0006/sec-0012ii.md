@@ -1,0 +1,2 @@
+# Section 12II: Slovak Independence Day
+Section 12II. The governor shall annually issue a proclamation setting apart March fourteenth as Slovak Independence Day, in commemoration of the promulgation of the March fourteenth, nineteen hundred and thirty-nine Declaration of Slovak National Independence which established the Slovak Republic as a sovereign nation-state and recommending that said day be observed in an appropriate manner by the people.

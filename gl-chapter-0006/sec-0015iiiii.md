@@ -1,0 +1,2 @@
+# Section 15IIIII: Jack Kerouac Day
+Section 15IIIII. The governor shall annually issue a proclamation setting apart March 12 as Jack Kerouac Day, in recognition of Jack Kerouac's contributions to American literature and the genre of spontaneous prose, for his contributions to his Franco–American heritage and for his love of his hometown of Lowell, and recommending that the day be observed in an appropriate manner by the people.

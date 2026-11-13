@@ -1,0 +1,2 @@
+# Section 12WW: Garden Week
+Section 12WW. The governor shall annually issue a proclamation setting apart the week beginning with the first Sunday in June as Garden Week, in recognition of the benefits of gardening in preserving our traditional spirit of independence and individual initiative which instills in people a greater respect for the environment and our natural resources, and recommending that said week be observed in an appropriate manner by the people.

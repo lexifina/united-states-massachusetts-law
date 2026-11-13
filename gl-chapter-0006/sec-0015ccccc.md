@@ -1,0 +1,2 @@
+# Section 15CCCCC: Brain Aneurysm Awareness Month
+Section 15CCCCC. The governor shall annually issue a proclamation setting apart the month of September as Brain Aneurysm Awareness Month to increase citizens' awareness of a leading cause of death in the United States, in order to lead to better education and thus earlier diagnoses, resulting in a higher chance of long-term survival. The proclamation shall recommend that the month of September be observed in an appropriate manner by the people.

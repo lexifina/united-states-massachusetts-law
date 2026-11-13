@@ -1,0 +1,2 @@
+# Section 15MMMMM: Polish American Congress Day
+Section 15MMMMM. The governor shall annually issue a proclamation setting apart October thirtieth as Polish American Congress Day, in recognition of the capacity of the Polish American Congress established in 1944 to represent the domestic and international concerns of Americans of Polish descent at both the state and federal levels of government in the United States, and recommending that said day be observed in an appropriate manner by the people.

@@ -1,0 +1,2 @@
+# Section 15PPP: Samuel Slater Day
+Section 15PPP. The governor shall annually issue a proclamation setting apart December twentieth as Samuel Slater Day, in recognition of the beginning of America's Industrial Revolution along the banks of the Blackstone River where Samuel Slater established his first mill and later relocated and established the town of Webster, and in further recognition of the contribution of countless working men and women to America's national greatness, and recommending that said day be observed in an appropriate manner by the people.
