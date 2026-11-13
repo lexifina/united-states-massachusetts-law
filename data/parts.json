@@ -2473,6 +2473,25 @@
     "gl-chapter-0083"
    ],
    "sha256": "c72bd5a4bfa27be8e5ed3021b96b3a62d4480dbecd8b35bb87f7a6a7b616170d"
+  },
+  "zzq2003-resubmission-001.json": {
+   "acts": [
+    "gl-chapter-0133",
+    "gl-chapter-0140b",
+    "gl-chapter-0144",
+    "gl-chapter-0150b",
+    "gl-chapter-0151e",
+    "gl-chapter-0153",
+    "gl-chapter-0161c",
+    "gl-chapter-0167g",
+    "gl-chapter-0175b",
+    "gl-chapter-0176r",
+    "gl-chapter-0176s",
+    "gl-chapter-0176u",
+    "gl-chapter-0176v",
+    "gl-chapter-0176w"
+   ],
+   "sha256": "e6120c9976e7300ed5e01142f3a69c372c59532468d0afcdebf6d4fdc5f787ae"
   }
  },
  "schema": 1

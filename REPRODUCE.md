@@ -403,6 +403,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site terms restrict photographs and copyrighted site design, not statutory words. |
+| General Court of the Commonwealth of Massachusetts, General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -863,12 +864,26 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0073` | General Laws, Chapter 73: STATE COLLEGES AND COMMUNITY COLLEGES | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0015c` | General Laws, Chapter 15C: MASSACHUSETTS COLLEGE STUDENT LOAN AUTHORITY | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0083` | General Laws, Chapter 83: SEWERS, DRAINS AND SIDEWALKS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0133` | General Laws, Chapter 133: DISPOSITION OF OLD AND INFIRM ANIMALS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0140b` | General Laws, Chapter 140B: CONTROL OF CERTAIN JUNKYARDS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0144` | General Laws, Chapter 144: TENEMENT HOUSES IN CITIES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0150b` | General Laws, Chapter 150B: PEACEFUL SETTLEMENT OF INDUSTRIAL DISPUTES DANGEROUS TO PUBLIC HEALTH AND SAFETY | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0151e` | General Laws, Chapter 151E: PROHIBITION OF CERTAIN DISCRIMINATION BY BUSINESSES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0153` | General Laws, Chapter 153: LIABILITY OF EMPLOYERS TO EMPLOYEES FOR INJURIES NOT RESULTING IN DEATH | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0161c` | General Laws, Chapter 161C: RAIL TRANSPORTATION IN THE COMMONWEALTH | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0167g` | General Laws, Chapter 167G: TRUST DEPARTMENT | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0175b` | General Laws, Chapter 175B: UNAUTHORIZED INSURER'S PROCESS ACT | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0176r` | General Laws, Chapter 176R: CONSUMER CHOICE OF NURSE PRACTITIONER SERVICES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0176s` | General Laws, Chapter 176S: CONSUMER CHOICE OF PHYSICIAN ASSISTANT SERVICES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0176u` | General Laws, Chapter 176U: LONG&ndash;TERM CARE INSURANCE | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0176v` | General Laws, Chapter 176V: OWN RISK AND SOLVENCY ASSESSMENT | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0176w` | General Laws, Chapter 176W: CORPORATE GOVERNANCE ANNUAL DISCLOSURE | 1 | 2026-11-13 to 2026-11-13 |
 
-The build made 455 commits:
+The build made 469 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 453 | baseline texts where the record starts |
+| 467 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 2 | corrections to the existing record |
@@ -878,7 +893,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 453 tags.
+- 467 tags.
 
 ## Dates
 
@@ -890,7 +905,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1aa49c259a56c773c899040a5f51b54604bc27a14b3999b25dcded837a8817e2` (29519696 bytes).
+- Corpus: sha256 `fe56e6065ac6a967dbea827abb7a86e8ad738b3c7039928e1fb427f062a7c0c7` (29722431 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1310,6 +1325,7 @@ No second build of this corpus has been compared yet.
 - Current-text baselines only. The source gives no date for a chapter's latest current wording unless a publisher notice is separately resolved; otherwise retrieval on 2026-11-13 is used explicitly.
 - Current-text baselines only. The source gives no date for a chapter's latest current wording unless a publisher notice is separately resolved; otherwise retrieval on 2026-11-13 is used explicitly.
 - Current-text baselines only. The source gives no date for a chapter's latest current wording unless a publisher notice is separately resolved; otherwise retrieval on 2026-11-13 is used explicitly.
+- Current-text baselines. Acts with unresolved dates, normative images or independent section-body comparison failures are held. Included official pages state no current-text date; the explicitly stated retrieval fallback is used.
 
 ## What AI did and did not do
 
@@ -1714,6 +1730,7 @@ Model use at data-build time:
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.

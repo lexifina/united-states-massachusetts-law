@@ -237,6 +237,20 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0043e/` | General Laws, Chapter 43E: Expedited state permitting | 8 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
 | `gl-chapter-0068a/` | General Laws, Chapter 68A: Limitations upon the conduct of certain trusts and corporations having charitable interests | 8 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
 | `gl-chapter-0099/` | General Laws, Chapter 99: The metric system of weights and measures | 5 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
+| `gl-chapter-0133/` | General Laws, Chapter 133: DISPOSITION OF OLD AND INFIRM ANIMALS | 4 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0140b/` | General Laws, Chapter 140B: CONTROL OF CERTAIN JUNKYARDS | 10 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0144/` | General Laws, Chapter 144: TENEMENT HOUSES IN CITIES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0150b/` | General Laws, Chapter 150B: PEACEFUL SETTLEMENT OF INDUSTRIAL DISPUTES DANGEROUS TO PUBLIC HEALTH AND SAFETY | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0151e/` | General Laws, Chapter 151E: PROHIBITION OF CERTAIN DISCRIMINATION BY BUSINESSES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0153/` | General Laws, Chapter 153: LIABILITY OF EMPLOYERS TO EMPLOYEES FOR INJURIES NOT RESULTING IN DEATH | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0161c/` | General Laws, Chapter 161C: RAIL TRANSPORTATION IN THE COMMONWEALTH | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0167g/` | General Laws, Chapter 167G: TRUST DEPARTMENT | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0175b/` | General Laws, Chapter 175B: UNAUTHORIZED INSURER'S PROCESS ACT | 7 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176r/` | General Laws, Chapter 176R: CONSUMER CHOICE OF NURSE PRACTITIONER SERVICES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176s/` | General Laws, Chapter 176S: CONSUMER CHOICE OF PHYSICIAN ASSISTANT SERVICES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176u/` | General Laws, Chapter 176U: LONG&ndash;TERM CARE INSURANCE | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176v/` | General Laws, Chapter 176V: OWN RISK AND SOLVENCY ASSESSMENT | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176w/` | General Laws, Chapter 176W: CORPORATE GOVERNANCE ANNUAL DISCLOSURE | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
@@ -251,7 +265,6 @@ The General Laws are published one page per section (malegislature.gov/Laws/Gene
 - The page states no date of its own, so the capture date, **15 October 2026**, dates the single version. It is the oldest version available: the repository holds the Constitution as published online then, with every amendment the General Court had printed by that day (121 articles of amendment), and nothing earlier. The first commit is credited to the publisher as "oldest version available".
 - The dates on which the amendments took effect are in the text (the closing notes say when each was ratified), but they are not yet built into dated versions.
 - Each General Laws chapter is one version, dated by the newest capture day of its section pages, and credited to the publisher as "oldest version available". (The chapters published up to 2026-10-30 were dated a day or so later where needed so the history only grew; chapters added from 2026-11-10 on carry their newest capture day unchanged.) The section pages state no date, so this is a capture date, not a commencement date. Sections were captured on different days, which the commit's note gives; a section amended after its capture would show its older text here.
-
 
 The chapters added on 13 November 2026 use official current-text pages. Their year references concern cited statutes, applicability rules, repeals, appointments or reporting deadlines, rather than a current-text amendment date; their retrieval date is stated explicitly as the baseline. Chapters with unresolved effective-date notices or normative images are not included in those additions.
 

@@ -7710,6 +7710,244 @@
      "sha256": "21ec236c4791f220a0946ce0cd3c28da9fefc871e9d75a4038bcf5d72a0a2905"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0133",
+   "short": "M.G.L. c. 133",
+   "title": "General Laws, Chapter 133: DISPOSITION OF OLD AND INFIRM ANIMALS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter133",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter133",
+     "sha256": "921949ae4cc21a5d3bb897e72ec970f99144ebf631ea2c610c2a4aca63b0eadb"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0140b",
+   "short": "M.G.L. c. 140B",
+   "title": "General Laws, Chapter 140B: CONTROL OF CERTAIN JUNKYARDS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140B",
+     "sha256": "5c5903c41065954ff034186414b0cfc462d01c032aa3b9fd304a466425d2cde7"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0144",
+   "short": "M.G.L. c. 144",
+   "title": "General Laws, Chapter 144: TENEMENT HOUSES IN CITIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter144",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter144",
+     "sha256": "70a5ad583ab57a9e4d12e8a3a96072df4c63ebafa330fa8fc9705b1fabbe1936"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0150b",
+   "short": "M.G.L. c. 150B",
+   "title": "General Laws, Chapter 150B: PEACEFUL SETTLEMENT OF INDUSTRIAL DISPUTES DANGEROUS TO PUBLIC HEALTH AND SAFETY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150B",
+     "sha256": "2ad7c42223c37711273b84d108b1e5892806e869a1fd67cc7a5cdb03c6566866"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0151e",
+   "short": "M.G.L. c. 151E",
+   "title": "General Laws, Chapter 151E: PROHIBITION OF CERTAIN DISCRIMINATION BY BUSINESSES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151E",
+     "sha256": "afd0bc303b4bf28ef17b2a398508c26815a0fe3e125d1f40a56ea4dc303f137f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0153",
+   "short": "M.G.L. c. 153",
+   "title": "General Laws, Chapter 153: LIABILITY OF EMPLOYERS TO EMPLOYEES FOR INJURIES NOT RESULTING IN DEATH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter153",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter153",
+     "sha256": "1ee1020627434535b82d7ab7f74297fff6bc4cf89ef879b25c86ccf352806481"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0161c",
+   "short": "M.G.L. c. 161C",
+   "title": "General Laws, Chapter 161C: RAIL TRANSPORTATION IN THE COMMONWEALTH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161C",
+     "sha256": "683e73ec0217d29f86ed0081d8f588a4dcda4c686a81bc9d42026c57e313a459"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0167g",
+   "short": "M.G.L. c. 167G",
+   "title": "General Laws, Chapter 167G: TRUST DEPARTMENT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167G",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167G",
+     "sha256": "81963c1f192ffb62aa4bc5a30e62a9b5062d4ba2a61e8eb02b5ca5d63998d4d3"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0175b",
+   "short": "M.G.L. c. 175B",
+   "title": "General Laws, Chapter 175B: UNAUTHORIZED INSURER'S PROCESS ACT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175B",
+     "sha256": "64d45db4acbd27da688da5e5c254a3056f3a7598e687443fef68cb0c58eb7206"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176r",
+   "short": "M.G.L. c. 176R",
+   "title": "General Laws, Chapter 176R: CONSUMER CHOICE OF NURSE PRACTITIONER SERVICES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176R",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176R",
+     "sha256": "b601334407a607f00c80b662deeb32c520e5157d7d9d16db9f912c405a7c069f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176s",
+   "short": "M.G.L. c. 176S",
+   "title": "General Laws, Chapter 176S: CONSUMER CHOICE OF PHYSICIAN ASSISTANT SERVICES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176S",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176S",
+     "sha256": "e60b2cd72b93786ca559843fabd4a13346bdbe61244edfc75cca05ca4f683617"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176u",
+   "short": "M.G.L. c. 176U",
+   "title": "General Laws, Chapter 176U: LONG&ndash;TERM CARE INSURANCE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176U",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176U",
+     "sha256": "d0b491f8190f9039e060552b7d1db8492fea4f642ed5892fc038412f6f5f7379"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176v",
+   "short": "M.G.L. c. 176V",
+   "title": "General Laws, Chapter 176V: OWN RISK AND SOLVENCY ASSESSMENT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176V",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176V",
+     "sha256": "9367b592b0a1356bf28ca1d2ae29f571485beb7c3789dc4cec73940e6418e71d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176w",
+   "short": "M.G.L. c. 176W",
+   "title": "General Laws, Chapter 176W: CORPORATE GOVERNANCE ANNUAL DISCLOSURE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176W",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176W",
+     "sha256": "2979379436b1ee30e4034e4dfa5e6bdf1347d4bae463136f41afaf6f0c467efc"
+    }
+   ]
   }
  ]
 }
