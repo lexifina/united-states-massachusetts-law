@@ -7506,6 +7506,91 @@
      "sha256": "d34478b28f02f994d95ce1f67ffbc0ac7b7a6d790c572a6c1d6f68e6fcfac3ee"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0040m",
+   "short": "M.G.L. c. 40M",
+   "title": "General Laws, Chapter 40M: GOVERNMENTAL UNITS POOLED INSURANCE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40M",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40M",
+     "sha256": "883d434331b1a8c8b098c240ad4d3b1b10ee0ced781e2086b7dc0dfe7e07600a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0043d",
+   "short": "M.G.L. c. 43D",
+   "title": "General Laws, Chapter 43D: EXPEDITED PERMITTING",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter43D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter43D",
+     "sha256": "a03b590beec62324df18125dc098e1422a286be8c67f67893ca630beff32f11d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0088",
+   "short": "M.G.L. c. 88",
+   "title": "General Laws, Chapter 88: FERRIES, CANALS AND PUBLIC LANDINGS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter88",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter88",
+     "sha256": "9d9f9f4a72183e45e336d2b5ed495e9eb462104107484d00f029bc110b198595"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0016",
+   "short": "M.G.L. c. 16",
+   "title": "General Laws, Chapter 16: DEPARTMENT OF HIGHWAYS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter16",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter16",
+     "sha256": "d6004fca2cfa9cc7f73f66f5255519809807d5ce7139d0adaac1d339b5f8f65e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0034a",
+   "short": "M.G.L. c. 34A",
+   "title": "General Laws, Chapter 34A: COUNTY CHARTER PROCEDURES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter34A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter34A",
+     "sha256": "cadc3cd1e96af2d6adbe8883f918b50822243e5ad1c402105bc99f86d76f9d2e"
+    }
+   ]
   }
  ]
 }
