@@ -1,0 +1,73 @@
+{
+ "country": "MA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Mass. Const.",
+   "title": "Constitution of the Commonwealth of Massachusetts",
+   "url": "https://malegislature.gov/Laws/Constitution",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 229,
+     "source_url": "https://malegislature.gov/Laws/Constitution",
+     "sha256": "0da92e89babf377bedab6d03a98fbfed23756164d28cc417c836750a3db147be"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0018c",
+   "short": "M.G.L. c. 18C",
+   "title": "General Laws, Chapter 18C: Office of the child advocate",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18C",
+     "sha256": "3757d257c7956c83f76fb3dd2f2f01983fea31a6e52b59d0ae83d2df5396b0d6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021b",
+   "short": "M.G.L. c. 21B",
+   "title": "General Laws, Chapter 21B: Mining regulation and reclamation",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21B",
+     "sha256": "1d6804374021820f970cc39f475f52955754763698cd894d48687afa98d689e9"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0093g",
+   "short": "M.G.L. c. 93G",
+   "title": "General Laws, Chapter 93G: Equipment dealers",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93G",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93G",
+     "sha256": "bce8bf5c3a833e4402e48725d980c0168fc114cbb6d69b87ba103b6c00301087"
+    }
+   ]
+  }
+ ]
+}

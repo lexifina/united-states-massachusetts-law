@@ -1,0 +1,13 @@
+{
+ "parts": {
+  "zzq1903-live-a.json": {
+   "acts": [
+    "gl-chapter-0018c",
+    "gl-chapter-0021b",
+    "gl-chapter-0093g"
+   ],
+   "sha256": "3e11e4b04e2c94500a36c9903caf011f9a6325a7fa9df050191d774981aca4e2"
+  }
+ },
+ "schema": 1
+}
