@@ -1,0 +1,124 @@
+{
+ "country": "MA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Mass. Const.",
+   "title": "Constitution of the Commonwealth of Massachusetts",
+   "url": "https://malegislature.gov/Laws/Constitution",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 229,
+     "source_url": "https://malegislature.gov/Laws/Constitution",
+     "sha256": "0da92e89babf377bedab6d03a98fbfed23756164d28cc417c836750a3db147be"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021k",
+   "short": "M.G.L. c. 21K",
+   "title": "General Laws, Chapter 21K: Mitigation of hazardous materials",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21K",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21K",
+     "sha256": "33a91b1959d452d6aeff7729ce115cc24245b59649115ef5b30663d75c601b9b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0025c",
+   "short": "M.G.L. c. 25C",
+   "title": "General Laws, Chapter 25C: Department of telecommunications and cable",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25C",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter25C",
+     "sha256": "05f572570ce31ecb59f334afcde1e1e7c25f892944477d08e8a70ed0aea1878a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0040o",
+   "short": "M.G.L. c. 40O",
+   "title": "General Laws, Chapter 40O: Business improvement districts",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40O",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40O",
+     "sha256": "c8cf3d876b0c783def47dac736be0f2a864c98a906b55fe2bb3427ebcc1d1c94"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0043e",
+   "short": "M.G.L. c. 43E",
+   "title": "General Laws, Chapter 43E: Expedited state permitting",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter43E",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter43E",
+     "sha256": "ae1143e69864d6d79259c5c007029c1c00f90f1de19d213a5cc3bb1e6a15edec"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0068a",
+   "short": "M.G.L. c. 68A",
+   "title": "General Laws, Chapter 68A: Limitations upon the conduct of certain trusts and corporations having charitable interests",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXI/Chapter68A",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXI/Chapter68A",
+     "sha256": "6bebb1a3265c1bde252d15af7f098922d82c91502325e15ade5c5465c86c3182"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0099",
+   "short": "M.G.L. c. 99",
+   "title": "General Laws, Chapter 99: The metric system of weights and measures",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter99",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter99",
+     "sha256": "0b8faaaddee0a1d1dd47dfa18b892c5a3e839cbeb970dd62867d2c17d958e758"
+    }
+   ]
+  }
+ ]
+}
