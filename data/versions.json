@@ -7149,6 +7149,193 @@
      "sha256": "9d2c49476363ef62f629cee76be6868cba5fea8fd06962d02dd788d9ba567cb2"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0023h",
+   "short": "M.G.L. c. 23H",
+   "title": "General Laws, Chapter 23H: Workforce development",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23H",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23H",
+     "sha256": "439b2dfed58f06b2e03aa9c1879afe0b0c883248aac503d9dcb92961d8a6dd63"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0065a",
+   "short": "M.G.L. c. 65A",
+   "title": "General Laws, Chapter 65A: Taxation of transfers of certain estates",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter65A",
+     "sha256": "24488ca2272089527d02763ed956b3851fff97fe3d46cf2180b083ca478c8740"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0110d",
+   "short": "M.G.L. c. 110D",
+   "title": "General Laws, Chapter 110D: Regulation of control share acquisitions",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110D",
+     "sha256": "b959b014b130096513c944e1dfb501bfd66616cc6cc84573903c3665d4c7320c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0110e",
+   "short": "M.G.L. c. 110E",
+   "title": "General Laws, Chapter 110E: Regulation of control share acquisitions of foreign corporations",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110E",
+     "sha256": "3ea3ce22cd9fdf92fbdc477d71704803666d2744825784ab1aa94fec50892a5d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0111i",
+   "short": "M.G.L. c. 111I",
+   "title": "General Laws, Chapter 111I: Women's, infants and children program",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111I",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111I",
+     "sha256": "cf75d8e60de8587a0058bfc9f68f07ce31dff4a39ea182280d1ba906b8951e94"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0111k",
+   "short": "M.G.L. c. 111K",
+   "title": "General Laws, Chapter 111K: Catastrophic illness in children relief fund commission",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111K",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111K",
+     "sha256": "ffdbe5d469af09eb8d6c08808bee49523982b93ccb78c4f870ebba29dd7da50b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0118c",
+   "short": "M.G.L. c. 118C",
+   "title": "General Laws, Chapter 118C: Coverage of certain employees under the federal social security act",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118C",
+     "sha256": "fb1bfa0d72140c6d9922f9393f408172c804545adb97d648efbf6db2330f97a2"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0121e",
+   "short": "M.G.L. c. 121E",
+   "title": "General Laws, Chapter 121E: Housing innovations trust fund",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121E",
+     "sha256": "d45e836453e0f510ccb9bd1305083b30ad4747944107a64f1de535ff2c1ab060"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0121g",
+   "short": "M.G.L. c. 121G",
+   "title": "General Laws, Chapter 121G: Capital improvement and preservation trust fund",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121G",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121G",
+     "sha256": "f71ca40c6804fd107a96cced8314b4d0262bc78f28cbfaa251998fe0b3d7a17e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0121h",
+   "short": "M.G.L. c. 121H",
+   "title": "General Laws, Chapter 121H: Supportive housing pool fund",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121H",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter121H",
+     "sha256": "c46fa5194a942d6340054bb0abd7fad6942076eb3a84903f10d7a1ecaf6d556b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0124",
+   "short": "M.G.L. c. 124",
+   "title": "General Laws, Chapter 124: Powers and duties of the department of correction",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVIII/Chapter124",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVIII/Chapter124",
+     "sha256": "691325e182f9052153b57c79e9f5ccbd0586036c8387a7cc990d4bfd8f22df00"
+    }
+   ]
   }
  ]
 }
