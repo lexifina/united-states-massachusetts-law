@@ -2285,6 +2285,106 @@
     "gl-chapter-0093a"
    ],
    "sha256": "f166d6031fc7a3483b5010e794ee17e6897e3e85e2f7b21f657700230e7881b1"
+  },
+  "zzq1582-live-b2.json": {
+   "acts": [
+    "gl-chapter-0014",
+    "gl-chapter-0031a",
+    "gl-chapter-0040x",
+    "gl-chapter-0047",
+    "gl-chapter-0055b",
+    "gl-chapter-0055c",
+    "gl-chapter-0090a",
+    "gl-chapter-0090h",
+    "gl-chapter-0090i",
+    "gl-chapter-0090j",
+    "gl-chapter-0090k"
+   ],
+   "sha256": "f26c96e9cd5450ba8c945f56eeaca9bd8865575692627de3441598d1283dae4f"
+  },
+  "zzq1582-live-b3.json": {
+   "acts": [
+    "gl-chapter-0093f",
+    "gl-chapter-0095",
+    "gl-chapter-0096",
+    "gl-chapter-0104"
+   ],
+   "sha256": "08e6c22635a760b159f901ac3981fbdb351c65ed596d209bf9bd9379af15904e"
+  },
+  "zzq1582-live.json": {
+   "acts": [
+    "gl-chapter-0021f",
+    "gl-chapter-0021l",
+    "gl-chapter-0022a",
+    "gl-chapter-0023l",
+    "gl-chapter-0024a",
+    "gl-chapter-0029a",
+    "gl-chapter-0040l",
+    "gl-chapter-0040y",
+    "gl-chapter-0063a",
+    "gl-chapter-0064m",
+    "gl-chapter-0065b"
+   ],
+   "sha256": "a20466d6c9f7f5905ee08a751ab7e9a1bdb1fa8137e5cee26d6bb9d1b5568c03"
+  },
+  "zzq1903-salvage.json": {
+   "acts": [
+    "gl-chapter-0023m",
+    "gl-chapter-0094e"
+   ],
+   "sha256": "9c1affe540af209e928cc4999bcb174a7f563ee6aca6806a35939752ecb5d29e"
+  },
+  "zzq1916-depth-a.json": {
+   "acts": [
+    "gl-chapter-0021k",
+    "gl-chapter-0025c",
+    "gl-chapter-0040o",
+    "gl-chapter-0043e",
+    "gl-chapter-0068a",
+    "gl-chapter-0099"
+   ],
+   "sha256": "cb3db5f88192cc8ca321282978cf963589ad5b1a438902b492c76b0689e2d3e3"
+  },
+  "zzq1920-inventory-1.json": {
+   "acts": [
+    "gl-chapter-0021f",
+    "gl-chapter-0021l",
+    "gl-chapter-0022a",
+    "gl-chapter-0023l",
+    "gl-chapter-0024a",
+    "gl-chapter-0029a",
+    "gl-chapter-0040l",
+    "gl-chapter-0040y",
+    "gl-chapter-0063a",
+    "gl-chapter-0064m",
+    "gl-chapter-0065b"
+   ],
+   "sha256": "5d687986757129456f2400c0af572802c26d950f8e3232284ec7d582f30dda7c"
+  },
+  "zzq1920-inventory-2.json": {
+   "acts": [
+    "gl-chapter-0014",
+    "gl-chapter-0031a",
+    "gl-chapter-0040x",
+    "gl-chapter-0047",
+    "gl-chapter-0055b",
+    "gl-chapter-0055c",
+    "gl-chapter-0090a",
+    "gl-chapter-0090h",
+    "gl-chapter-0090i",
+    "gl-chapter-0090j",
+    "gl-chapter-0090k"
+   ],
+   "sha256": "b592ab8474106f4a885a6d991c46112fc104af360fdd78b8460797db546750bd"
+  },
+  "zzq1920-inventory-3.json": {
+   "acts": [
+    "gl-chapter-0093f",
+    "gl-chapter-0095",
+    "gl-chapter-0096",
+    "gl-chapter-0104"
+   ],
+   "sha256": "60ef1dbd1cfbe30cda6efabb33678e5f53278000a65938a1c80d8a0bf3b97abd"
   }
  },
  "schema": 1
