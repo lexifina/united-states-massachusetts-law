@@ -7064,6 +7064,91 @@
      "sha256": "0b8faaaddee0a1d1dd47dfa18b892c5a3e839cbeb970dd62867d2c17d958e758"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0093g",
+   "short": "M.G.L. c. 93G",
+   "title": "General Laws, Chapter 93G: Equipment dealers",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93G",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93G",
+     "sha256": "bce8bf5c3a833e4402e48725d980c0168fc114cbb6d69b87ba103b6c00301087"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0104a",
+   "short": "M.G.L. c. 104A",
+   "title": "General Laws, Chapter 104A: Consignment of fine art",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter104A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter104A",
+     "sha256": "57e3f04250693835f2cc8513a8741d170334c0854e35ed4af6647f24538e4315"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0107",
+   "short": "M.G.L. c. 107",
+   "title": "General Laws, Chapter 107: Money and registration, issuance and redemption of bonds and other securities, facsimile signatures",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter107",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter107",
+     "sha256": "ad73c1d086e4cae8628086677fa3388d1a15eecbda8d3d7bb700a3aaa78624a2"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0108",
+   "short": "M.G.L. c. 108",
+   "title": "General Laws, Chapter 108: Criminal offences relative to bills of lading",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter108",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter108",
+     "sha256": "4a5be02a9075020c8670bc73d3623976c2d4a55c8ffff932dae587a37d11eb7f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0115b",
+   "short": "M.G.L. c. 115B",
+   "title": "General Laws, Chapter 115B: Office of the veteran advocate",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter115B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter115B",
+     "sha256": "9d2c49476363ef62f629cee76be6868cba5fea8fd06962d02dd788d9ba567cb2"
+    }
+   ]
   }
  ]
 }
