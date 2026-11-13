@@ -7710,6 +7710,261 @@
      "sha256": "21ec236c4791f220a0946ce0cd3c28da9fefc871e9d75a4038bcf5d72a0a2905"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0196a",
+   "short": "M.G.L. c. 196A",
+   "title": "General Laws, Chapter 196A: REGISTRATION OF SECURITIES OF DECEASED",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter196A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter196A",
+     "sha256": "90df9e939f75d9a93f3443838697e3edf8c3aadd2701b013f1d4c54f8a4801c0"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0282",
+   "short": "M.G.L. c. 282",
+   "title": "General Laws, Chapter 282: EXPRESS REPEAL OF CERTAIN ACTS AND RESOLVES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartV/TitleI/Chapter282",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartV/TitleI/Chapter282",
+     "sha256": "c300ff4236e4317ad876615a12cb4f00f7822a70f339a8f302a033ac63877ee4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0232a",
+   "short": "M.G.L. c. 232A",
+   "title": "General Laws, Chapter 232A: TENDER",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter232A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter232A",
+     "sha256": "64f201894c10bf3623ee0578ec9990a70ebf71ed27789eaccfc1751a177d9137"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0133",
+   "short": "M.G.L. c. 133",
+   "title": "General Laws, Chapter 133: DISPOSITION OF OLD AND INFIRM ANIMALS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter133",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter133",
+     "sha256": "98676f226a5dc71f450461d590b1e338975fbafdf176ba700ae9eb9c3f2ae90b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176y",
+   "short": "M.G.L. c. 176Y",
+   "title": "General Laws, Chapter 176Y: LICENSING AND REGULATION OF PHARMACY BENEFIT MANAGERS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176Y",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176Y",
+     "sha256": "fce4121e82d3b7ca71b8cbfcd75a5541f8737dc4c5788483798628ca8068c2c6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0184b",
+   "short": "M.G.L. c. 184B",
+   "title": "General Laws, Chapter 184B: SHORT FORM TERMS FOR WILLS AND TRUSTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter184B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter184B",
+     "sha256": "b7ccb971d8640c38b8d46616e1fa691ade2cd64b9ec4c3ece581acafeed3d866"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0258f",
+   "short": "M.G.L. c. 258F",
+   "title": "General Laws, Chapter 258F: CERTIFICATION FOR VICTIMS OF VIOLENT CRIME AND HUMAN TRAFFICKING",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258F",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter258F",
+     "sha256": "fa58dfb7ea5f4d2a85451e33b958e1281ce902d2652ac554d75d0c43395b1cbf"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0199",
+   "short": "M.G.L. c. 199",
+   "title": "General Laws, Chapter 199: SETTLEMENT OF ESTATES OF DECEASED NON&ndash;RESIDENTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter199",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter199",
+     "sha256": "5e40147fbafcd58d322778a3fd0520263637e49d68b5e60aed1c78b515165ca1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0151e",
+   "short": "M.G.L. c. 151E",
+   "title": "General Laws, Chapter 151E: PROHIBITION OF CERTAIN DISCRIMINATION BY BUSINESSES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151E",
+     "sha256": "b68aa2ed702dba46c2e766b737e0d9c155e326d38ce5da6985ed24e009cb2613"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176r",
+   "short": "M.G.L. c. 176R",
+   "title": "General Laws, Chapter 176R: CONSUMER CHOICE OF NURSE PRACTITIONER SERVICES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176R",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176R",
+     "sha256": "5b00fc04feb077f90a6738854824b5525ec48ecffa3992eb3e9d0a57519f2726"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176s",
+   "short": "M.G.L. c. 176S",
+   "title": "General Laws, Chapter 176S: CONSUMER CHOICE OF PHYSICIAN ASSISTANT SERVICES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176S",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176S",
+     "sha256": "17ecb6024d33470c866a6bce22b78dc5631496c38bd533dee2a5e2c3f4ca3076"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0191",
+   "short": "M.G.L. c. 191",
+   "title": "General Laws, Chapter 191: WILLS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter191",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter191",
+     "sha256": "46fbf1bc43863a11e969c0f9096e88e8001f53f34f316bbd8673f28722547e5d"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0243",
+   "short": "M.G.L. c. 243",
+   "title": "General Laws, Chapter 243: ACTIONS FOR PRIVATE NUISANCES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter243",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter243",
+     "sha256": "e2a6e61e8d4f97abf6a849f5e32a1c351360bb312a609df5ceeda794c5f2bad5"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0175b",
+   "short": "M.G.L. c. 175B",
+   "title": "General Laws, Chapter 175B: UNAUTHORIZED INSURER'S PROCESS ACT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175B",
+     "sha256": "4dc3ac0cc61d13eb6db65b4eabadda944495181ec49e3673c6dec8bef3ebe4ba"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0175g",
+   "short": "M.G.L. c. 175G",
+   "title": "General Laws, Chapter 175G: THE POLLUTION LIABILITY REINSURANCE CORPORATION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175G",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175G",
+     "sha256": "273cbc6f52936e798a8964092c6b57867cd4af671fb5a026a61901e982700c84"
+    }
+   ]
   }
  ]
 }
