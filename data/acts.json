@@ -9491,6 +9491,27 @@
    "images_source": 0,
    "images_complete": true,
    "complete": false
+  },
+  {
+   "slug": "gl-chapter-0083",
+   "path": "gl-chapter-0083",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 83: SEWERS, DRAINS AND SIDEWALKS",
+   "short": "M.G.L. c. 83",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter83",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
   }
  ]
 }
