@@ -8339,6 +8339,91 @@
      "sha256": "de44669705ce22797840a35a549f6b8e49c364efb9f0d8abc19b5462a7673281"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0175f",
+   "short": "M.G.L. c. 175F",
+   "title": "General Laws, Chapter 175F: MEDICAL MALPRACTICE SELF&ndash;INSURANCE TRUST FUNDS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175F",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175F",
+     "sha256": "2d350efb15dbbc9ba15128f6f91efd7821f226af1f17945bc530ed740cba8e23"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0203",
+   "short": "M.G.L. c. 203",
+   "title": "General Laws, Chapter 203: TRUSTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203",
+     "sha256": "9687ed860c7061863cbcc73e1364c23888ae7a59aa6bfda7f89403ff14047c7e"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0213",
+   "short": "M.G.L. c. 213",
+   "title": "General Laws, Chapter 213: PROVISIONS COMMON TO THE SUPREME JUDICIAL AND SUPERIOR COURTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter213",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter213",
+     "sha256": "7f8fa915e9168632b87e9d418fdd529d97f50b43c0b670b67f83af6b36978fc9"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0228",
+   "short": "M.G.L. c. 228",
+   "title": "General Laws, Chapter 228: SURVIVAL OF ACTIONS AND DEATH AND DISABILITIES OF PARTIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter228",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter228",
+     "sha256": "9a459244c7266ae06b7d3a0656afd4ace23399badfedb8fb98d4ad3a1d87572b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0280",
+   "short": "M.G.L. c. 280",
+   "title": "General Laws, Chapter 280: FINES AND FORFEITURES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter280",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter280",
+     "sha256": "f9c7d6f3286db55b233d9f130e7d741705251f4667f2e581f02373f9c0726d3f"
+    }
+   ]
   }
  ]
 }

@@ -274,6 +274,11 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0229/` | General Laws, Chapter 229: ACTIONS FOR DEATH AND INJURIES RESULTING IN DEATH | 14 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0230/` | General Laws, Chapter 230: ACTIONS BY AND AGAINST EXECUTORS AND ADMINISTRATORS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0245/` | General Laws, Chapter 245: INFORMATIONS BY THE COMMONWEALTH | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0175f/` | General Laws, Chapter 175F: MEDICAL MALPRACTICE SELF&ndash;INSURANCE TRUST FUNDS | 18 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0203/` | General Laws, Chapter 203: TRUSTS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0213/` | General Laws, Chapter 213: PROVISIONS COMMON TO THE SUPREME JUDICIAL AND SUPERIOR COURTS | 16 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0228/` | General Laws, Chapter 228: SURVIVAL OF ACTIONS AND DEATH AND DISABILITIES OF PARTIES | 18 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0280/` | General Laws, Chapter 280: FINES AND FORFEITURES | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 

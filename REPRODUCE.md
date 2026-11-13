@@ -406,6 +406,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | General Court of the Commonwealth of Massachusetts, General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 | General Court of the Commonwealth of Massachusetts, General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
+| General Court of the Commonwealth of Massachusetts, General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; site terms restrict photographs and copyrighted site design, not statutory words. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -903,12 +904,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0229` | General Laws, Chapter 229: ACTIONS FOR DEATH AND INJURIES RESULTING IN DEATH | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0230` | General Laws, Chapter 230: ACTIONS BY AND AGAINST EXECUTORS AND ADMINISTRATORS | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0245` | General Laws, Chapter 245: INFORMATIONS BY THE COMMONWEALTH | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0175f` | General Laws, Chapter 175F: MEDICAL MALPRACTICE SELF&ndash;INSURANCE TRUST FUNDS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0203` | General Laws, Chapter 203: TRUSTS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0213` | General Laws, Chapter 213: PROVISIONS COMMON TO THE SUPREME JUDICIAL AND SUPERIOR COURTS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0228` | General Laws, Chapter 228: SURVIVAL OF ACTIONS AND DEATH AND DISABILITIES OF PARTIES | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0280` | General Laws, Chapter 280: FINES AND FORFEITURES | 1 | 2026-11-13 to 2026-11-13 |
 
-The build made 492 commits:
+The build made 497 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 490 | baseline texts where the record starts |
+| 495 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 2 | corrections to the existing record |
@@ -918,7 +924,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 490 tags.
+- 495 tags.
 
 ## Dates
 
@@ -930,7 +936,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9b5a3069c7d566a75cf92e7d41bae768683cb481e39f7c210c77edbeed88daa0` (29987264 bytes).
+- Corpus: sha256 `a8160d4e802fd4ad32744afc2c5d39bc76edbe5ed2a31449e176abf78855eb15` (30067089 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1353,6 +1359,7 @@ No second build of this corpus has been compared yet.
 - Current-text baselines. Acts with unresolved dates, normative images or independent section-body comparison failures are held. Included official pages state no current-text date; the explicitly stated retrieval fallback is used.
 - Current-text baselines. Acts with unresolved dates, normative images or independent section-body comparison failures are held. Included official pages state no current-text date; the explicitly stated retrieval fallback is used.
 - Current-text baselines. Acts with unresolved dates, normative images or independent section-body comparison failures are held. Included official pages state no current-text date; the explicitly stated retrieval fallback is used.
+- Current-text baselines. Acts with unresolved dates, normative images or independent section-body comparison failures are held. Included official pages state no current-text date; the explicitly stated retrieval fallback is used.
 
 ## What AI did and did not do
 
@@ -1757,6 +1764,7 @@ Model use at data-build time:
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
 - A model wrote extraction and verification code; no model-authored or model-corrected law words.
