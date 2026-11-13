@@ -306,6 +306,9 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0254/` | General Laws, Chapter 254: LIENS ON BUILDINGS AND LAND | 39 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0248/` | General Laws, Chapter 248: HABEAS CORPUS AND PERSONAL LIBERTY | 40 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0237/` | General Laws, Chapter 237: WRITS OF ENTRY | 44 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0155/` | General Laws, Chapter 155: GENERAL PROVISIONS RELATIVE TO CORPORATIONS | 46 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0023/` | General Laws, Chapter 23: EXECUTIVE OFFICE OF LABOR AND WORKFORCE DEVELOPMENT | 38 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0158/` | General Laws, Chapter 158: CERTAIN MISCELLANEOUS CORPORATIONS | 54 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 

@@ -8883,6 +8883,57 @@
      "sha256": "2ff01087f45cc5ac33a23ff821543c5f03e737dc57449fc375997ccc633bfe7f"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0155",
+   "short": "M.G.L. c. 155",
+   "title": "General Laws, Chapter 155: GENERAL PROVISIONS RELATIVE TO CORPORATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter155",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 46,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter155",
+     "sha256": "48466fe1827728a87814527b997d7277cb285cc259a2cd4535a3b700fbd7c141"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023",
+   "short": "M.G.L. c. 23",
+   "title": "General Laws, Chapter 23: EXECUTIVE OFFICE OF LABOR AND WORKFORCE DEVELOPMENT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 38,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23",
+     "sha256": "d94619e37fb2a271975fe1c4af461ecf077bf69ac7ba76e4500dcb9324f4f5f6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0158",
+   "short": "M.G.L. c. 158",
+   "title": "General Laws, Chapter 158: CERTAIN MISCELLANEOUS CORPORATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter158",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 54,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter158",
+     "sha256": "44076966cb80d6f2efe8f04a780593358bedfe9d653faa410eb66a91edcd3d1c"
+    }
+   ]
   }
  ]
 }
