@@ -211,6 +211,13 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0265/` | General Laws, Chapter 265: Crimes against the person | 96 | One version: the General Court's online text, each section from its newest web capture (captured 2024-12-07 to 2026-10-17), dated 2026-10-17 |
 | `gl-chapter-0266/` | General Laws, Chapter 266: Crimes against property | 218 | One version: the General Court's online text, each section from its newest web capture (captured 2024-12-09 to 2026-10-16), dated 2026-10-18 |
 
+| `gl-chapter-0021k/` | General Laws, Chapter 21K: Mitigation of hazardous materials | 9 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
+| `gl-chapter-0025c/` | General Laws, Chapter 25C: Department of telecommunications and cable | 10 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
+| `gl-chapter-0040o/` | General Laws, Chapter 40O: Business improvement districts | 10 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
+| `gl-chapter-0043e/` | General Laws, Chapter 43E: Expedited state permitting | 8 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
+| `gl-chapter-0068a/` | General Laws, Chapter 68A: Limitations upon the conduct of certain trusts and corporations having charitable interests | 8 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
+| `gl-chapter-0099/` | General Laws, Chapter 99: The metric system of weights and measures | 5 | One current online version retrieved 2026-11-11; the official pages give no current-text date |
+
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
 ## Where the text comes from
