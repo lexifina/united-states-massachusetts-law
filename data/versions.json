@@ -8713,6 +8713,74 @@
      "sha256": "f1bd1c46d97efd9903bfa92c4caa2d6d1baff689ffb5c79803a9edb6d213190c"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0203d",
+   "short": "M.G.L. c. 203D",
+   "title": "General Laws, Chapter 203D: PRINCIPAL AND INCOME",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203D",
+     "sha256": "b0e559552615b0522c15ea80c878bb58c04668661f71280eb18dd0bf5edac6b7"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0204",
+   "short": "M.G.L. c. 204",
+   "title": "General Laws, Chapter 204: GENERAL PROVISIONS RELATIVE TO SALES, MORTGAGES, RELEASES, COMPROMISES, ETC., BY EXECUTORS, ETC.",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter204",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter204",
+     "sha256": "3e9a799f389b3d5a2a5a3f100b793cc187351eabc0861891a9c7172c3f112938"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0252",
+   "short": "M.G.L. c. 252",
+   "title": "General Laws, Chapter 252: IMPROVEMENT OF LOW LAND AND SWAMPS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter252",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 33,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter252",
+     "sha256": "304c778cd711e9e6116ea5eb59ef9e7b30fc9b4d09078ab71e26eb909c3040df"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0211",
+   "short": "M.G.L. c. 211",
+   "title": "General Laws, Chapter 211: THE SUPREME JUDICIAL COURT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 35,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter211",
+     "sha256": "804db0286d8a6c229ac7f428cd9753d37b83f65a9dad8a6254eb40922cb96c45"
+    }
+   ]
   }
  ]
 }
