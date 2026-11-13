@@ -8832,6 +8832,57 @@
      "sha256": "e4e91ac8b82d478eef8ef25215c076a867d3f76ffab5453148a7bd616e59fec5"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0254",
+   "short": "M.G.L. c. 254",
+   "title": "General Laws, Chapter 254: LIENS ON BUILDINGS AND LAND",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter254",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 39,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter254",
+     "sha256": "047003258f3d91422916c83ed4029ad291889625ab29af2890988e3d176baec7"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0248",
+   "short": "M.G.L. c. 248",
+   "title": "General Laws, Chapter 248: HABEAS CORPUS AND PERSONAL LIBERTY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter248",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 40,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter248",
+     "sha256": "ca6ad227f6d60be910c0417450a214f51714210abaefa599c31dc0030d27130b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0237",
+   "short": "M.G.L. c. 237",
+   "title": "General Laws, Chapter 237: WRITS OF ENTRY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter237",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 44,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter237",
+     "sha256": "2ff01087f45cc5ac33a23ff821543c5f03e737dc57449fc375997ccc633bfe7f"
+    }
+   ]
   }
  ]
 }

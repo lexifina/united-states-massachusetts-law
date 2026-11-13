@@ -303,6 +303,9 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0261/` | General Laws, Chapter 261: COSTS IN CIVIL ACTIONS | 37 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0126/` | General Laws, Chapter 126: JAILS, HOUSES OF CORRECTION AND REFORMATION, AND COUNTY INDUSTRIAL FARMS | 38 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0179/` | General Laws, Chapter 179: PROPRIETORS OF WHARVES, REAL ESTATE LYING IN COMMON, AND GENERAL FIELDS | 40 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0254/` | General Laws, Chapter 254: LIENS ON BUILDINGS AND LAND | 39 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0248/` | General Laws, Chapter 248: HABEAS CORPUS AND PERSONAL LIBERTY | 40 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0237/` | General Laws, Chapter 237: WRITS OF ENTRY | 44 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
