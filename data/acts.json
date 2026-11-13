@@ -9071,6 +9071,27 @@
    "images_source": 0,
    "images_complete": true,
    "complete": false
+  },
+  {
+   "slug": "gl-chapter-0006",
+   "path": "gl-chapter-0006",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 6: THE GOVERNOR, LIEUTENANT GOVERNOR AND COUNCIL, CERTAIN OFFICERS UNDER THE GOVERNOR AND COUNCIL, AND STATE LIBRARY",
+   "short": "M.G.L. c. 6",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
   }
  ]
 }
