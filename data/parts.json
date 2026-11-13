@@ -2521,6 +2521,19 @@
     "gl-chapter-0281"
    ],
    "sha256": "51e52b0594088c8535382fc88d1be024a207b92395e8b6b93f1dea1d59ffcda6"
+  },
+  "zzq2003-depth-004.json": {
+   "acts": [
+    "gl-chapter-0097",
+    "gl-chapter-0110c",
+    "gl-chapter-0174b",
+    "gl-chapter-0175e",
+    "gl-chapter-0176l",
+    "gl-chapter-0188",
+    "gl-chapter-0230",
+    "gl-chapter-0245"
+   ],
+   "sha256": "f3c0a11b8035ce68cfe069337636c489a61a26156f276e034e8eb309da87966d"
   }
  },
  "schema": 1

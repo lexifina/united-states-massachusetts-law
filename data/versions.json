@@ -8271,6 +8271,142 @@
      "sha256": "ff2984f8a75946440018dc4153d736a644aa6004a11b884a6b9c35192b802ae2"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0174b",
+   "short": "M.G.L. c. 174B",
+   "title": "General Laws, Chapter 174B: REGULATION OF AUTOMOBILE CLUBS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174B",
+     "sha256": "42f25874409ccf9a59a4c21e7cdf7e104035738f834891f398684d0f984b2968"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0245",
+   "short": "M.G.L. c. 245",
+   "title": "General Laws, Chapter 245: INFORMATIONS BY THE COMMONWEALTH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter245",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter245",
+     "sha256": "542ab4758c3cb2cd6d41924281bae6e7759da457d26db356e0b9764f4a821668"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0110c",
+   "short": "M.G.L. c. 110C",
+   "title": "General Laws, Chapter 110C: REGULATION OF TAKE&ndash;OVER BIDS IN THE ACQUISITION OF CORPORATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter110C",
+     "sha256": "eb6ae8233251958b6777aa1d9436140e1abc381f1ab152dadc64806ceec1c0e8"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0230",
+   "short": "M.G.L. c. 230",
+   "title": "General Laws, Chapter 230: ACTIONS BY AND AGAINST EXECUTORS AND ADMINISTRATORS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter230",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter230",
+     "sha256": "fbc36f640e999e15afc05b8633cfc25582aced366670a98433f2807b596cfcde"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176l",
+   "short": "M.G.L. c. 176L",
+   "title": "General Laws, Chapter 176L: RISK RETENTION AND RISK PURCHASING GROUPS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176L",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176L",
+     "sha256": "a9f33debe787588ef97fef8c45b9ccd221d533a00855edef74180dae02812b14"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0097",
+   "short": "M.G.L. c. 97",
+   "title": "General Laws, Chapter 97: SURVEYING OF LAND",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter97",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter97",
+     "sha256": "0bf1794703b3e7102e841b29144f13c350ff956cf0b200e9d8e86ccd4c5d8683"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0175e",
+   "short": "M.G.L. c. 175E",
+   "title": "General Laws, Chapter 175E: REGULATION OF RATES FOR MOTOR VEHICLE INSURANCE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175E",
+     "sha256": "22cf8519114ac17efbd06ff3d7eaa63e1f9b2cbd6e9abc8694dbf4b091373db4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0188",
+   "short": "M.G.L. c. 188",
+   "title": "General Laws, Chapter 188: HOMESTEADS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter188",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter188",
+     "sha256": "059034492da1cb74ed510a5a21db60a7657f42c143f673ef225929ed51ca09fe"
+    }
+   ]
   }
  ]
 }

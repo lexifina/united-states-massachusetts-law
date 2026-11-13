@@ -270,6 +270,14 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0281/` | General Laws, Chapter 281: THE GENERAL LAWS AND THEIR EFFECT | 10 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0221b/` | General Laws, Chapter 221B: CHILD SUPPORT HEARING OFFICERS | 11 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0150f/` | General Laws, Chapter 150F: TRANSPORTATION NETWORK DRIVERS UNIONIZATION AND COLLECTIVE BARGAINING | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0174b/` | General Laws, Chapter 174B: REGULATION OF AUTOMOBILE CLUBS | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0245/` | General Laws, Chapter 245: INFORMATIONS BY THE COMMONWEALTH | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0110c/` | General Laws, Chapter 110C: REGULATION OF TAKE&ndash;OVER BIDS IN THE ACQUISITION OF CORPORATIONS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0230/` | General Laws, Chapter 230: ACTIONS BY AND AGAINST EXECUTORS AND ADMINISTRATORS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176l/` | General Laws, Chapter 176L: RISK RETENTION AND RISK PURCHASING GROUPS | 14 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0097/` | General Laws, Chapter 97: SURVEYING OF LAND | 14 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0175e/` | General Laws, Chapter 175E: REGULATION OF RATES FOR MOTOR VEHICLE INSURANCE | 15 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0188/` | General Laws, Chapter 188: HOMESTEADS | 16 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
