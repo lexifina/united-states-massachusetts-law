@@ -7370,6 +7370,142 @@
      "sha256": "47856527063d95364e020db951c6613f28deb6d3db7675c4ecdd83bf71f7d1f0"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0042",
+   "short": "M.G.L. c. 42",
+   "title": "General Laws, Chapter 42: BOUNDARIES OF CITIES AND TOWNS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter42",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter42",
+     "sha256": "d3846fa06d93628ae6e4dbbdb763d655e839c018e32f2f51866f5c4a6fd16bc9"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0092b",
+   "short": "M.G.L. c. 92B",
+   "title": "General Laws, Chapter 92B: COMMONWEALTH ZOOLOGICAL CORPORATION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter92B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter92B",
+     "sha256": "4ca25a43dca4d014db332e66271cb82bfee436ad553e6d0175ab149cf57a36ee"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0063b",
+   "short": "M.G.L. c. 63B",
+   "title": "General Laws, Chapter 63B: DECLARATION OF ESTIMATED TAX BY CORPORATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter63B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter63B",
+     "sha256": "9ae40b6b493b52fd6f5492376341192df3b47ddedac149a18f8da63778631465"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0018c",
+   "short": "M.G.L. c. 18C",
+   "title": "General Laws, Chapter 18C: OFFICE OF THE CHILD ADVOCATE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter18C",
+     "sha256": "3757d257c7956c83f76fb3dd2f2f01983fea31a6e52b59d0ae83d2df5396b0d6"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0021b",
+   "short": "M.G.L. c. 21B",
+   "title": "General Laws, Chapter 21B: MINING REGULATION AND RECLAMATION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter21B",
+     "sha256": "1d6804374021820f970cc39f475f52955754763698cd894d48687afa98d689e9"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0093e",
+   "short": "M.G.L. c. 93E",
+   "title": "General Laws, Chapter 93E: REGULATION OF DEALERS' AGREEMENTS FOR THE SALE OF GASOLINE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93E",
+     "sha256": "670792476c81e3be6f5f7ce437813d8f22ac74093935f943cf551160fb1d055f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023e",
+   "short": "M.G.L. c. 23E",
+   "title": "General Laws, Chapter 23E: DIVISION OF INDUSTRIAL ACCIDENTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23E",
+     "sha256": "13e108d6d83cb338c9ae69c3792e1d2ce875d48af13b974a5440ec0879db817b"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0040g",
+   "short": "M.G.L. c. 40G",
+   "title": "General Laws, Chapter 40G: MASSACHUSETTS TECHNOLOGY DEVELOPMENT CORPORATION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40G",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40G",
+     "sha256": "d34478b28f02f994d95ce1f67ffbc0ac7b7a6d790c572a6c1d6f68e6fcfac3ee"
+    }
+   ]
   }
  ]
 }

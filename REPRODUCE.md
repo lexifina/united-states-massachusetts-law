@@ -397,6 +397,7 @@ This file is written by the build on 2026-11-13, the day the source data was ret
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
 | General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site's terms restrict photographs and copyrighted site design, not the statutory words. |
+| General Court of the Commonwealth of Massachusetts, live General Laws | <https://malegislature.gov/Laws/GeneralLaws> | 2026-11-13 | Official Massachusetts statute text is a government edict; the site terms restrict photographs and copyrighted site design, not statutory words. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -837,12 +838,20 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `gl-chapter-0124` | General Laws, Chapter 124: Powers and duties of the department of correction | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0003` | General Laws, Chapter 3: THE GENERAL COURT | 1 | 2026-11-13 to 2026-11-13 |
 | `gl-chapter-0006` | General Laws, Chapter 6: THE GOVERNOR, LIEUTENANT GOVERNOR AND COUNCIL, CERTAIN OFFICERS UNDER THE GOVERNOR AND COUNCIL, AND STATE LIBRARY | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0042` | General Laws, Chapter 42: BOUNDARIES OF CITIES AND TOWNS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0092b` | General Laws, Chapter 92B: COMMONWEALTH ZOOLOGICAL CORPORATION | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0063b` | General Laws, Chapter 63B: DECLARATION OF ESTIMATED TAX BY CORPORATIONS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0018c` | General Laws, Chapter 18C: OFFICE OF THE CHILD ADVOCATE | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0021b` | General Laws, Chapter 21B: MINING REGULATION AND RECLAMATION | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0093e` | General Laws, Chapter 93E: REGULATION OF DEALERS' AGREEMENTS FOR THE SALE OF GASOLINE | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0023e` | General Laws, Chapter 23E: DIVISION OF INDUSTRIAL ACCIDENTS | 1 | 2026-11-13 to 2026-11-13 |
+| `gl-chapter-0040g` | General Laws, Chapter 40G: MASSACHUSETTS TECHNOLOGY DEVELOPMENT CORPORATION | 1 | 2026-11-13 to 2026-11-13 |
 
-The build made 435 commits:
+The build made 443 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 433 | baseline texts where the record starts |
+| 441 | baseline texts where the record starts |
 | 0 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 2 | corrections to the existing record |
@@ -852,7 +861,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 433 tags.
+- 441 tags.
 
 ## Dates
 
@@ -864,7 +873,7 @@ When a law gives no date of its own, the default rule applies: The page carries 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0645fa8f4e3b7d6b34d327339ddd1dad65d739515e186b4c506c01571f0b0780` (28824546 bytes).
+- Corpus: sha256 `5c601b13c97d23fffa1584b1dc24e34109436ec05ab9b213d05df266562cc760` (29016514 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1275,6 +1284,8 @@ No second build of this corpus has been compared yet.
 - Each included chapter is one current-text baseline. Every listed section was fetched; chapters with unresolved current-text dates or normative images were held for separate review. Source pages for included chapters state no current-text date, so their retrieval day is used explicitly. Reviewed source year references unrelated to the current-text date in chapters 110D, 110E, 111I, 111K, 118C, 121E, 121G, 121H, 124, 23H, 65A.
 - Each included chapter is one current-text baseline. Every listed section was fetched. Source pages for included chapters state no current-text date, so their retrieval day is used explicitly.
 - Each included chapter is one current-text baseline. Every listed section was fetched. Source pages for included chapters state no current-text date, so their retrieval day is used explicitly.
+- Current-text baselines; official pages supply no current-text amendment date, so retrieval on 2026-11-13 is used explicitly. Unresolved dates, images, and expired text are held.
+- Date references individually reviewed in chapters 42, 92B, 63B, 18C, 21B, 93E, 23E, 40G.
 
 ## What AI did and did not do
 
@@ -1679,3 +1690,4 @@ Model use at data-build time:
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
 - A model wrote the deterministic collector and parser, but did not author or edit law text.
+- A model wrote extraction and verification code; no model-authored or model-corrected law words.
