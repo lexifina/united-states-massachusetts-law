@@ -14,6 +14,9 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | Folder | Act | Units | History |
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution of the Commonwealth of Massachusetts (1780, as amended): Preamble, Part the First, Part the Second, the Articles of Amendment, and the notes on amendments rejected | 229 | One version: the General Court's online text as captured on 15 October 2026 |
+| `gl-chapter-0015c/` | General Laws, Chapter 15C: MASSACHUSETTS COLLEGE STUDENT LOAN AUTHORITY | 36 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0073/` | General Laws, Chapter 73: STATE COLLEGES AND COMMUNITY COLLEGES | 32 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
+| `gl-chapter-0083/` | General Laws, Chapter 83: SEWERS, DRAINS AND SIDEWALKS | 49 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
 | `gl-chapter-0093e/` | General Laws, Chapter 93E: REGULATION OF DEALERS' AGREEMENTS FOR THE SALE OF GASOLINE | 15 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
 | `gl-chapter-0092b/` | General Laws, Chapter 92B: COMMONWEALTH ZOOLOGICAL CORPORATION | 12 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
 | `gl-chapter-0088/` | General Laws, Chapter 88: FERRIES, CANALS AND PUBLIC LANDINGS | 19 | One current-text version: official General Court text retrieved 2026-11-13; the source supplies no current-text amendment date |
@@ -248,7 +251,6 @@ The General Laws are published one page per section (malegislature.gov/Laws/Gene
 - The page states no date of its own, so the capture date, **15 October 2026**, dates the single version. It is the oldest version available: the repository holds the Constitution as published online then, with every amendment the General Court had printed by that day (121 articles of amendment), and nothing earlier. The first commit is credited to the publisher as "oldest version available".
 - The dates on which the amendments took effect are in the text (the closing notes say when each was ratified), but they are not yet built into dated versions.
 - Each General Laws chapter is one version, dated by the newest capture day of its section pages, and credited to the publisher as "oldest version available". (The chapters published up to 2026-10-30 were dated a day or so later where needed so the history only grew; chapters added from 2026-11-10 on carry their newest capture day unchanged.) The section pages state no date, so this is a capture date, not a commencement date. Sections were captured on different days, which the commit's note gives; a section amended after its capture would show its older text here.
-
 
 The chapters added on 13 November 2026 use official current-text pages. Their year references concern cited statutes, applicability rules, repeals, appointments or reporting deadlines, rather than a current-text amendment date; their retrieval date is stated explicitly as the baseline. Chapters with unresolved effective-date notices or normative images are not included in those additions.
 
