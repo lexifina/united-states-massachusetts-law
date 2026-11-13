@@ -9002,6 +9002,40 @@
      "sha256": "f9466f49aab367ff3257877e4b639fa3de263acea5b78da53ae452c9dd3203da"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0215",
+   "short": "M.G.L. c. 215",
+   "title": "General Laws, Chapter 215: PROBATE COURTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter215",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 78,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter215",
+     "sha256": "338ea15f9a666758e03c5fb00f4f0a82889753e27a5914aa4faf27411ed3feb2"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0262",
+   "short": "M.G.L. c. 262",
+   "title": "General Laws, Chapter 262: FEES OF CERTAIN OFFICERS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleVI/Chapter262",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 78,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleVI/Chapter262",
+     "sha256": "43f126c7c17454b5e937c9effecf56a2a029bff565bf81116fd6bb2918b709fb"
+    }
+   ]
   }
  ]
 }
