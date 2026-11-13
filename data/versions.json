@@ -8526,6 +8526,108 @@
      "sha256": "2f6063364771c7988f23916cf2fd46796c6674a912f33e0b9008baef66817841"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0280",
+   "short": "M.G.L. c. 280",
+   "title": "General Laws, Chapter 280: FINES AND FORFEITURES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter280",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleII/Chapter280",
+     "sha256": "c0118866dedeb14d815fa9219aa972eade35476cb41e44f53327df3646d813c7"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0111e",
+   "short": "M.G.L. c. 111E",
+   "title": "General Laws, Chapter 111E: DRUG REHABILITATION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111E",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111E",
+     "sha256": "af94d26d0015e63c852ca288991707c3e5599ebd4421b8cdf84a011dd8aea76f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0122",
+   "short": "M.G.L. c. 122",
+   "title": "General Laws, Chapter 122: TEWKSBURY HOSPITAL",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter122",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter122",
+     "sha256": "c880ab121736474a48cf51af0d60cf12628511aaf93d740aa42d580139ca95e8"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0172",
+   "short": "M.G.L. c. 172",
+   "title": "General Laws, Chapter 172: TRUST COMPANIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter172",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter172",
+     "sha256": "49f8ba472a5dc18ffcdac542833cf2c0f00773f555cc8e5db1487fe22e8e3cf2"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0174a",
+   "short": "M.G.L. c. 174A",
+   "title": "General Laws, Chapter 174A: REGULATION OF RATES FOR FIRE, MARINE AND INLAND MARINE INSURANCE, AND RATING ORGANIZATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter174A",
+     "sha256": "e78e96ffffc9944d5a65be502b4d984e74e01b70cfd5a02069fa2ea40d754ba2"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0105",
+   "short": "M.G.L. c. 105",
+   "title": "General Laws, Chapter 105: PUBLIC WAREHOUSES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter105",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter105",
+     "sha256": "47557c4e73aaf6521c1fda0b3aebac66026352bb58d84b4b274b1e6c8dbbfb96"
+    }
+   ]
   }
  ]
 }

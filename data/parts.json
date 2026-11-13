@@ -2546,6 +2546,17 @@
     "gl-chapter-0229"
    ],
    "sha256": "e5f9ea8fd3e51718e6e282c036536bec403fca4c4a1458e3fa62fdd20b1700b1"
+  },
+  "zzq2003-depth-006.json": {
+   "acts": [
+    "gl-chapter-0105",
+    "gl-chapter-0111e",
+    "gl-chapter-0122",
+    "gl-chapter-0172",
+    "gl-chapter-0174a",
+    "gl-chapter-0280"
+   ],
+   "sha256": "d27b4f29a5d7d526819c57095111c5e1e55d3299d52464551769e30af7da44a2"
   }
  },
  "schema": 1

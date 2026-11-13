@@ -285,6 +285,12 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0151d/` | General Laws, Chapter 151D: HEALTH, WELFARE AND RETIREMENT FUNDS | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0203/` | General Laws, Chapter 203: TRUSTS | 13 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0203b/` | General Laws, Chapter 203B: UNIFORM CUSTODIAL TRUST ACT | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0280/` | General Laws, Chapter 280: FINES AND FORFEITURES | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0111e/` | General Laws, Chapter 111E: DRUG REHABILITATION | 20 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0122/` | General Laws, Chapter 122: TEWKSBURY HOSPITAL | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0172/` | General Laws, Chapter 172: TRUST COMPANIES | 17 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0174a/` | General Laws, Chapter 174A: REGULATION OF RATES FOR FIRE, MARINE AND INLAND MARINE INSURANCE, AND RATING ORGANIZATIONS | 20 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0105/` | General Laws, Chapter 105: PUBLIC WAREHOUSES | 19 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
