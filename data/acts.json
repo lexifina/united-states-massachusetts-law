@@ -9470,6 +9470,27 @@
    "images_source": 0,
    "images_complete": true,
    "complete": false
+  },
+  {
+   "slug": "gl-chapter-0015c",
+   "path": "gl-chapter-0015c",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 15C: MASSACHUSETTS COLLEGE STUDENT LOAN AUTHORITY",
+   "short": "M.G.L. c. 15C",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15C",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
   }
  ]
 }
