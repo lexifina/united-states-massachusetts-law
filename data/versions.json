@@ -8628,6 +8628,91 @@
      "sha256": "47557c4e73aaf6521c1fda0b3aebac66026352bb58d84b4b274b1e6c8dbbfb96"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0176h",
+   "short": "M.G.L. c. 176H",
+   "title": "General Laws, Chapter 176H: LEGAL SERVICES PLANS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176H",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176H",
+     "sha256": "f1a79eb98ce56c440b929620c7a7cf6f2ed3e6b08b0ffcc505242aab00564aea"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0118",
+   "short": "M.G.L. c. 118",
+   "title": "General Laws, Chapter 118: AID TO FAMILIES WITH DEPENDENT CHILDREN",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVII/Chapter118",
+     "sha256": "4014266b89f421fe2a4fb146af5afa91cbb5ac337ae11bb2723fe186b73d0565"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0175a",
+   "short": "M.G.L. c. 175A",
+   "title": "General Laws, Chapter 175A: REGULATION OF RATES FOR CERTAIN CASUALTY INSURANCE, INCLUDING FIDELITY, SURETY AND GUARANTY BONDS, AND FOR ALL OTHER FORMS OF MOTOR VEHICLE INSURANCE, AND REGULATION OF RATING ORGANIZATIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 24,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter175A",
+     "sha256": "3c0d41cabb6b6bdce8127b78c098d19527503960c9bf0fc353d6d5cd5dfdd8c5"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0167d",
+   "short": "M.G.L. c. 167D",
+   "title": "General Laws, Chapter 167D: DEPOSITS AND ACCOUNTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167D",
+     "sha256": "b0d3c84aa8b22267437eb77a36446fd4753e8ee75d067b588f710e207e18719c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0214",
+   "short": "M.G.L. c. 214",
+   "title": "General Laws, Chapter 214: EQUITY JURISDICTION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter214",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 28,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter214",
+     "sha256": "f1bd1c46d97efd9903bfa92c4caa2d6d1baff689ffb5c79803a9edb6d213190c"
+    }
+   ]
   }
  ]
 }
