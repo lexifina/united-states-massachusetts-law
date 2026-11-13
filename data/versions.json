@@ -8067,6 +8067,210 @@
      "sha256": "6acd203d35ed5cdfe6ae247d78d9423231597be965805dde97d8709ff827bb77"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0176w",
+   "short": "M.G.L. c. 176W",
+   "title": "General Laws, Chapter 176W: CORPORATE GOVERNANCE ANNUAL DISCLOSURE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176W",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176W",
+     "sha256": "93bceb07bae7a220c0a1aa71a0fc8c84bbd9a89658d432c63bc2515aec98588c"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0184a",
+   "short": "M.G.L. c. 184A",
+   "title": "General Laws, Chapter 184A: STATUTORY RULE AGAINST PERPETUITIES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter184A",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter184A",
+     "sha256": "cb27520571630b0a2a112cc11d56e1650020b2a1202b6836bf3e0a879a4fabb5"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0200b",
+   "short": "M.G.L. c. 200B",
+   "title": "General Laws, Chapter 200B: DISPOSITION OF MUSEUM PROPERTY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter200B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter200B",
+     "sha256": "d4421e4138e40e93b7191fe53d5a33818e27e860391ab441fbfa6fc45c6f2594"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0153",
+   "short": "M.G.L. c. 153",
+   "title": "General Laws, Chapter 153: LIABILITY OF EMPLOYERS TO EMPLOYEES FOR INJURIES NOT RESULTING IN DEATH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter153",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter153",
+     "sha256": "3e282ffdea786cb3a3ea33cb03a707a3510548cf5fb36ec9bac4d7079c2ff9e7"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0167g",
+   "short": "M.G.L. c. 167G",
+   "title": "General Laws, Chapter 167G: TRUST DEPARTMENT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167G",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167G",
+     "sha256": "1f66abeb22e6f0adf161e6bbc6f2c2dbbc1949fe6f860dff2593398f36cd8782"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176u",
+   "short": "M.G.L. c. 176U",
+   "title": "General Laws, Chapter 176U: LONG&ndash;TERM CARE INSURANCE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176U",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176U",
+     "sha256": "66bcf6fe91ffbd2dc21cf196d686c5251f39c452ff5ed9f86099599e6bc5b6bd"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0176v",
+   "short": "M.G.L. c. 176V",
+   "title": "General Laws, Chapter 176V: OWN RISK AND SOLVENCY ASSESSMENT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176V",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter176V",
+     "sha256": "08733d726a705f46b669675977cf080fcdfa1dc804a48fad619c6381c8c795cc"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0256",
+   "short": "M.G.L. c. 256",
+   "title": "General Laws, Chapter 256: RECOGNIZANCES FOR DEBTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter256",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIV/Chapter256",
+     "sha256": "1edcdaee22b6bdfd3555495b44efb6ca317faefcf4c1dab40b0c6b5de49b7c76"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0140b",
+   "short": "M.G.L. c. 140B",
+   "title": "General Laws, Chapter 140B: CONTROL OF CERTAIN JUNKYARDS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140B",
+     "sha256": "84b7d2b2999d09897d373a11e1b21b732f3c9138b9dde7f8474bc6960df5838a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0281",
+   "short": "M.G.L. c. 281",
+   "title": "General Laws, Chapter 281: THE GENERAL LAWS AND THEIR EFFECT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartV/TitleI/Chapter281",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartV/TitleI/Chapter281",
+     "sha256": "4c6f1467babdc3d379fcdacec4327c4602195202ea6a9c4a1148952007336bd1"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0221b",
+   "short": "M.G.L. c. 221B",
+   "title": "General Laws, Chapter 221B: CHILD SUPPORT HEARING OFFICERS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter221B",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter221B",
+     "sha256": "cbbabba097ce629778c42843a260217577db9432e6681f904047b43c11e8d391"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0150f",
+   "short": "M.G.L. c. 150F",
+   "title": "General Laws, Chapter 150F: TRANSPORTATION NETWORK DRIVERS UNIONIZATION AND COLLECTIVE BARGAINING",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150F",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter150F",
+     "sha256": "ff2984f8a75946440018dc4153d736a644aa6004a11b884a6b9c35192b802ae2"
+    }
+   ]
   }
  ]
 }

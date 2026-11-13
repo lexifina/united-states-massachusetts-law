@@ -2504,6 +2504,23 @@
     "gl-chapter-0250"
    ],
    "sha256": "0c0ec811dc8efccfc3414b1bbffa6643cc1a28f97198221f914d0821beaf90be"
+  },
+  "zzq2003-depth-003.json": {
+   "acts": [
+    "gl-chapter-0140b",
+    "gl-chapter-0150f",
+    "gl-chapter-0153",
+    "gl-chapter-0167g",
+    "gl-chapter-0176u",
+    "gl-chapter-0176v",
+    "gl-chapter-0176w",
+    "gl-chapter-0184a",
+    "gl-chapter-0200b",
+    "gl-chapter-0221b",
+    "gl-chapter-0256",
+    "gl-chapter-0281"
+   ],
+   "sha256": "51e52b0594088c8535382fc88d1be024a207b92395e8b6b93f1dea1d59ffcda6"
   }
  },
  "schema": 1

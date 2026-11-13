@@ -258,6 +258,18 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0144/` | General Laws, Chapter 144: TENEMENT HOUSES IN CITIES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0150b/` | General Laws, Chapter 150B: PEACEFUL SETTLEMENT OF INDUSTRIAL DISPUTES DANGEROUS TO PUBLIC HEALTH AND SAFETY | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0161c/` | General Laws, Chapter 161C: RAIL TRANSPORTATION IN THE COMMONWEALTH | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176w/` | General Laws, Chapter 176W: CORPORATE GOVERNANCE ANNUAL DISCLOSURE | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0184a/` | General Laws, Chapter 184A: STATUTORY RULE AGAINST PERPETUITIES | 7 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0200b/` | General Laws, Chapter 200B: DISPOSITION OF MUSEUM PROPERTY | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0153/` | General Laws, Chapter 153: LIABILITY OF EMPLOYERS TO EMPLOYEES FOR INJURIES NOT RESULTING IN DEATH | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0167g/` | General Laws, Chapter 167G: TRUST DEPARTMENT | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176u/` | General Laws, Chapter 176U: LONG&ndash;TERM CARE INSURANCE | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176v/` | General Laws, Chapter 176V: OWN RISK AND SOLVENCY ASSESSMENT | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0256/` | General Laws, Chapter 256: RECOGNIZANCES FOR DEBTS | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0140b/` | General Laws, Chapter 140B: CONTROL OF CERTAIN JUNKYARDS | 10 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0281/` | General Laws, Chapter 281: THE GENERAL LAWS AND THEIR EFFECT | 10 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0221b/` | General Laws, Chapter 221B: CHILD SUPPORT HEARING OFFICERS | 11 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0150f/` | General Laws, Chapter 150F: TRANSPORTATION NETWORK DRIVERS UNIONIZATION AND COLLECTIVE BARGAINING | 12 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
