@@ -7659,6 +7659,57 @@
      "sha256": "ae085034ca124d1192e419b3d4647bdfd2093fae9b3560443854d93db97dc7fc"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0073",
+   "short": "M.G.L. c. 73",
+   "title": "General Laws, Chapter 73: STATE COLLEGES AND COMMUNITY COLLEGES",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter73",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 32,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXII/Chapter73",
+     "sha256": "6c3c3fc1c3d9017437415d823ca1958f12b08f15a97c9bb5ccc2be9fe1675429"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0015c",
+   "short": "M.G.L. c. 15C",
+   "title": "General Laws, Chapter 15C: MASSACHUSETTS COLLEGE STUDENT LOAN AUTHORITY",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15C",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 36,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter15C",
+     "sha256": "975a914a1ad164250a7eea8c6eef6c3d492afc4a5de71267208c7f306849a03a"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0083",
+   "short": "M.G.L. c. 83",
+   "title": "General Laws, Chapter 83: SEWERS, DRAINS AND SIDEWALKS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter83",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 49,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter83",
+     "sha256": "21ec236c4791f220a0946ce0cd3c28da9fefc871e9d75a4038bcf5d72a0a2905"
+    }
+   ]
   }
  ]
 }

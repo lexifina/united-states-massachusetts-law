@@ -2455,6 +2455,24 @@
     "gl-chapter-0040d"
    ],
    "sha256": "f03566f6c90fbc49d1a08e3348f0255cea7ddddc967392e59e46175e690d4fa5"
+  },
+  "zzq1988-depth-a.json": {
+   "acts": [
+    "gl-chapter-0073"
+   ],
+   "sha256": "db235c4a412087cf0b6bad2627b87f004027c4a2859abf0e0f3964587fdda95c"
+  },
+  "zzq1988-depth-b.json": {
+   "acts": [
+    "gl-chapter-0015c"
+   ],
+   "sha256": "55b23ab3a6e823f90b6e6a0464ec6b9573d8834513bb97d5759dad13e4b2a328"
+  },
+  "zzq1988-depth-c.json": {
+   "acts": [
+    "gl-chapter-0083"
+   ],
+   "sha256": "c72bd5a4bfa27be8e5ed3021b96b3a62d4480dbecd8b35bb87f7a6a7b616170d"
   }
  },
  "schema": 1
