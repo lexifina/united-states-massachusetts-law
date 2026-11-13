@@ -1,0 +1,16 @@
+{
+ "parts": {
+  "zzq1916-depth-a.json": {
+   "acts": [
+    "gl-chapter-0021k",
+    "gl-chapter-0025c",
+    "gl-chapter-0040o",
+    "gl-chapter-0043e",
+    "gl-chapter-0068a",
+    "gl-chapter-0099"
+   ],
+   "sha256": "cb3db5f88192cc8ca321282978cf963589ad5b1a438902b492c76b0689e2d3e3"
+  }
+ },
+ "schema": 1
+}
