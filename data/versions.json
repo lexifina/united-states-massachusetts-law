@@ -8781,6 +8781,57 @@
      "sha256": "804db0286d8a6c229ac7f428cd9753d37b83f65a9dad8a6254eb40922cb96c45"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0261",
+   "short": "M.G.L. c. 261",
+   "title": "General Laws, Chapter 261: COSTS IN CIVIL ACTIONS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleVI/Chapter261",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 37,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleVI/Chapter261",
+     "sha256": "1d4472562eca317eaba7a9cf6ade15d3d566c7be6904edaa5bd92406740295b4"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0126",
+   "short": "M.G.L. c. 126",
+   "title": "General Laws, Chapter 126: JAILS, HOUSES OF CORRECTION AND REFORMATION, AND COUNTY INDUSTRIAL FARMS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVIII/Chapter126",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 38,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVIII/Chapter126",
+     "sha256": "917b28c0b970a9139fc616f5fe2fac274c97d1e66995a14ceb6b1d42af4d1d60"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0179",
+   "short": "M.G.L. c. 179",
+   "title": "General Laws, Chapter 179: PROPRIETORS OF WHARVES, REAL ESTATE LYING IN COMMON, AND GENERAL FIELDS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter179",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 40,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter179",
+     "sha256": "e4e91ac8b82d478eef8ef25215c076a867d3f76ffab5453148a7bd616e59fec5"
+    }
+   ]
   }
  ]
 }
