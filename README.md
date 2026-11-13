@@ -285,6 +285,10 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0172/` | General Laws, Chapter 172: TRUST COMPANIES | 17 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0174a/` | General Laws, Chapter 174A: REGULATION OF RATES FOR FIRE, MARINE AND INLAND MARINE INSURANCE, AND RATING ORGANIZATIONS | 20 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0176h/` | General Laws, Chapter 176H: LEGAL SERVICES PLANS | 21 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0167d/` | General Laws, Chapter 167D: DEPOSITS AND ACCOUNTS | 23 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0203d/` | General Laws, Chapter 203D: PRINCIPAL AND INCOME | 30 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0204/` | General Laws, Chapter 204: GENERAL PROVISIONS RELATIVE TO SALES, MORTGAGES, RELEASES, COMPROMISES, ETC., BY EXECUTORS, ETC. | 30 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0214/` | General Laws, Chapter 214: EQUITY JURISDICTION | 28 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 

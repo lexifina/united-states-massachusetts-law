@@ -8526,6 +8526,74 @@
      "sha256": "085f786854265f1b14c4758f633e6e6419c2a49e0003769161f78358ce6ea5c5"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0167d",
+   "short": "M.G.L. c. 167D",
+   "title": "General Laws, Chapter 167D: DEPOSITS AND ACCOUNTS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter167D",
+     "sha256": "2e03c4910116db603a21032106487e563bed13b476c525efc89bf40c6c2fcb65"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0203d",
+   "short": "M.G.L. c. 203D",
+   "title": "General Laws, Chapter 203D: PRINCIPAL AND INCOME",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter203D",
+     "sha256": "f2b7b684c60b17dbbae919e90cc09c8d7c6d537f0eee2e3ff3209008b9c87bf9"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0204",
+   "short": "M.G.L. c. 204",
+   "title": "General Laws, Chapter 204: GENERAL PROVISIONS RELATIVE TO SALES, MORTGAGES, RELEASES, COMPROMISES, ETC., BY EXECUTORS, ETC.",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter204",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 30,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter204",
+     "sha256": "030f877e40a5975c3b917f664e51eca2a0d3b8ef6977d69aa34ba44c0a45c7b3"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0214",
+   "short": "M.G.L. c. 214",
+   "title": "General Laws, Chapter 214: EQUITY JURISDICTION",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter214",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 28,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleI/Chapter214",
+     "sha256": "7ae5262c8c31e95a900741acce641b92edda0e6a866b14c372536ae95ab8a7f4"
+    }
+   ]
   }
  ]
 }
