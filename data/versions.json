@@ -1,0 +1,56 @@
+{
+ "country": "MA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Mass. Const.",
+   "title": "Constitution of the Commonwealth of Massachusetts",
+   "url": "https://malegislature.gov/Laws/Constitution",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 229,
+     "source_url": "https://malegislature.gov/Laws/Constitution",
+     "sha256": "0da92e89babf377bedab6d03a98fbfed23756164d28cc417c836750a3db147be"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0023m",
+   "short": "M.G.L. c. 23M",
+   "title": "General Laws, Chapter 23M: Commercial property assessed clean energy",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23M",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23M",
+     "sha256": "34fb5257a9419cf333a29ad7c8953d890750b46bd1fdcf8b4a2ea02b1480b975"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0094e",
+   "short": "M.G.L. c. 94E",
+   "title": "General Laws, Chapter 94E: Provisions concerning certain tobacco manufacturers",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94E",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter94E",
+     "sha256": "452a0e6f5a4e057ddd9f566be71ce69cccbb47018602490271ed70b9b34150ba"
+    }
+   ]
+  }
+ ]
+}
