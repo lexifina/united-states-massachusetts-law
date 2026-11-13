@@ -9050,6 +9050,27 @@
    "images_source": 0,
    "images_complete": true,
    "complete": false
+  },
+  {
+   "slug": "gl-chapter-0003",
+   "path": "gl-chapter-0003",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 3: THE GENERAL COURT",
+   "short": "M.G.L. c. 3",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter3",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
   }
  ]
 }

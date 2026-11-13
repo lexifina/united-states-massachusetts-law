@@ -7336,6 +7336,23 @@
      "sha256": "691325e182f9052153b57c79e9f5ccbd0586036c8387a7cc990d4bfd8f22df00"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0003",
+   "short": "M.G.L. c. 3",
+   "title": "General Laws, Chapter 3: THE GENERAL COURT",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter3",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 83,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleI/Chapter3",
+     "sha256": "ff1319032873709d5b23c579a4d83bc1380ceada4647a5f8cef5ec36fb5cbfb4"
+    }
+   ]
   }
  ]
 }
