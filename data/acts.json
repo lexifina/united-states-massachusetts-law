@@ -11066,6 +11066,48 @@
    "images_source": 0,
    "images_complete": true,
    "complete": false
+  },
+  {
+   "slug": "gl-chapter-0056",
+   "path": "gl-chapter-0056",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 56: VIOLATIONS OF ELECTION LAWS",
+   "short": "M.G.L. c. 56",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter56",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
+  },
+  {
+   "slug": "gl-chapter-0098",
+   "path": "gl-chapter-0098",
+   "id": null,
+   "eli": null,
+   "title": "General Laws, Chapter 98: WEIGHTS AND MEASURES",
+   "short": "M.G.L. c. 98",
+   "law_kind": "other",
+   "enacted": null,
+   "published": null,
+   "in_force": null,
+   "repealed": null,
+   "repealed_by": null,
+   "status": "as captured",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter98",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
   }
  ]
 }
