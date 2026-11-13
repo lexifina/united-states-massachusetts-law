@@ -7591,6 +7591,74 @@
      "sha256": "cadc3cd1e96af2d6adbe8883f918b50822243e5ad1c402105bc99f86d76f9d2e"
     }
    ]
+  },
+  {
+   "slug": "gl-chapter-0040d",
+   "short": "M.G.L. c. 40D",
+   "title": "General Laws, Chapter 40D: INDUSTRIAL DEVELOPMENT OF CITIES AND TOWNS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40D",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40D",
+     "sha256": "fe6cb1b1ee88e83172fd2c39628ef4644134029d6aa48dee295383e58a4bbf50"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0037",
+   "short": "M.G.L. c. 37",
+   "title": "General Laws, Chapter 37: SHERIFFS",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter37",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 24,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVI/Chapter37",
+     "sha256": "0b0ea911b0d98498b9a78fc2ba7ad53d41a0671f4718f55c3c49571b29e07005"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0017",
+   "short": "M.G.L. c. 17",
+   "title": "General Laws, Chapter 17: DEPARTMENT OF PUBLIC HEALTH",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter17",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 28,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter17",
+     "sha256": "d7615568ee2c7afe1f0441e7916604b64365114c00da53bb89f17cb64388e64f"
+    }
+   ]
+  },
+  {
+   "slug": "gl-chapter-0008",
+   "short": "M.G.L. c. 8",
+   "title": "General Laws, Chapter 8: STATE SUPERINTENDENT OF BUILDINGS, AND STATE HOUSE",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter8",
+   "versions": [
+    {
+     "from": "2026-11-13",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 28,
+     "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter8",
+     "sha256": "ae085034ca124d1192e419b3d4647bdfd2093fae9b3560443854d93db97dc7fc"
+    }
+   ]
   }
  ]
 }

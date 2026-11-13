@@ -1,10 +1,10 @@
 {
- "path": "united-states-massachusetts/national",
- "code": "MA",
- "name": "Massachusetts",
- "level": "national",
- "repo": "https://github.com/lexifina/united-states-massachusetts-law",
- "build": "built: Constitution of the Commonwealth of Massachusetts with its 121 articles of amendment (one version, dated by the 2026-10-15 Common Crawl capture of the General Court's page); plus General Laws chapters 1, 2, 4, 6C, 6D, 6E, 7, 7A, 7B, 7C, 7D, 9A, 11, 12, 12A, 12C, 15, 15D, 15E, 18A, 19, 19B, 19C, 19D, 21A, 21C, 21D, 21E, 21G, 21H, 21I, 21J, 21M, 21N, 21O, 22, 22C, 22D, 22E, 23A, 23B, 23G, 23K, 25, 25A, 27, 29, 29C, 30, 30A, 30B, 32B, 33, 33A, 34B, 38, 39, 40A, 40C, 40H, 40N, 40P, 40Q, 40R, 40S, 40T, 40U, 40V, 43C, 44, 44A, 44B, 45, 46, 49, 50, 51, 52, 55, 57, 58A, 60, 60B, 61, 61A, 61B, 62B, 62C, 62D, 62E, 62F, 64A, 64C, 64D, 64E, 64F, 64G, 64H, 64I, 64J, 64L, 64N, 65C, 66, 66A, 68, 69, 70, 71A, 72, 76, 78, 79, 79A, 80, 80A, 81, 82, 82A, 84, 85, 86, 87, 89, 90B, 90C, 90E, 90F, 91, 92, 93A, 93B, 93D, 93H, 93I, 93K, 93L, 94, 94A, 94B, 94C, 94D, 94F, 94G, 94H, 94I, 100, 100A, 101, 102, 103, 105A, 108A, 109, 109A, 110, 110A, 110F, 110G, 110H, 111, 111B, 111D, 111F, 111G, 111H, 111J, 111L, 111M, 111N, 111O, 113A, 114, 115A, 117A, 118A, 118I, 119, 119A, 120, 121A, 121B, 121C, 121D, 121F, 123, 123A, 123B, 125, 183, 186, 207, 208, 231, 265, 266 (one version each, from web captures); General Laws chapters 21K, 25C, 40O, 43E, 68A, 99 (current text retrieved 2026-11-11)",
- "register_date": "2026-10-30",
- "parent": "united-states-massachusetts"
+  "path": "united-states-massachusetts/national",
+  "code": "MA",
+  "name": "Massachusetts",
+  "level": "national",
+  "repo": "https://github.com/lexifina/united-states-massachusetts-law",
+  "build": "built: Constitution of the Commonwealth of Massachusetts with its 121 articles of amendment (one version, dated by the 2026-10-15 Common Crawl capture of the General Court's page); plus General Laws chapters 1, 2, 4, 6C, 6D, 6E, 7, 7A, 7B, 7C, 7D, 9A, 11, 12, 12A, 12C, 15, 15D, 15E, 18A, 19, 19B, 19C, 19D, 21A, 21C, 21D, 21E, 21G, 21H, 21I, 21J, 21M, 21N, 21O, 22, 22C, 22D, 22E, 23A, 23B, 23G, 23K, 25, 25A, 27, 29, 29C, 30, 30A, 30B, 32B, 33, 33A, 34B, 38, 39, 40A, 40C, 40H, 40N, 40P, 40Q, 40R, 40S, 40T, 40U, 40V, 43C, 44, 44A, 44B, 45, 46, 49, 50, 51, 52, 55, 57, 58A, 60, 60B, 61, 61A, 61B, 62B, 62C, 62D, 62E, 62F, 64A, 64C, 64D, 64E, 64F, 64G, 64H, 64I, 64J, 64L, 64N, 65C, 66, 66A, 68, 69, 70, 71A, 72, 76, 78, 79, 79A, 80, 80A, 81, 82, 82A, 84, 85, 86, 87, 89, 90B, 90C, 90E, 90F, 91, 92, 93A, 93B, 93D, 93H, 93I, 93K, 93L, 94, 94A, 94B, 94C, 94D, 94F, 94G, 94H, 94I, 100, 100A, 101, 102, 103, 105A, 108A, 109, 109A, 110, 110A, 110F, 110G, 110H, 111, 111B, 111D, 111F, 111G, 111H, 111J, 111L, 111M, 111N, 111O, 113A, 114, 115A, 117A, 118A, 118I, 119, 119A, 120, 121A, 121B, 121C, 121D, 121F, 123, 123A, 123B, 125, 183, 186, 207, 208, 231, 265, 266 (one version each, from web captures); General Laws chapters 21K, 25C, 40O, 43E, 68A, 99 (current text retrieved 2026-11-11); new current-text chapters 8, 16, 17, 18C, 21B, 23E, 34A, 37, 40D, 40G, 40M, 42, 43D, 63B, 88, 92B, 93E (official text retrieved 2026-11-13)",
+  "register_date": "2026-10-30",
+  "parent": "united-states-massachusetts"
 }
