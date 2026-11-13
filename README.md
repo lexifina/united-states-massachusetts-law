@@ -251,6 +251,21 @@ The Constitution of the Commonwealth of Massachusetts and chapters of the Genera
 | `gl-chapter-0176u/` | General Laws, Chapter 176U: LONG&ndash;TERM CARE INSURANCE | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0176v/` | General Laws, Chapter 176V: OWN RISK AND SOLVENCY ASSESSMENT | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 | `gl-chapter-0176w/` | General Laws, Chapter 176W: CORPORATE GOVERNANCE ANNUAL DISCLOSURE | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0176y/` | General Laws, Chapter 176Y: LICENSING AND REGULATION OF PHARMACY BENEFIT MANAGERS | 4 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0184b/` | General Laws, Chapter 184B: SHORT FORM TERMS FOR WILLS AND TRUSTS | 4 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0191/` | General Laws, Chapter 191: WILLS | 3 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0196a/` | General Laws, Chapter 196A: REGISTRATION OF SECURITIES OF DECEASED | 1 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0198/` | General Laws, Chapter 198: INSOLVENT ESTATES OF DECEASED PERSONS | 4 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0199/` | General Laws, Chapter 199: SETTLEMENT OF ESTATES OF DECEASED NON&ndash;RESIDENTS | 5 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0200b/` | General Laws, Chapter 200B: DISPOSITION OF MUSEUM PROPERTY | 8 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0203a/` | General Laws, Chapter 203A: UNIFORM COMMON TRUST FUND ACT | 7 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0221b/` | General Laws, Chapter 221B: CHILD SUPPORT HEARING OFFICERS | 11 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0232a/` | General Laws, Chapter 232A: TENDER | 3 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0243/` | General Laws, Chapter 243: ACTIONS FOR PRIVATE NUISANCES | 6 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0250/` | General Laws, Chapter 250: WRITS OF ERROR, VACATING JUDGMENT, WRITS OF REVIEW | 2 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0256/` | General Laws, Chapter 256: RECOGNIZANCES FOR DEBTS | 9 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0258f/` | General Laws, Chapter 258F: CERTIFICATION FOR VICTIMS OF VIOLENT CRIME AND HUMAN TRAFFICKING | 4 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
+| `gl-chapter-0282/` | General Laws, Chapter 282: EXPRESS REPEAL OF CERTAIN ACTS AND RESOLVES | 1 | One current online version retrieved 2026-11-13; the official pages give no current-text date |
 
 That is all the law this repository holds today. This is a first build: most chapters of the General Laws, the session laws and regulations are not in it, and it has no amendment history yet.
 
