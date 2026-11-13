@@ -1,0 +1,12 @@
+{
+ "parts": {
+  "zzq1903-salvage.json": {
+   "acts": [
+    "gl-chapter-0023m",
+    "gl-chapter-0094e"
+   ],
+   "sha256": "9c1affe540af209e928cc4999bcb174a7f563ee6aca6806a35939752ecb5d29e"
+  }
+ },
+ "schema": 1
+}

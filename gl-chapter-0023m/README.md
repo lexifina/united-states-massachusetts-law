@@ -1,0 +1,9 @@
+# General Laws, Chapter 23M: Commercial property assessed clean energy
+
+M.G.L. c. 23M · 1 versions, from 2026-11-11 (latest in force: 2026-11-11) · <https://malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter23M>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| M.G.L. c. 23M, § 1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| M.G.L. c. 23M, § 2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| M.G.L. c. 23M, § 3 | [sec-0003.md](sec-0003.md) | 0 |  |
